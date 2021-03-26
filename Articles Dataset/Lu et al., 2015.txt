@@ -1,0 +1,1508 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/277970481
+
+Goodbye Maps, Hello Apps? Exploring the Inﬂuential Determinants of Travel
+App Adoption
+Article in Current Issues in Tourism · May 2015
+DOI: 10.1080/13683500.2015.1043248
+
+CITATIONS
+
+READS
+
+73
+
+1,843
+
+4 authors, including:
+Jiaying Lu
+
+Zhenxing Mao
+
+Zhejiang University
+
+California State Polytechnic University, Pomona
+
+20 PUBLICATIONS 653 CITATIONS
+
+35 PUBLICATIONS 794 CITATIONS
+
+SEE PROFILE
+
+SEE PROFILE
+
+Liang Hu
+Zhejiang University
+55 PUBLICATIONS 3,990 CITATIONS
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects:
+
+cruise tourism View project
+
+Call for paper for a special issue on "Spatial Economics and Tourism Development" in Tourism Economics View project
+
+All content following this page was uploaded by Zhenxing Mao on 25 January 2018.
+The user has requested enhancement of the downloaded file.
+
+Current Issues in Tourism
+
+ISSN: 1368-3500 (Print) 1747-7603 (Online) Journal homepage: http://www.tandfonline.com/loi/rcit20
+
+Goodbye maps, hello apps? Exploring the
+influential determinants of travel app adoption
+Jiaying Lu, Zhenxing Mao, Mengbin Wang & Liang Hu
+To cite this article: Jiaying Lu, Zhenxing Mao, Mengbin Wang & Liang Hu (2015) Goodbye maps,
+hello apps? Exploring the influential determinants of travel app adoption, Current Issues in
+Tourism, 18:11, 1059-1079, DOI: 10.1080/13683500.2015.1043248
+To link to this article: http://dx.doi.org/10.1080/13683500.2015.1043248
+
+Published online: 14 May 2015.
+
+Submit your article to this journal
+
+Article views: 85
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=rcit20
+Download by: [Zhejiang University]
+
+Date: 20 September 2015, At: 20:10
+
+Current Issues in Tourism, 2015
+Vol. 18, No. 11, 1059– 1079, http://dx.doi.org/10.1080/13683500.2015.1043248
+
+Goodbye maps, hello apps? Exploring the inﬂuential determinants of
+travel app adoption
+Jiaying Lua, Zhenxing Maob, Mengbin Wanga and Liang Huc
+
+∗
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+a
+
+Department of Tourism Management, School of Management, Zhejiang University, 310028
+Hangzhou, People’s Republic of China; bThe Collins College of Hospitality Management,
+California State Polytechnic University, Pomona, 3801 W. Temple Ave. Pomona, CA 91768, USA;
+c
+College of Education, Zhejiang University, 310058 Hangzhou, People’s Republic of China
+(Received 3 January 2015; accepted 16 April 2015)
+With the increased market penetration of smartphones and the emergence of high-speed
+wireless network technologies, the tourism industry’s interest in using mobile
+applications as a means to enhance the tourist experience is rising. However, despite
+the growing number of companies and organizations that are investing in travelrelated apps, there is limited academic research on consumers’ intentions to adopt
+these technological innovations. In this study, the technology adoption model,
+innovation diffusion theory, and social cognitive theory are utilized to investigate the
+factors that could affect travel app adoption by tourists visiting rural tourism sites in
+China. The results show that perceived usefulness, perceived ease of use, and
+compatibility are signiﬁcant antecedents of the intention to use travel apps. Further,
+self-efﬁcacy indirectly inﬂuences the intention to use travel apps through the
+mediation of outcome expectations. The results do not support social norms as
+signiﬁcant predictors of behavioural intention. A discussion and implications are also
+provided.
+Keywords: mobile applications; behavioural intention; travel experience; rural tourism
+
+Introduction
+The uptake of mobile applications (apps), driven by the increasing use of mobile devices
+(i.e. smartphones and tablets), is generating unprecedented changes in the operation of
+the travel industry and in how people travel. Travel apps refer to mobile apps that are
+speciﬁcally targeted at travellers (e.g. Airbnb, Tripadvisor, Skyscanner) as well as those
+used in a typical travel context (e.g. Google map, Imoney, Instagram). The increased
+variety of travel apps has empowered individuals to access information, make purchases,
+and share their experiences anytime and anywhere (Kennedy-Eden & Gretzel, 2012;
+Pedrana, 2013). Travel apps have contributed to generating ‘big data’ databases that encompass information related to tourism destinations, business transactions, and tourist behaviours, which can signiﬁcantly improve the management capability of the tourism
+industry (Wang, Li, & Li, 2013). Tourism operators are also responding by building
+relationships with tourists via travel apps to create more memorable and interactive experiences (Samy, 2012). Despite the promising capacities of travel apps, their adoption is still in
+the early stages. According to Trip Advisor, although 60% of travellers have downloaded
+∗
+
+Corresponding author. Email: lianghu@zju.edu.cn
+
+# 2015 Taylor & Francis
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+1060
+
+J. Lu et al.
+
+travel apps, only 45% of them used the apps for their travel decision-making (Mickaiel,
+2011). With increasing numbers of companies and organizations investing in travelrelated apps, consumer acceptance and conﬁdence are becoming vital for ensuring a
+better return on investment and increasing the chances of the successful implementation
+of the new technology.
+To date, there is a dearth of research regarding the adoption of travel apps, although a
+number of studies have investigated the adoption of tourism-related electronic commerce
+via PC websites (Ayeh, Au, & Law, 2013; Kim, Park, & Morrison, 2008; San Martı́n &
+Herrero, 2012). Consumer adoption of mobile apps differs from traditional websites in a
+number of ways. First, the cost of using apps is higher than that of using websites. Customers must search in restricted app stores, install the app and wait for it to download, and
+sometimes pay for it. Only apps that are truly valuable to consumers and meet their expectations can create initial download and recurring usage patterns (Dickinson et al., 2014;
+Localytics, 2014). Therefore, using apps requires a high level of consumer commitment.
+Second, consumers tend to have more personal connections with their apps than they do
+with websites in that they often personalize their mobile devices with different applications.
+Apps also extend the beneﬁts of the related websites by allowing for unique services
+enabled by mobile technology to create highly interactive user experiences (Yu, 2013).
+Third, smartphones with numerous built-in features (e.g. high-quality camera lenses,
+mobile apps, sensors, and projectors) are considered to be more innovative personal computing devices than PCs (Extremetech, 2014). Although the purported beneﬁts of technological innovation may be attractive, researchers and practitioners have found that users
+often express less than enthusiastic responses because of their perceived inability to use
+the technology (Ellen, Bearden, & Sharma, 1991). For this reason, whether people
+believe they possess the adequate knowledge, skills, or ability to use smartphones plays
+a vital role in inﬂuencing individual responses to mobile commerce through the use of
+apps (Mahat, Ayub, & Wong, 2012; Parasuraman, 2000). As such, these interesting characteristics of mobile app adoption merit further examination (Hopken, Fuchs, Zanker, & Beer,
+2010; Wang, Xiang, & Fesenmaier, 2014).
+To further examine this phenomenon, we extracted the factors from three closely
+related theoretical paradigms, the technology acceptance model (TAM), innovation diffusion theory (IDT), and social cognitive theory (SCT), to form our research framework.
+Many of these factors have been identiﬁed in previous studies on technology adoption
+and innovation diffusion. The TAM and IDT tend to focus on the characteristics of technology, whereas SCT is more concerned with personal and environmental variables
+(Black, Lockett, Winklhofer, & Ennew, 2001; Compeau, Higgins, & Huff, 1999; Mathieson, 1991; Szajna, 1996). By integrating relevant components from these theories, this
+study extends previous research by examining the synthesized determinants of travel
+mobile apps from the angles of both technology characteristics and users’ social cognitive
+factors.
+Moreover, our study investigates the perspective of Chinese tourists. Although smartphone penetration is booming in China, published literature examining Chinese consumers
+is scarce. By 2014, there were 527 million smartphone users in China (CNNIC, 2014), and
+more Chinese than Americans use smartphones as their primary media devices (China
+Daily, 2014). It is estimated that the total transaction value of China online travel market
+would be RMB 76.92 billion (US$12.52 billion). Majority of online travellers (77%)
+would search travel information on mobile devices which indicated there is a huge potential
+in tourism mobile commerce (China Internet Watch, 2015). More and more Chinese consumers accept booking travel services (e.g. air ticket, hotel and restaurant reservation,
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+Current Issues in Tourism
+
+1061
+
+and scenic attraction ticket) through mobile apps. Apps of China’s leading online travel
+enterprises (e.g. Ctrip, Qunar, Tongcheng, Elong, and Tuniu) are the most inﬂuential
+ones although each has a particular speciality. For instance, Ctrip specializes in business
+travel, where Qunar focuses on independent leisure travel. Tongcheng specializes in
+weekend getaways and local sightseeing tickets while Elong focused on hotels and accommodations. Beside these open-platform apps, function-based apps such as social networking apps (e.g. Wechat), restaurant apps (e.g. Dianping), map apps (e.g. Baidu), travel guide
+apps e.g. Qyer), taxi and car service apps (e.g. Didi) are also very popular among Chinese
+travellers. Thanks to technological advancements, differences in functionality, operations,
+and service variety between Chinese and western travel apps are marginal. Both function-based and platform-based Chinese travel apps can easily ﬁnd their western counterparts, such as Tripadvisor, Hipmunk, Triplt, and Instagram. However, although
+travellers’ basic needs and wants are similar, their usage behaviours may be signiﬁcantly
+affected by their cultures and social environment. Several prior studies have demonstrated
+that the process of information technology (IT) adoption varies from culture to culture.
+Harris, Rettie, and Cheung (2005) revealed usage and attitude differences of m-commerce
+services between consumers in Hong Kong and the UK. Kim, Sohn, and Choi (2011) examined the motivation for and patterns of using social network sites among college students in
+the USA and Korea. The ﬁndings suggest that Korean college students put more weight on
+social support motivation while US college students emphasize on entertainment motivation. Lee, Chung, and Jung (2015) found that compared to Ireland tourists, South
+Korean tourists displayed stronger dependence on social inﬂuence and hedonic characteristics in accepting mobile augmented reality apps. In this vein, there is a need to better
+understand country-speciﬁc factors that inﬂuence consumers’ intention to use travel
+apps. From the travel destination perspective, the Chinese government launched the
+‘Smart Tourism Destination’ initiative in 2009 and designated 2014 ‘the year of smart
+tourism’. This initiative aims to integrate and deliver travel information (tourist activities,
+tourism products, resource conditions) to tourists, enterprises, and organizations through
+end-user internet service systems supported by cloud services and an internet of things
+(Gao, 2012; Zhang, 2012). Within the last few years, numerous urban and rural areas in
+China have launched ‘smart tourism’ projects in an effort to transform the tourist experience, change destination marketing strategies, and establish destination competitiveness.
+Although the technology advancements of this initiative can be readily appreciated, its
+market implications have yet to be fully understood. Better understanding of the factors
+that affect consumers’ use of mobile apps as travel partners will help to increase the
+chances of the success of smart tourism destinations in China.
+
+Literature review
+Technology acceptance model
+The TAM is a widely used theory that aims to understand technology acceptance and user
+behaviour (Davis, 1986; Davis, Bagozzi, & Warshaw, 1989). Derived from Ajzen and Fishbein’s (1977) theory of reasoned action, the TAM was proposed speciﬁcally to explain computer usage but has since been adopted to explain technology use in various contexts such as
+consumers’ online behaviour (Kumar & Mukherjee, 2013) and mobile service usage (Lin,
+2011; Pagani, 2004). The TAM posits that user adoption is based on two key beliefs,
+namely, perceived ease of use and perceived usefulness. Perceived ease of use refers to the
+‘degree to which a person believes that using a particular system would be free of effort’
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+1062
+
+J. Lu et al.
+
+(Davis, 1989, p. 320). In contrast, perceived usefulness is related to the ‘degree to which a
+person believes that using a particular system would enhance his or her job performance’
+(Davis, 1989, p. 320). If the technology is easy to use and useful, the user will have a positive
+attitude towards it, which will in turn increase the user’s intention to use it.
+In the context of IT acceptance within the tourism industry, a small number of studies
+have examined the applicability of the TAM. Kim, Lee and Law (2008) investigated the
+acceptance behaviour of hotel front ofﬁce systems by using an extended TAM with new
+variables such as perceived value, information quality, system quality, and service
+quality. Perceived ease of use and perceived usefulness were the only variables that had
+signiﬁcant effects on actual usage. In a study on travellers’ acceptance of mobile technology, Kim et al. (2008) applied the TAM and found that perceived usefulness and perceived
+ease of use inﬂuenced the intention to use mobile devices in tourism contexts. Huh, Kim,
+and Law (2009) also investigated employees’ behavioural intentions to use hotel information systems (IS) by evaluating the extent to which dominant models, including the
+TAM, the theory of planned behaviour (TPB), and the decomposed TPB, could predict
+and explain employee acceptance decision. Their results favoured the TAM for predicting
+behavioural intentions. Ayeh et al. (2013) investigated internet users’ intentions to use consumer-generated media for travel planning with an extended TAM model. The results
+demonstrated the empirical applicability of the TAM to the context of tourist behaviour.
+Based on the above discussion regarding the TAM framework, the following hypotheses
+were proposed.
+H1. The perceived usefulness of a travel app has a signiﬁcant positive effect on the intention to
+use travel apps.
+H2. The perceived ease of use of a travel app has a signiﬁcant positive effect on the intention to
+use travel apps.
+
+Innovation diffusion theory
+IDT has been widely utilized in studies as a primary theory of innovation adoption (Rogers,
+1995). According to IDT, innovation refers to a new product, service, idea, practice, technology, structure, or system, and diffusion is the process by which an innovation is communicated through certain channels over time among the members of a social system (Rogers,
+2003). This deﬁnition of innovation can be applied to tourists’ adoption of new technologies such as travel apps. IDT provides a set of innovation characteristics that may affect
+adoption decisions (Agarwal, 2000; Rogers, 1995). These innovation attributes include
+relative advantage (the degree to which an innovation can offer an advantage over previous
+ways of performing the same task), complexity (the degree to which an innovation is difﬁcult to use and understand), compatibility (the degree to which an innovation is consistent
+with the adopter’s existing values, beliefs, experiences and needs), observability (the degree
+to which an innovation is visible to others), and trialability (the degree to which an innovation can be experimented with). Relative advantage and complexity are conceptually
+overlapped with the TAM’s perceived usefulness and perceived ease of use (reversed),
+respectively (Dillon & Morris, 1996). Among these innovation attributes, relative advantage, complexity, and compatibility have been found to be the most frequently identiﬁed
+factors for the adoption and diffusion of IT innovations (Dillon & Morris, 1996; Papies
+& Clement, 2008; Vijayasarathy, 2004). Relative advantage attracts users to adopt technology to gain a better image and better value. The extent of prior experience with similar technologies (i.e. compatibility) eases users’ nervousness about adopting new ones, and
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+Current Issues in Tourism
+
+1063
+
+previous studies have consistently found that both perceived relative advantage and compatibility have signiﬁcantly positive effects on the intention to use technologies (Carter
+& Bélanger, 2005; Chen, Park, & Putzer, 2010; Esty & Winston, 2009). However, the
+less complex the technology, the more likely an individual is to accept it. Hence, complexity
+may negatively affect the user’s intention to use the technology, as evidenced in many
+empirical studies (Hobday, 1998; Lin & Ho, 2011; Mukherjee & Hoyer, 2001).
+IDT has also been employed to investigate and explain tourism innovations (Hjalager,
+2010). Smerecnik and Andersen (2011) examined the determinants and driving forces for
+the diffusion of environmental sustainability innovations in hotels and ski resorts, and complexity was found to be most strongly associated with the adoption of sustainable innovation. Information and communication technology implementation in tourism
+organizations has been a main focus of tourism innovation diffusion. Hung, Yang, Yang,
+and Chuang (2011) examined factors that affected the adoption of online trading systems
+by travel agencies in Taiwan. Among the three innovation attributes included in their
+study (compatibility, relative advantage, and relative risk), only compatibility affected
+the adoption decision. As such, according to IDT, relative advantage, complexity, and compatibility will be used in this study. Because both relative advantages and complexity were
+captured by the TAM and presented in Hypotheses 1 and 2, only comparability was predicted in this study to be a signiﬁcant precursor to travel app adoption.
+H3. Perceived compatibility has a signiﬁcant positive effect on the intention to use travel apps.
+
+Social cognitive theory
+SCT, which stems from social learning theory, has been recognized as a comprehensive
+theoretical framework for analysing human behaviour (Bandura, 1986). According to the
+SCT, human actions are a product of triadic, dynamic, and reciprocal interactions
+between personal, behavioural, and environmental factors (Bandura, 1986). Through the
+interactions among these determinants, people demonstrate capacities that separate
+humans from other living beings, such as forethought, self-reactivity, and self-reﬂection
+(Bandura, 2001). Through the exercise of forethought, people anticipate the outcomes of
+prospective actions and select the courses of action that are likely to produce the desired
+outcomes. Self-reactivity capacity involves monitoring and regulating behaviour patterns
+by comparing with personal goals and standards. Self-reﬂection is related to people’s retrospective assessments of their capacities to exercise control over their actions through indicators of reality. Although it has remained an underutilized theory in tourism marketing
+research, SCT has been widely applied in the IS literature, with demonstrated validity
+(Chiu, Hsu, & Wang, 2006; Compeau et al., 1999; Khang, Han, & Ki, 2014; LaRose &
+Eastin, 2004; Wang & Wu, 2008). As Bandura (2001) suggested, the relative importance
+of personal, behavioural, and environmental inﬂuences vary for different activities and
+under different circumstances. Thus, examining the applicability of SCT to travel app
+usage is merited, and three core constructs from SCT are included in this study: outcome
+expectation, self-efﬁcacy, and social inﬂuence.
+Outcome expectations
+According to SCT, self-regulatory systems mediate external inﬂuences and provide a basis
+for purposeful action (Bandura, 2001). One important factor in self-regulation is people’s
+outcome expectations of an action. Outcome expectations are constructed through a
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+1064
+
+J. Lu et al.
+
+person’s forethought, which involves ‘observed conditional relations between environmental events in the world around them, and the outcomes given actions produce’
+(Bandura, 2001). People anticipate the likely consequences of their prospective actions
+and more readily adopt actions that are likely to produce their desired outcomes rather
+than actions that might bring unrewarding or negative outcomes (Bandura, 2001; Lee,
+Kim, & Kim, 2012). Compeau et al. (1999) provided conﬁrmation that outcome expectations impact individuals’ adoption of computing technology. They further divided
+outcome expectations into two categories: performance (improvements in job performance)
+and personal (changes in image or status or achieving a sense of accomplishment) and
+found that performance outcome expectations had more inﬂuence than personal outcome
+expectations. Lin and Hsu (2013) also identiﬁed the two types of outcome expectations
+when predicting green consumer behaviour. They found that personal outcome expectations
+served as positive antecedents, but performance outcome expectations did not. The
+expected outcomes maybe categorized into different types of incentives that motivate
+human behaviour (Davis, Bagozzi, & Warshaw, 1992). For instance, LaRose and Eastin
+(2004) identiﬁed ﬁve types of outcomes of internet use: social, activity, monetary, self-reactive, and status. Examining music downloading behaviour, LaRose and Kim (2006) focused
+on social, novelty-seeking, and economic outcomes and found signiﬁcant links between
+outcome expectations and behavioural intentions.
+The outcome expectations of travel apps have been explored indirectly in a number of
+studies. For instance, Dickinson et al. (2014) summarized ﬁve main capacities of travel
+apps: information, two-way sharing, context awareness, an internet of things, and
+tagging. Kennedy-Eden and Gretzel (2012) proposed seven service-based functions (navigation, social, mobile marketing, security, transaction, information, and entertainment) and
+seven customization-based functions (personal preferences, location, security, web access,
+content addition, aesthetic changes, and the same for all). These studies provide important
+insights into performance outcome expectations related to travel app adoption. However,
+little research has studied personal outcome expectations for travel app adoption. In
+addition, no studies have investigated the relationship between outcome expectations and
+the intention to use travel apps. In accordance with the theoretical proposition, individuals
+are more likely to use travel apps if they believe that doing so will result in valued outcomes
+such as economic beneﬁts, efﬁciency, prestige, or socialization. The expected outcomes
+from using travel apps might therefore be an important predictor of travel app use intentions, which give rise to the following hypotheses.
+H4: Performance outcome expectations of travel apps have a positive effect on behavioural
+intention to use travel apps.
+H5. Personal outcome expectations of travel apps have a positive effect on behavioural intention to use travel apps.
+
+Self-efﬁcacy
+As a central construct of SCT, self-efﬁcacy relates to a person’s perceived ability to perform
+a speciﬁc behaviour (Bandura, 1986). It does not emphasize an individual’s actual skills but
+instead hinges on the degree of the person’s conﬁdence in being able to complete a task
+using those skills (Shu, Tu, & Wang, 2011). As a key self-evaluative technique that
+serves as the foundation of human behavioural change, self-efﬁcacy inﬂuences people’s
+decisions on the level of effort to invest in a task and how long to persevere in the face
+of obstacles (Bandura, 2001, 2012). People with high self-efﬁcacy are more likely to
+
+Current Issues in Tourism
+
+1065
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+view difﬁcult tasks as obstacles to be mastered rather than avoided. Previous research has
+demonstrated a signiﬁcant link between self-efﬁcacy and a variety of behaviours. For
+examples, Hsu and Chiu (2004) found internet self-efﬁcacy to be a potentially important
+driver of people’s efforts to use e-services. Ratten (2013) examined computer self-efﬁcacy
+as a positive predictor of behavioural intentions towards cloud computing. The concept of
+smartphone efﬁcacy has recently been utilized in empirical studies. For instance, Okumus
+and Bilgihan (2014) revealed that smartphone self-efﬁcacy served as an immediate antecedent of the intention to use restaurant apps to order food. Chen et al. (2010) reported that
+self-efﬁcacy had a direct positive inﬂuence on the healthcare professionals’ intentions to use
+a smartphone to deliver healthcare services. Hong, Hwang, Tai, and Chen (2014) investigated the impact of smartphone self-efﬁcacy on English learning anxiety and judgement
+using an app. The results demonstrated that smartphone self-efﬁcacy was a signiﬁcant predictor. Thus, the next hypothesis is as follows.
+H6: Smartphone self-efﬁcacy has a positive effect on behavioural intention to use travel apps.
+
+SCT further notes that the outcome expectations for a particular behaviour are meaningless
+if the user feels unable to execute it successfully (Badura, 1997). That is, self-efﬁcacy
+beliefs shape people’s expected outcomes from their efforts, which in turn affect their behaviour. LaRose and Eastin (2004) found that outcome expectations served as partial
+mediators between self-efﬁcacy and internet use. In the context of knowledge system
+usage, Lin and Huang (2008) also conﬁrmed that self-efﬁcacy inﬂuenced usage not only
+directly but also indirectly through performance and personal outcome expectations. In
+accordance with SCT’s theoretical proposition, smartphone self-efﬁcacy should be a precursor to the outcome expectations of using apps. As smartphone users become more
+self-efﬁcacious, their expectations of obtaining speciﬁc outcomes from using travel apps
+also increase, which encourages the increased use of travel apps. Therefore, this study proposes the following hypotheses.
+H7: Smartphone self-efﬁcacy will lead to higher performance outcome expectations from travel
+apps.
+H8. Smartphone self-efﬁcacy will lead to higher personal outcome expectations from travel
+apps.
+
+Social norms
+According to SCT, the environment is one of the key factors that affects a person’s behaviour, and one’s social environment is a crucial component of this factor. Personal behavioural change occurs within a network of social inﬂuences, including social norms and the
+behaviour of the people in one’s immediate environment, such as parents, friends, and community members (Bandura, 1986, 1997). When technology is relatively new, individuals
+may lack sufﬁcient knowledge or information to form feelings about it (Sawang, Sun, &
+Salim, 2014). As a result, behavioural intention can be inﬂuenced greatly by the opinions
+of signiﬁcant others (Thompson, Higgins, & Howell, 1994). Social norms explain emerging
+technology adoption in various contexts to a great degree. For instance, Kleijnen, Wetzels,
+and de Ruyter (2004) reported the positive inﬂuence of social norms on mobile ﬁnance
+service adoption. Glegg et al. (2013) found that social inﬂuences were the primary facilitators for therapists’ adoption of virtual reality for brain injury rehabilitation. It should be
+noted that social norms play stronger behavioural roles in collectivistic societies such as
+
+1066
+
+J. Lu et al.
+
+China (Traﬁmow, Triandis, & Goto, 1991) than in individualistic societies. Chinese people
+tend to focus on the goals of the group to which they belong, ﬁtting in with others, and
+appreciating commonalities with others (Bagozzi, Wong, Abe, & Bergami, 2000). Collective values can inﬂuence individuals’ needs to identify with others or to enhance their image
+by conforming to others’ expectations regarding the use of travel apps. Thus, we hypothesize the following.
+H9. Social norms will lead to higher behavioural intention to use travel apps.
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+The research model
+In keeping with the preceding discussion, the purpose of this study was to identify signiﬁcant factors that affected the adoption of travel apps. Utilizing the TAM, IDT, and SCT as
+the theoretical background, we propose the research model shown in Figure 1.
+
+Methodology
+Data collection
+The data were collected using a ﬁeld intercept survey in China from March to April 2014.
+Seven rural tourism sites (Shangougou Village, Shuikou Village, Wuzhen, Meijiangwu
+Village, Qiaodao Lake, Donghaitang Village, Gaoyou Village) in Zhejiang and Jiangsu Province were selected as study sites. These sites were selected not only because they were
+representative of rural tourism sites in China (i.e. water-based, mountain-based, forestbased, home-inn cluster) but also for their convenient access by the ﬁeld research team. Systematic random sampling was employed, and the survey questionnaire was distributed to
+every ﬁfth tourist at the gate when they entered the sites. Adult tourists who used smartphones were eligible for this study. One thousand questionnaires were distributed, and
+684 questionnaires were returned originally. Through data screening, 71 responses were
+removed because of incomplete answers or missing variables, resulting in a ﬁnal sample
+of 613 participants, an effective response rate of 61.3%.
+
+Figure 1.
+
+Conceptual model of consumers’ intention to use apps for rural travelling.
+
+Current Issues in Tourism
+
+1067
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+Survey instruments
+At the beginning of the questionnaire, a deﬁnition of travel apps along with examples was
+provided to participants. We broadly deﬁned travel apps as mobile apps that serve the needs
+of travellers at different stages from pre-travel, during-travel to post-travel. Examples provided include popular travel apps in China such as Ctrip, Qunar, Tongcheng, Gaode map,
+and Dianping. The participants are adequately familiar with travel apps and most of them
+have used travel apps before. The survey items were adapted from the related literature, and
+the appendix lists the items. All of the items were measured using a ﬁve-point Likert scale,
+with the anchors being ‘strongly disagree’ and ‘strongly agree.’ The intention to use travel
+apps was measured using a three-item scale adapted from Ajzen and Fishbein (1977) and
+Bock and Kim (2002). Terms such as likely, need, and want were used to assess tourists’
+intentions to use mobile apps. The questions for the TAM and IDT constructs (i.e. perceived
+usefulness, perceived ease of use, and perceived compatibility) were taken from previously
+validated inventories (Davis et al., 1989; Moore & Benbasat, 1991) and modiﬁed to ﬁt the
+travel app context. The items that measured self-efﬁcacy were developed based on Okumus
+and Bilgihan’s (2014) smartphone self-efﬁcacy measures. We modiﬁed two items from Hsu
+and Chiu (2004) to measure social norms and found that very few studies had explicitly
+measured performance outcome expectations of travel apps that targeted rural travel. Ultimately, 22 items were developed for this construct that addressed seven main functions of
+travel apps based on the work of Kennedy-Eden and Gretzel (2012): information, navigation, safety, transactions, social, entertainment, and marketing. The measurements for personal outcome expectations were adapted from Bock and Kim’s (2002) scale, which
+includes two sub-dimensions: self-expression and self-accomplishment. We also included
+common demographic measures such as gender, age, education level, and personal
+income level. A pretest of the questionnaire with all of the construct measures was performed with 50 subjects for a pilot study. The Cronbach’s a values ranged from 0.65 to
+0.93, exceeding the commonly required acceptable reliability level for explanatory research
+(Nunnally & Bernstein, 1994). In addition, comments collected from experts led to a
+number of minor modiﬁcations to the questionnaire’s wording, and suggestions from
+reviewers were also incorporated in the revised instrument.
+
+Data analysis
+The research model was analysed by structural equation modelling using Analysis of
+Moment Structures. The data analysis utilized a two-step approach as recommended by
+Anderson and Gerbing (1988). The ﬁrst step involves the analysis of the measurement
+model and the second step tests the structural relationships among latent constructs.
+
+Results
+The demographic proﬁle of the respondents is summarized in Table 1. The participants for
+this study were 49.1% male and 50.9% female, ranging in age from 19 to 65 yrs, with a
+mean age of 36 yrs. The majority of the respondents (71%) had received an undergraduate
+degree. Nearly half of the respondents had a monthly personal income greater than RMB
+3000.
+The study constructs were tested for common factors using principal component analysis. The results shows that each construct’s Kaiser – Meyer – Olkin (KMO) value was greater
+than 0.8 (p ¼ .000), suggesting an adequate sample size for factor analysis. Items with
+
+1068
+
+J. Lu et al.
+Table 1. Demographic proﬁle of respondents.
+Variable
+
+Category
+
+N
+
+Percentage
+
+Gender
+
+Male
+Female
+18 –30
+31 –40
+41 –50
+51 –60
+.60
+Elementary
+Secondary
+Post-secondary
+Undergraduate
+Graduate
+,3000rmb
+3000–5000rmb
+5000–8000rmb
+.8000rmb
+
+293
+304
+116
+355
+94
+25
+6
+5
+39
+123
+351
+77
+317
+183
+60
+31
+
+49.1
+50.9
+19.5
+59.6
+15.8
+4.2
+1
+0.8
+6.6
+20.7
+59.0
+12.9
+53.5
+30.9
+10.1
+5.2
+
+Age
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+Education
+
+Income
+
+highly correlated error variance and items that loaded poorly onto their unique factors were
+removed. The factor analyses revealed that all of the main constructs except for performance outcome expectations were unidimensional (Table 2 and Table 3). Six factors were
+identiﬁed for performance outcome expectations: information, interaction, transactions,
+navigation, marketing, and entertainment (the safety dimension was merged with navigation). Item parcelling (sum of items) was used to create aggregate items of each factor as
+manifest variables (Little, Cunningham, & Shahar, 2002). Descriptive statistics of the
+items that remained in the measurement model are shown in Table 2.
+Conﬁrmatory factor analysis (CFA) was applied to assess the data ﬁt of the measurement model. Model estimation was performed using maximum likelihood, with the item
+correlation matrix as the input. For a measurement model to have sufﬁciently good ﬁt,
+the chi-squared value normalized by degrees of freedom (x2/df) should not exceed 5,
+and the non-normed ﬁt index (NNFI) and comparative ﬁt index (CFI) values should
+exceed 0.9. For the current CFA model, the x2/df was 1.96 (x2 ¼ 1194; df ¼ 610),
+NNFI was 0.93, and CFI was 0.94, suggesting adequate model ﬁt.
+Evaluating the reliability and validity of a research model includes estimating the
+internal consistency and convergent and discriminant validity of the construct items
+(Fornell & Larcker, 1981). Table 2 shows that all of the composite reliabilities were well
+above the recommended level of 0.70, indicating adequate internal consistency. The indicator loadings exceeded the suggested criterion of 0.50 on their associated factors, which
+demonstrated the convergent validity in the construct. In addition, convergent validity is
+considered adequate when all constructs have an average variance extracted (AVE) over
+0.50. The AVE of the study constructs ranged from 0.61 to 1.00. Satisfactory discriminant
+validity can be veriﬁed when the AVE from the construct is greater than the squared correlations among the model constructs. As shown in Table 4, the test results of discriminant
+validities of the scales are satisfactory.
+A full structural model with all parameter estimates was then computed using the modiﬁed model depicted in Figure 2. Given the lack of prior research examining the causal
+relationship among the variables, modiﬁcations to the hypothesized model were considered
+to improve the ﬁt. Only modiﬁcations that were consistent with theory and/or prior research
+
+Current Issues in Tourism
+
+1069
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+Table 2. Measurement statistics of construct scales based on reﬂective indicators.
+
+Construct/indicators
+
+Mean
+
+Standard
+deviation
+
+Intention
+Int1
+Int2
+Int3
+Self-efﬁcacy
+Sef1
+Sef2
+Sef3
+Sef4
+Performance outcome
+Prm1
+Prm2
+Prm3
+Prm4
+Prm5
+Prm6
+Personal outcome
+Psn1
+Psn2
+Psn3
+Psn4
+Psn5
+Psn6
+Psn7
+Psn8
+Advantage
+Adv1
+Adv2
+Adv3
+Adv4
+Compatibility
+Cpb1
+Cpb2
+Cpb3
+Cpb4
+Complexity
+Cpx1
+Cpx2
+Cpx3
+Cpx4
+Social norms
+Ino1
+Ino2
+
+4.13
+4.26
+4.18
+3.95
+4.01
+4.01
+4.07
+4.03
+3.94
+3.88
+3.94
+3.71
+3.85
+3.71
+4.13
+3.56
+3.42
+3.83
+3.68
+3.67
+3.85
+3.00
+3.07
+3.03
+3.23
+4.16
+4.27
+4.22
+4.00
+4.16
+2.84
+2.94
+2.75
+2.77
+2.91
+2.20
+2.20
+2.22
+2.33
+2.07
+4.16
+4.06
+4.25
+
+1.94
+0.67
+0.71
+0.85
+2.90
+0.83
+0.78
+0.82
+0.89
+3.74
+0.74
+0.88
+0.77
+0.86
+0.68
+1.06
+7.24
+1.06
+1.08
+1.03
+0.99
+1.19
+1.20
+1.26
+1.25
+2.40
+0.70
+0.74
+0.81
+0.72
+3.57
+1.11
+1.08
+1.11
+1.09
+2.75
+0.83
+0.87
+0.92
+0.88
+1.46
+0.86
+0.72
+
+Indicator
+loadings
+
+tValuea
+
+0.85
+0.90
+0.86
+
+158.38
+145.27
+114.94
+
+0.84
+0.87
+0.86
+0.85
+
+119.09
+129.03
+121.59
+109.29
+
+0.78
+0.81
+0.77
+0.81
+0.75
+0.69
+
+131.19
+92.95
+146.65
+133.14
+102.26
+82.80
+
+0.76
+0.74
+0.71
+0.70
+0.85
+0.86
+0.87
+0.85
+
+89.28
+84.45
+88.07
+95.92
+62.37
+63.17
+59.60
+63.77
+
+0.79
+0.84
+0.83
+0.74
+
+152.17
+140.92
+121.69
+143.17
+
+0.83
+0.81
+0.85
+0.75
+
+65.53
+63.28
+61.64
+65.85
+
+0.82
+0.78
+0.74
+0.80
+
+65.76
+63.25
+63.00
+58.60
+
+0.92
+0.92
+
+Composite
+reliability
+
+Cronbach’s
+a
+
+AVE
+
+0.84
+
+0.83
+
+0.76
+
+0.88
+
+0.88
+
+0.73
+
+0.86
+
+0.85
+
+0.59
+
+0.92
+
+0.92
+
+0.63
+
+0.81
+
+0.81
+
+0.64
+
+0.83
+
+0.83
+
+0.66
+
+0.79
+
+0.80
+
+0.62
+
+0.82
+
+0.81
+
+0.85
+
+116.5
+145.1
+
+were considered (MacCallum, Roznowski, & Necowitz, 1992). The modiﬁcation indices
+suggested six additional possible paths that could improve the model ﬁt. Of these, one
+path met the criterion of being consistent with theory and/or prior research, that is, the
+path from advantage to compatibility, and a moderate, positive relationship between
+these variables has been previously reported (Schierz, Schilke, & Wirtz, 2010; Wu &
+Wang, 2005).
+
+1070
+
+J. Lu et al.
+Table 3. Factor analysis of performance outcome scale.
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+Factors
+
+Factor loading
+
+(1) Information
+Prf1
+Prf2
+Prf3
+(2) Interaction
+Prf4
+Prf5
+Prf6
+(3) Purchasing
+Prf7
+Prf8
+Prf9
+(4) Navigating
+Prf10
+Prf11
+Prf12
+Prf13
+Prf14
+Prf15
+(5) Marketing
+Prf16
+Prf17
+Prf18
+(6) Entertainment
+Prf19
+Prf20
+Prf21
+
+Cronbach’s alpha
+
+Factor mean
+
+0.68
+
+4.12
+
+0.78
+
+3.65
+
+0.73
+
+4.62
+
+0.78
+
+3.93
+
+0.75
+
+3.77
+
+0.78
+
+3.56
+
+0.71
+0.66
+0.62
+0.71
+0.69
+0.68
+0.79
+0.78
+0.61
+0.75
+0.70
+0.60
+0.59
+0.49
+0.47
+0.87
+0.81
+0.43
+0.71
+0.66
+0.62
+
+Table 4. Discriminant of the construct – correlations between constructs.
+
+Int
+Adv
+Cpb
+Cpx
+Sef
+Psn
+Prm
+Soc
+
+Int
+
+Adv
+
+Cpb
+
+Cpx
+
+Sef
+
+Psn
+
+Prm
+
+Soc
+
+0.87
+0.49
+0.46
+20.36
+0.51
+0.45
+0.56
+0.47
+
+0.86
+20.04
+20.34
+0.41
+0.30
+0.50
+0.37
+
+0.77
+0.01
+20.01
+20.04
+20.05
+0.02
+
+0.80
+20.54
+20.37
+20.31
+0.41
+
+0.80
+0.47
+0.42
+0.52
+
+0.81
+0.52
+0.50
+
+0.79
+0.44
+
+0.92
+
+Notes: Bold numbers are the square root of AVE. These values should exceed the inter-construct correlations for
+adequate discriminant validity.
+Prm, performance outcome; Sef, self-efﬁcacy; Psn, personal outcome; Cpb, compatibility; Int, intention; Adv,
+advantage; Cpx, complexity; Soc, social norms.
+
+The parameter estimates consisted of three aspects: (1) the CFIs, which indicate the
+model’s goodness of ﬁt, (2) the path coefﬁcients, which represent the strength of the
+relationship between the independent and dependent variables, and (3) the R2 value,
+which indicates the amount of variance explained by the model (Hsu & Chiu, 2004).
+The overall ﬁt of the ﬁnal model was satisfactory based on the ﬁt indices: x2/df ¼ 2.62,
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+Current Issues in Tourism
+
+Figure 2.
+
+1071
+
+SEM analysis of the research model.
+
+GFI ¼ 0.91, CFI ¼ 0.93, root mean square residual ¼ 0.07, and root mean square error of
+approximation ¼ 0.05. Seven of the hypothesized relationships were signiﬁcant. Perceived
+usefulness, perceived ease of use and compatibility had positive effects on intention, with
+path coefﬁcients of 0.49, 0.12, and 0.10. Thus, Hypotheses 1, 2, and 3 were supported. Performance outcome expectations and personal outcome expectations contributed signiﬁcantly to intention, with path coefﬁcients of 0.43 and 0.15, respectively. Hypotheses 4
+and 5 were supported. The path from self-efﬁcacy to intention was insigniﬁcant, and
+thus, Hypothesis 6 was rejected. Corresponding to Hypotheses 7 and 8, self-efﬁcacy had
+positive effects on performance and personal outcome expectations, with path coefﬁcients
+of 0.56 and 0.62. As we also see, social norms had no signiﬁcant effect on intention, and
+thus Hypothesis 9 was rejected. In total, the model explained 53% of the variance in the
+intention to use apps in rural tourism.
+
+Discussion
+By integrating inﬂuential determinants from three relevant theories, that is, the TAM, IDT,
+and SCT, this current research proposed and validated a research model that was designed to
+enrich our understanding of the predictors of mobile app use among tourists. The results
+show that a signiﬁcant amount of variance in the behavioural intention to use apps was
+explained by the model’s independent variables. The three app attributes, namely, perceived
+usefulness, perceived ease of use and compatibility, were found to have signiﬁcant effects
+on the behavioural intention to use apps, which conﬁrmed the validity of the TAM and IDT
+in explaining app use intention in the context of rural tourism. This ﬁnding suggests that app
+developers should provide sufﬁcient and accurate information through complete online
+content management system to enhance the perceived usefulness by travellers. User interface design needs to be simple, intuitive, and easy to navigate. Self-monitoring features
+could be incorporated in the design of apps. This approach will enable app developers to
+continuously improve their apps based on actual use.
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+1072
+
+J. Lu et al.
+
+Among the three variables from TAM and IDT, compatibility played the most important
+role in encouraging rural travel app use intentions. This result accords with previous
+research that showed perceived compatibility was the best perception-based indicator of
+attitude towards IT adoption (Meuter, Ostrom, Bitner, & Roundtree, 2003; Vijayasarathy,
+2004). This ﬁnding can be interpreted from multiple perspectives. From the technology perspective, because mobile devices have been integrated into every aspect of our lives, the use
+of mobile apps to enhance travel experience is more compatible with our habitual mind-set,
+which can contribute to sustained habitual or automatic behaviour (Verplanken & Aarts,
+1999). From the experiential perspective, rural tourists desire to be in nature, escape
+urban life, and be connected with the outdoors, which may increase the incompatibility
+with spending their vacation time using modern technology. To eradicate tourists’
+worries about the incompatibility of technology and nature, it is important for app developers to incorporate nature-inspired design and marketing techniques to reconcile these two
+different elements. Further, from the tourism development perspective, rural tourism destinations in China have lagged behind urban destinations in terms of mobile commerce.
+Although many rural tourists were interested in using apps to facilitate their travelling,
+they were often frustrated by the lack of wireless internet infrastructures or the lack of relevant apps. This ﬁnding highlights the urgent need for developing rural tourism strategies
+based on the use of mobile technology. For instance, it is suggested to establish centralized
+tourism databases and appropriate operational systems to collect, store, exchange, and
+release tourism data; develop wireless internet infrastructures (i.e. Wi-Fi, 3G, 4G) for creating mobile business environment; launch smart tourism service platforms (websites, apps,
+and digital screens) to enhance tourist experience and destination image; and install vending
+machines and QR code readers in stations, terminals, hotels, restaurants, and tourism sites to
+facilitate the adoption of mobile technology in tourism process.
+In terms of the social cognitive determinants of travel app use, the ﬁndings also showed
+that outcome expectations are important motivational determinants of behaviour, which
+supports the propositions derived from SCT (Bandura, 2001). More precisely, performance
+outcome expectations serve as a more powerful predictor than personal outcome expectations. This ﬁnding suggests that extrinsic motivations may play a more important role
+in travel app adoption. Referring to speciﬁc functional expectancy subcategories, the
+results showed that tourists have high expectations for transaction functions (mean .
+4.5). They had moderate expectations for information, navigation, marketing, social interaction, and entertainment functions (3.5 , mean , 4.5). Due to the fact that rural tourism
+operators have been slow to embrace e-commerce, ‘pay upfront’ has been the main payment
+approach of their services. With the growing popularity for prepaid tourism services, such
+as groupon, last minute deal, fuzzy reservation, and bidding, the transaction function of
+travel apps has become increasingly important. This calls for more attention to developing
+transaction platforms and booking services in mobile commerce to provide more signiﬁcant
+value to tourists. Compared with urban tourism, rural tourism in China involves a larger
+number of independent hotels that are incapable of direct online sales. Working with
+third-party booking apps can be an effective way for them to increase business and
+become more competitive. In addition, tourists have rated all app functions above 3.5,
+suggesting that travel apps covering all aspects of the journey may have a greater potential
+to attract users. Additionally, marketing efforts are warranted to promote the performance
+and personal values of using travel apps, for example, enriching the travel experience and
+demonstrating a certain lifestyle.
+Chinese tourists who assess themselves as being highly efﬁcacious tend to look for
+more rewards from travel app use than tourists with little belief in their ability to use
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+Current Issues in Tourism
+
+1073
+
+smartphones. This ﬁnding is consistent with technology adoption studies conducted in the
+Western context (Okumus & Bilgihan, 2014). It implies that smartphone self-efﬁcacy in
+addition to expectation beliefs should be considered a critical component in travel app
+design. Thanks to the mass production of low-cost smartphones by domestic mobile manufacturers, China’s smartphone users are growing rapidly. In the current study, participants
+reported high levels of smart phone self-efﬁcacy, which suggests that Chinese tourists are
+ready to embrace mobile apps as an integral part of their travel experience. Therefore, travel
+apps have great potential to transform and revolutionize the tourism industry in China. On
+the other hand, while mobile technology becomes more and more pervasive worldwide, an
+age-related under-utilization still exists (Agarwal, Animesh, & Prasad, 2009). Sufﬁcient
+support and necessary learning aids should be considered to enhance senior tourists’ smartphone self-efﬁcacy, which can be critical for promoting app use.
+Contrary to our expectations, social norms did not have a signiﬁcant impact on app use
+intentions. This result is similar to the ﬁnding by San Martı́n and Herrero (2012) that social
+norms are not a signiﬁcant predictor of online purchase intentions in rural tourism. One
+possible explanation is that rural travel apps are still new, and thus people have limited
+awareness of their signiﬁcant others or peers using them. As such, the inﬂuence of social
+norms on the behavioural intention to use rural travel apps is negligible. It is also possible
+that social norms may have a moderating (i.e. buffering the impact of self-efﬁcacy and
+outcome expectations on behavioural intention) rather than direct (self-efﬁcacy, outcome
+expectations, and social norm functions in parallel relationships) effect. In a study of individual technology adoption, Sawang et al. (2014) found a critical moderating role of social
+inﬂuence on the collectivistic culture in the relationship between attitude, perceived behavioural control, and IT adoption.
+Conclusions
+Mobile applications’ unique characteristics of convenience, personalization, and empowerment make them an important marketing channel for tourism. However, little is known
+about the underlying mechanism of consumers’ intentions to use this technology. This
+study represents an initial attempt to understand the mechanism by which social cognitive
+factors and technology characteristics inﬂuence tourists’ intentions to use mobile apps. The
+results of this study provide important implications for both researchers and practitioners.
+For researchers, this study provides a more comprehensive theoretical understanding of
+what drives the adoption of mobile technology by proposing an integrative approach to predicting behavioural intentions towards travel apps. This research model could be adapted to
+different mobile service categories to further identify the differences in perceptions and attitudes. For tourism organizations and individual practitioners, understanding the key constructs in the proposed research model is crucial to more effectively design and
+implement mobile travel services that yield high consumer acceptance. Vast sums of
+capital have been invested in novel and untested technologies such as mobile apps to
+improve the delivery of tourism services. However, many programmes are not readily
+embraced by end users. Thus, studies that examine which factors are beneﬁcial or detrimental towards the acceptance of emerging technologies may prove particularly valuable.
+It is important to evaluate our study in light of its limitations. First, our analysis of crosssectional data prevents causal inferences. Although the SEM analyses imply that the
+variance in the dependent variable is explained by its antecedents, we could have easily analysed the opposite causal sequence as well. A longitudinal survey or experimental design
+could clarify causation. Another concern lies in the fact that the ﬁndings were solely
+
+1074
+
+J. Lu et al.
+
+based on a sample of Chinese tourists. More well-designed studies are warranted to further
+examine potential differences in user needs from travel apps across different groupings and
+cultures. Further, the factor loadings of a number of items on the functional outcome scale
+fell below the 0.70 threshold, indicating that the scale should be further validated in future
+studies. Finally, other social cognitive factors should be considered to improve the current
+model, such as risk perception and self-regulation.
+
+Disclosure statement
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+No potential conﬂict of interest was reported by the authors.
+
+Funding
+The authors would like to thank the National Natural Science Foundation of China [grant number
+71302061], National Social Science Foundation of China [grant number 13BJY148], Zhejiang Province Soft Sciences Research Projects [grant number 2013C35010], and Zhejiang Province Social
+Science Foundation-Zhijiang Young Scholar Project [grant number 13ZJQN031YB], for their
+funding support.
+
+References
+Agarwal, R. (2000). Individual acceptance of information technologies. Educational Technology
+Research and Development, 40, 90 –102.
+Agarwal, R., Animesh, A., & Prasad, K. (2009). Research note-social interactions and the “digital
+divide”: Explaining variations in internet Use. Information Systems Research, 20(2), 277– 294.
+Ajzen, I., & Fishbein, M. (1977). Attitude-behavior relations: A theoretical analysis and review of
+empirical research. Psychological Bulletin, 84(5), 888– 918.
+Anderson, J. C., & Gerbing, D. W. (1988). Structural equation modeling in practice: A review and
+recommended two-step approach. Psychological Bulletin, 103(3), 411– 423.
+Ayeh, J. K., Au, N., & Law, R. (2013). Predicting the intention to use consumer-generated media for
+travel planning. Tourism Management, 35, 132 –143.
+Bagozzi, R. P., Wong, N., Abe, S., & Bergami, M. (2000). Cultural and situational contingencies and
+the theory of reasoned action: Application to fast food restaurant consumption. Journal of
+Consumer Psychology, 9(2), 97–106.
+Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. Englewood
+Cliffs, NJ: Prentice Hall.
+Bandura, A. (1997). Self-efﬁcacy: The exercise of control. New York, NY: W.H. Freeman.
+Bandura, A. (2001). Social cognitive theory: An agentic perspective. Annual Review of Psychology,
+52(1), 1 –26.
+Bandura, A. (2012). On the functional properties of perceived self-efﬁcacy revisited. Journal of
+Management, 38(1), 9 –44.
+Black, N. J., Lockett, A., Winklhofer, H., & Ennew, C. (2001). The adoption of internet ﬁnancial
+services: A qualitative study. International Journal of Retail & Distribution Management,
+29(8), 390 –398.
+Bock, G. W., & Kim, Y. G. (2002). Breaking the myths of rewards: An exploratory study of attitudes
+about knowledge sharing. Information Resource Management Journal, 15(2), 14 –21.
+Carter, L., & Bélanger, F. (2005). The utilization of e-government services: Citizen trust, innovation
+and acceptance factors. Information Systems Journal, 15(1), 5–25.
+Chen, J., Park, Y., & Putzer, G. J. (2010). An examination of the components that increase acceptance of
+smartphones among healthcare professionals. Electronic Journal of Health Informatics, 5(2), e16.
+China Daily. (2014). China tops US in phone use. Retrieved December 18, 2014, from http://usa.
+chinadaily.com.cn/epaper/2013–08/21/content_16910442.htm/
+China Internet Watch. (2015). China online travel market overview 2014. Retrieved March 24, 2015,
+from http://www.chinainternetwatch.com/11923/online-travel-market-overview-2014/
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+Current Issues in Tourism
+
+1075
+
+Chiu, C. M., Hsu, M. H., & Wang, E. T. (2006). Understanding knowledge sharing in virtual communities: An integration of social capital and social cognitive theories. Decision Support Systems,
+42(3), 1872– 1888.
+CNNIC. (2014). China network development report. Beijing: China Network Information Center.
+Compeau, D. R., Higgins, C. A., & Huff, S. (1999). Social cognitive theory and individual reactions to
+computing technology: A longitudinal study. MIS Quarterly, 23(2), 145–158.
+Davis, F. D. (1986). Technology acceptance model for empirically testing new enduser information
+systems: Theory and results (Doctoral dissertation). Massachusetts Institute of Technology,
+Cambridge, MA.
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information
+technology. MIS Quarterly, 13(3), 319 –340.
+Davis, F. D., Bagozzi, R. P., & Warshaw, P. R. (1989). User acceptance of computer technology: A
+comparison of two theoretical models. Management Science, 35(8), 982–1003.
+Davis, F. D., Bagozzi, R. P., & Warshaw, P. R. (1992). Extrinsic and intrinsic motivation to use
+computers in the workplace1. Journal of Applied Social Psychology, 22(14), 1111–1132.
+Dickinson, J. E., Ghali, K., Cherrett, T., Speed, C., Davies, N., & Norgate, S. (2014). Tourism and the
+smartphone app: Capabilities, emerging practice and scope in the travel domain. Current Issues in
+Tourism, 17(1), 84–101.
+Dillon, A., & Morris, M. G. (1996). User acceptance of new information technology: Theories and
+models. Annual Review of Information Science and Technology, 14(4), 3–32.
+Ellen, P. S., Bearden, W. O., & Sharma, S. (1991). Resistance to technological innovations: An examination of the role of self-efﬁcacy and performance satisfaction. Journal of the Academy of
+Marketing Science, 19(4), 297– 307.
+Esty, D. C., & Winston, A. S. (2009). Green to gold: How smart companies use environmental strategy to innovate, create value, and build competitive advantage. Hoboken, NJ: John Wiley.
+Extremetech. (2014). There can only be one: Smartphones are the PCs of the future. Retrieved
+December 18, 2014, from http://www.extremetech.com/computing/134868-there-can-only-beone-smartphones-are-the-pcs-of-the-future
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement error. Journal of Marketing Research, 18(1), 39 –50.
+Gao, T. M. (2012). My view of smart tourism. Tourism Tribune, 9, 3 –4.
+Glegg, S. M., Holsti, L., Velikonja, D., Ansley, B., Brum, C., & Sartor, D. (2013). Factors inﬂuencing
+therapists’ adoption of virtual reality for brain injury rehabilitation. Cyberpsychology, Behavior,
+and Social Networking, 16(5), 385 –401.
+Harris, P., Rettie, R., & Cheung, C. K. (2005). Adoption and usage of m-commerce: A cross-cultural
+comparison of Hong Kong and the United Kingdom. Journal of Electronic Commerce Research,
+6(3), 210 –224.
+Hjalager, A. (2010). A review of innovation research in tourism. Tourism Management, 31, 1–12.
+Hobday, M. (1998). Product complexity, innovation and industrial organization. Research Policy,
+26(6), 689 –710.
+Hong, J., Hwang, M., Tai, K., & Chen, Y. (2014). Using calibration to enhance students’ self-conﬁdence
+in English vocabulary learning relevant to their judgment of over-conﬁdence and predicted by
+smart phone self-efﬁcacy and English learning anxiety. Computers & Education, 72, 313–322.
+Hopken, W., Fuchs, M., Zanker, M., & Beer, T. (2010). Context-based adaptation of mobile applications in tourism. Information Technology and Tourism, 12, 175–195.
+Hsu, M. H., & Chiu, C. M. (2004). Internet self-efﬁcacy and electronic service acceptance. Decision
+Support Systems, 38(3), 369 –381.
+Huh, H. J., Kim, T. T., & Law, R. (2009). A comparison of competing theoretical models for understanding acceptance behavior of information systems in upscale hotels. International Journal of
+Hospitality Management, 28(1), 121 –134.
+Hung, Y. C., Yang, Y. L., Yang, H. E., & Chuang, Y. H. (2011). Factors affecting the adoption of Ecommerce for the tourism industry in Taiwan. Asia Paciﬁc Journal of Tourism Research, 16(1),
+105– 119.
+Kennedy-Eden, H., & Gretzel, U. (2012). A taxonomy of mobile applications in tourism. E-review of
+Tourism Research, 10(2), 47 –50.
+Khang, H., Han, E. K., & Ki, E. J. (2014). Exploring inﬂuential social cognitive determinants of social
+media use. Computers in Human Behavior, 36, 48– 55.
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+1076
+
+J. Lu et al.
+
+Kim, D. Y., Park, J., & Morrison, A. M. (2008). A model of traveler acceptance of mobile technology.
+International Journal of Tourism Research, 10(5), 393– 407.
+Kim, T. G., Lee, J. H., & Law, R. (2008). An empirical examination of the acceptance behaviour of
+hotel front ofﬁce systems: An extended technology acceptance model. Tourism management,
+29(3), 500 –513.
+Kim, Y., Sohn, D., & Choi, S. M. (2011). Cultural difference in motivations for using social network
+sites: A comparative study of American and Korean college students. Computers in Human
+Behavior, 27(1), 365 –372.
+Kleijnen, M., Wetzels, M., & de Ruyter, K. (2004). Consumer acceptance of wireless ﬁnance. Journal
+of Financial Services Marketing, 8(3), 206 –217.
+Kumar, A., & Mukherjee, A. (2013). Shop while you talk: Determinants of purchase intentions
+through a mobile device. International Journal of Mobile Marketing, 8(1), 23– 37.
+LaRose, R., & Eastin, M. S. (2004). A social cognitive theory of internet uses and gratiﬁcations:
+Toward a new model of media attendance. Journal of Broadcasting & Electronic Media,
+48(3), 358 –377.
+LaRose, R., & Kim, J. (2006). Share, steal, or buy? A social cognitive perspective of music downloading. CyberPsychology & Behavior, 10(2), 267 –277.
+Lee, D., Kim, H. S., & Kim, J. K. (2012). The role of self-construal in consumers’ electronic word of
+mouth (eWOM) in social networking sites: A social cognitive approach. Computers in Human
+Behavior, 28(3), 1054– 1062.
+Lee, H., Chung, N., & Jung, T. (2015). Examining the cultural differences in acceptance of mobile
+augmented reality: Comparison of South Korea and Ireland. In I. Tussyadiah & A. Inversini
+(Eds.), Information and communication technologies in tourism 2015 (pp. 477– 491). Berlin:
+Springer International Publishing.
+Lin, C. Y., & Ho, Y. H. (2011). Determinants of green practice adoption for logistics companies in
+China. Journal of Business Ethics, 98(1), 67 –83.
+Lin, H. (2011). An empirical investigation of mobile banking adoption: The effect of innovation
+attributes and knowledge-based trust. International Journal of Information Management, 31,
+252– 260.
+Lin, H. Y., & Hsu, M. H. (2013). Using social cognitive theory to investigate green consumer behavior. Business Strategy and the Environment. Advance online publication. doi:10.1002/bse.
+1820
+Lin, T. C., & Huang, C. C. (2008). Understanding knowledge management system usage antecedents:
+An integration of social cognitive theory and task technology ﬁt. Information & Management,
+45(6), 410 –417.
+Little, T. D., Cunningham, W. A., & Shahar, G. (2002). To parcel or not to parcel: Exploring the
+question, weighing the merits. Structural Equation Modeling: A Multidisciplinary Journal,
+9(2), 151 –173.
+Localytics. (2014). How and when you are losing your app users. Retrieved December 18, 2014, from
+http://info.localytics.com/blog/infographic-how-when-youre-losing-your-app-users/
+MacCallum, R. C., Roznowski, M., & Necowitz, L. B. (1992). Model modiﬁcations in covariance
+structure analysis: The problem of capitalization on chance. Psychological Bulletin, 111(3),
+490– 504.
+Mahat, J., Ayub, A. F. M., & Wong, S. (2012). An assessment of students’ mobile self-efﬁcacy, readiness and personal innovativeness towards mobile learning in higher education in Malaysia.
+Procedia-Social and Behavioral Sciences, 64, 284–290.
+Mathieson, K. (1991). Predicting user intentions: Comparing the technology acceptance model with
+the theory of planned behavior. Information Systems Research, 2(3), 173–191.
+Meuter, M. L., Ostrom, A. L., Bitner, M. J., & Roundtree, R. (2003). The inﬂuence of technology
+anxiety on consumer use and experiences with self-service technologies. Journal of Business
+Research, 56(11), 899 –906.
+Mickaiel, I. (2011). Mobile the new black for travel. ZDNet. Retrieved from http://www.zdnet.com.
+au/mobile-the-new-black-for-travel-339321469.htm
+Moore, G. C., & Benbasat, I. (1991). Development of an instrument to measure the perceptions of
+adopting an information technology innovation. Information Systems Research, 2(3), 192– 222.
+Mukherjee, A., & Hoyer, W. D. (2001). The effect of novel attributes on product evaluation. Journal
+of Consumer Research, 28(3), 462 –472.
+Nunnally, J. C., & Bernstein, I. H. (1994). Psychometric theory. New York, NY: McGraw-Hill.
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+Current Issues in Tourism
+
+1077
+
+Okumus, B., & Bilgihan, A. (2014). Proposing a model to test smartphone users’ intention to use
+smart applications when ordering food in restaurants. Journal of Hospitality and Tourism
+Technology, 5(1), 31 –49.
+Pagani, M. (2004). Determinants of adoption of third generation mobile multimedia services. Journal
+of Interactive Marketing, 18(3), 46–59.
+Papies, D., & Clement, M. (2008). Adoption of new movie distribution services on the internet.
+Journal of Media Economics, 21(3), 131–157.
+Parasuraman, A. (2000). Technology readiness index (Tri): A multiple-item scale to measure readiness to embrace new technologies. Journal of Service Research, 2(4), 307–320.
+Pedrana, M. (2013). Location-based services and tourism: Possible implications for destination.
+Current Issues in Tourism, 17(9), 1– 10.
+Ratten, V. (2013). Cloud computing: A social cognitive perspective of ethics, entrepreneurship, technology marketing, computer self-efﬁcacy and outcome expectancy on behavioural intentions.
+Australasian Marketing Journal, 21(3), 137 –146.
+Rogers, E. M. (1995). Diffusion of innovations (4th ed.). New York, NY: The Free Press.
+Rogers, E. M. (2003). Diffusion of innovations (5th ed.). New York, NY: Free Press.
+Samy, H. (2012). Exploring the use of mobile phone technology in marketing airline services in
+Egypt. International Journal of Mobile Marketing, 7(3), 82–94.
+San Martı́n, H., & Herrero, A. (2012). Inﬂuence of the user’s psychological factors on the online
+purchase intention in rural tourism: Integrating innovativeness to the UTAUT framework.
+Tourism Management, 33, 341 –350.
+Sawang, S., Sun, Y., & Salim, S. A. (2014). It’s not only what I think but what they think! The moderating effect of social norms. Computers & Education, 76, 182–189.
+Schierz, P. G., Schilke, O., & Wirtz, B. W. (2010). Understanding consumer acceptance of mobile
+payment services: An empirical analysis. Electronic Commerce Research and Applications,
+9(3), 209 –216.
+Shu, Q., Tu, Q., & Wang, K. (2011). The impact of computer self-efﬁcacy and technology dependence
+on computer-related technostress: A social cognitive theory perspective. International Journal of
+Human-Computer Interaction, 27(10), 923 –939.
+Smerecnik, K. R., & Andersen, P. A. (2011). The diffusion of environmental sustainability
+innovations in North American hotels and ski resorts. Journal of Sustainable Tourism, 19(2),
+171– 196.
+Szajna, B. (1996). Empirical evaluation of the revised technology acceptance model. Management
+Science, 42(1), 85–92.
+Thompson, R. L., Higgins, C. A., & Howell, J. M. (1994). Inﬂuence of experience on personal computer utilization: Testing a conceptual model. Journal of Management Information Systems, 1,
+167– 187.
+Traﬁmow, D., Triandis, H. C., & Goto, S. G. (1991). Some tests of the distinction between the private
+self and the collective self. Journal of Personality and Social Psychology, 60(5), 649– 655.
+Verplanken, B., & Aarts, H. (1999). Habit, attitude, and planned behaviour: Is habit an empty construct or an interesting case of goal-directed automaticity? European Review of Social
+Psychology, 10(1), 101–134.
+Vijayasarathy, L. R. (2004). Predicting consumer intentions to use on-line shopping: The case for an
+augmented technology acceptance model. Information & Management, 41(6), 747–762.
+Wang, D., Li, X., & Li, Y. (2013). China’s “smart tourism destination” initiative: A taste of the
+service-dominant logic. Journal of Destination Marketing & Management, 2, 59 –61.
+Wang, D., Xiang, Z., & Fesenmaier, D. R. (2014). Smartphone Use in everyday life and travel.
+Journal of Travel Research. Advance online publication. doi:10.1177/0047287514535847
+Wang, S. L., & Wu, P. Y. (2008). The role of feedback and self-efﬁcacy on web-based learning: The
+social cognitive perspective. Computers & Education, 51(4), 1589– 1598.
+Wu, J. H., & Wang, S. C. (2005). What drives mobile commerce? An empirical evaluation of the
+revised technology acceptance model. Information & management, 42(5), 719–729.
+Yu, J. (2013). You’ve got mobile ads! young consumers’ responses to mobile ads with different types
+of interactivity. International Journal of Mobile Marketing, 8(1), 5 –22.
+Zhang, L. Y. (2012). Smart tourism: The arriving of personalized customization and intellectualized
+public service. Tourism Tribune, 2, 3–5.
+
+1078
+
+J. Lu et al.
+
+Appendix
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+Measurement constructs and items
+App use intention
+BI 1 I will consider using travel apps when travelling to rural destinations
+BI 2 I would like to use travel apps when travelling to rural destinations
+BI 3 I will increase the frequency of using travel apps when travelling to rural destinations
+Perceived usefulness
+PU 1 Apps improve the efﬁciency of travel information searches
+PU 2 Apps make it easier to make travel decisions
+PU 3 Apps improve my satisfaction with my tourism experience
+PU 4 App use brings a burden to my trip (reverse coded)
+Perceived ease of use
+PE1 I ﬁnd it hard to use travel apps (reverse coded)
+PE2 It is easy to collect information with travel apps
+PE3 It takes brains to learn how to use a travel app (reverse coded)
+PE4 It is a piece of cake to be familiar with travel apps
+Compatibility
+C1
+Using apps for travel ﬁts with my lifestyle
+C2
+Using apps ﬁts with my travel preferences
+C3
+Using apps is not compatible with the nature/image of rural tourism (i.e. away from the city,
+back to nature) (reverse coded)
+C4
+Using apps does not match the status of rural tourism (i.e. weak mobile network, lack of
+relevant apps, etc.) (reverse coded)
+Smartphone self-efﬁcacy
+SE1 I feel conﬁdent ﬁnding suitable application software
+SE2 I feel conﬁdent downloading and installing corresponding app software
+SE3 I feel conﬁdent and familiar with app interfaces very quickly
+SE4 I feel conﬁdent mastering the various functions of an app
+Social norms
+SN1 I know many people who use travel apps
+SN2 My family and friends think I should use travel apps
+Performance outcome expectations: information
+P1
+Find ofﬁcial information of tourism destination
+P2
+Find consumer-generated tourism content
+P3
+Find real-time monitoring information (trafﬁc, parking spaces, etc.)
+P4
+Find information on surrounding areas
+Performance outcome expectations: mobile marketing
+P5
+Receive location-based tourism promotion pushes
+P6
+Receive preference-based tourism information pushes
+P7
+Interact with tourism merchants online
+Performance outcome expectations: social
+P8
+Record and share travel experiences
+P9
+Evaluate tourism services
+P10 Interact with other tourists
+Performance outcome expectations: Transaction
+P11
+Pay for tourism services and products
+P12 Reserve tourism services and products
+P13 Purchase Groupons
+P14 Purchase special local products online (excluded from further analyses)
+Performance outcome expectations: navigation
+P15 Plan routes and mark points
+P16 Navigate to the destination
+P17 Provide self-help tour guidance and interpretation
+P18 Provide roadside assistance
+(Continued)
+
+Current Issues in Tourism
+
+1079
+
+Appendix. Continued.
+
+Downloaded by [Zhejiang University] at 20:10 20 September 2015
+
+Measurement constructs and items
+Performance outcome expectations: entertainment
+P19 Provide interesting reading material and music to pass the time on the journey
+P20 Play games
+P21 Create and edit photos and videos
+P22 Provide outdoor workout records (excluded from further analyses)
+Personal outcome expectations: self-accomplishment
+PA1 Using travel apps gives me status
+PA2 Using travel apps increases my sense of achievement
+PA3 Using travel apps improves my place in my circle of friends
+PA4 Using travel apps make me more attractive
+Personal outcome expectations: self-expression
+PE 1 Travel apps are a way to show my personality
+PE 2 I often share with others about travel apps I am using
+PE 3 I often discuss with others about the function, advantages, and disadvantages of travel apps
+PE 4 Using travel apps keeps me up to date
+
+View publication stats
+
+

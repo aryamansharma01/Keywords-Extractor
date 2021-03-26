@@ -1,0 +1,3106 @@
+Tourism Management 46 (2015) 64e79
+
+Contents lists available at ScienceDirect
+
+Tourism Management
+journal homepage: www.elsevier.com/locate/tourman
+
+An integrative model of consumers' intentions to purchase travel
+online
+Suzanne Amaro a, *, Paulo Duarte b, 1
+a
+b
+
+Management Department, Polytechnic Institute of Viseu, Campus Politecnico de Repeses, 3504-510 Viseu, Portugal
+~, Portugal
+Business and Economics Department, University of Beira Interior, Estrada do Sineiro - Edifício Ernesto Cruz, 6200-209 Covilha
+
+h i g h l i g h t s
+ An integrative model is proposed to examine determinants of intentions to purchase travel online.
+ The model integrates constructs of well-established theories of consumer behaviour (TPB, TAM and IDT).
+ PLS-SEM was used for assessing the measurement model and the structural model.
+ Findings reveal which variables signiﬁcantly affect intentions to purchase travel online.
+ Attitude and compatibility are the most relevant determinants of intentions to purchase travel online.
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 3 February 2014
+Accepted 13 June 2014
+Available online 9 July 2014
+
+Grounded in the Theory of Reasoned Action, the Theory of Planned Behaviour, the Technology Acceptance Model and on the Innovation Diffusions Theory, this study proposes and empirically tests an integrated model to explore which factors affect intentions to purchase travel online. Partial Least Squares
+Structural Equation Modelling was conducted to assess the hypotheses. The empirical results, obtained in
+a sample of 1732 Internet users, indicate that intentions to purchase travel online are mostly determined
+by attitude, compatibility and perceived risk. The theoretical contributions of this study and the practical
+implications are discussed and future research directions are detailed.
+© 2014 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Innovations Diffusion Theory
+Intentions to Purchase
+Online Travel Shopping
+Social Media
+Technology Acceptance Model
+Theory of Reasoned Action
+Theory of Planned Behaviour
+
+1. Introduction
+Information Communication Technologies (ICTs) have been
+changing the tourism industry ever since the 1980s (Buhalis & Law,
+2008), playing a central role in its growth and development
+(Gretzel & Fesenmaier, 2009). In fact, the establishment of the
+Computer Reservations Systems and Global Distribution Systems
+(Sabre, Amadeus, Galileo, and Worldspan) in the 1980s transformed
+the tourism industry dramatically. During the late 1980s and early
+1990s, these systems were important elements for distributing
+tourism products, with the advantage of providing information
+about customers (Gretzel & Fesenmaier, 2009). However, it was the
+
+* Corresponding author. Tel.: þ351 232 480 500; fax: þ351 232 424 651.
+E-mail addresses: samaro@estv.ipv.pt (S. Amaro), pduarte@ubi.pt (P. Duarte).
+1
+Tel.: þ351 275 319 648; fax: þ351 275 319 600.
+http://dx.doi.org/10.1016/j.tourman.2014.06.006
+0261-5177/© 2014 Elsevier Ltd. All rights reserved.
+
+development of the Internet in the 1990s that brought the great
+transformation and unprecedented opportunities to the tourism
+industry, changing this industry and travellers' behaviour in several
+ways (Buhalis, 1998; Gretzel & Fesenmaier, 2009).
+One of the most signiﬁcant transformations was that the
+Internet represented a new and potentially powerful communication and distribution channel for travel suppliers (Law, Leung, &
+Wong, 2004; Morrison, Jing, O'Leary, & Cai, 2001), fulﬁlling the
+gap between consumers and suppliers (Buhalis, 1998). For decades,
+airlines, cruise lines, the lodging sector and the rental car industry
+had been heavily dependent on travel intermediates (e.g. travel
+agents) to disseminate information and sell their products and
+services. With a new distribution channel, these travel suppliers
+found a way to bypass intermediaries and reach customers directly,
+while saving money (Zhou, 2004). For consumers, the emergence of
+the electronic market brought lower prices, discounts and time
+savings (Heung, 2003). In the second half of the 1990s, the
+
+S. Amaro, P. Duarte / Tourism Management 46 (2015) 64e79
+
+emergence of online travel agencies, such as Expedia (http://www.
+expedia.com) and Priceline (http://www.priceline.com) revolutionised the way travel was purchased.
+The Internet is now an important distribution channel for travel
+(Lee & Morrison, 2010), generating a worldwide revenue over 340
+billion United States dollars (USD) in 2011. Worldwide online travel
+sales have grown 10% each year between 2010 and 2012 and predictions until 2016 show that worldwide online travel sales will
+continue to grow at 8% yearly (eMarketer, 2012).
+Given the importance of online travel shopping, the growing
+body of literature is not surprising. Yet, in a review of articles
+published in 57 tourism and hospitality research journals from
+2005 to 2007, Law, Leung, and Buhalis (2009) noted that the
+number of studies related to consumers was relatively small as
+compared to the other two categories considered in their study,
+namely technological development and suppliers. Similarly, after
+analysing information technology in the hospitality industry
+research published between January 2003 and July 2004 in 12
+hospitality and tourism journals, O'Connor and Murphy (2004)
+found that “consumer research is largely absent but desperately
+needed” (p.481). Therefore, the authors suggested themes for
+further research, such as what motivates consumers to use a certain
+distribution channel and also what motivates them to buy travel
+online. On the other hand, as Amaro and Duarte (2013) point out,
+research addressing online travel shopping presents contradictory
+results and is typically fragmented. The ﬁndings of these studies
+support the signiﬁcance of the current study.
+Therefore, this research adopts a distinctive approach to analyse
+the determinants of intentions to purchase travel online, by proposing and empirically testing an integrated model, with contributions from well-grounded theories, namely the Theory of
+Reasoned Action (TRA) (Fishbein & Ajzen, 1975), the Theory of
+Planned Behaviour (TPB) (Ajzen, 1991), the Technology Acceptance
+Model (TAM) (Davis, 1985, 1989) and the Innovations Diffusion
+Theory (IDT) (Rogers, 1995), contributing to the current literature
+since, to the best of knowledge, this has not been done in any other
+study.
+These theories have received substantial empirical support in
+explaining users' acceptance in several domains, notably information systems, and speciﬁcally online shopping (e.g. George, 2004;
+Limayem, Khalifa, & Frini, 2000; Pavlou & Fygenson, 2006; Shim,
+Eastlick, Lotz, & Warrington, 2001; Yu & Wu, 2007). The proposed model seeks to take advantage of the validity, parsimony and
+reliability that these theories provide as determinants of behaviour,
+adding other constructs in order to improve explanatory and predictive power. Indeed, besides the constructs derived from these
+theories, trust and perceived risk were added to the model, since
+researchers have pointed out that their roles in the context of online travelling shopping are still unclear (Kim, Chung, & Lee, 2011;
+Lin, Jones, & Westwood, 2009).
+With this integrative approach, it will be possible to determine
+not only which variables signiﬁcantly affect intentions to purchase
+travel online, but also the ones that have the strongest impacts,
+enhancing our understanding of online travel shopping. Additionally, the model considers the multidimensionality of two constructs
+(perceived relative advantages and perceived behavioural control),
+for a more comprehensive understanding of the factors that inﬂuence the purchase of travel online.
+The ﬁndings will help online travel providers to better understand travellers' online behaviour. Knowing the driving
+forces that determine travellers' intentions to purchase travel
+online is paramount for the successful implementation of online
+marketing strategies (Lee, Qu, & Kim, 2007) and to convert
+potential customers to actual ones and retain them (Limayem
+et al., 2000).
+
+65
+
+2. Literature review
+2.1. Intentions to purchase travel online
+Intentions to purchase travel online is the main dependent
+variable of the model, derived from the TRA, that posits that
+behavioural intentions, rather than attitudes, are the main predictors of actual behaviour (Fishbein & Ajzen, 1975). It is assumed
+that intentions capture the motivational factors that inﬂuence
+behaviour and the stronger the intention to engage in behaviour,
+the more likely should be its performance (Ajzen, 1991).
+Behavioural intentions have been well-established as a strong
+predictor of actual usage of information technologies (e.g. Davis,
+Bagozzi, & Warshaw, 1989; Venkatesh, Morris, Davis, & Davis,
+2003) and of online shopping (e.g. Ajzen, 2011; Limayem et al.,
+2000; Lin, 2007; Pavlou & Fygenson, 2006). Furthermore, in
+voluntary settings, as in the case of online travel shopping, intention to behave has been postulated as the best predictor of
+behaviour (Moital, Vaughan, & Edwards, 2009).
+2.2. Attitude towards online travel shopping
+According to the TRA, intentions are the result of attitudes towards the outcomes of behaviour (Fishbein & Ajzen, 1975). In
+Fishbein and Ajzen's (1975) seminal work, the researchers discuss
+the confusion and ambiguity surrounding the attitude concept,
+namely because of the wide range of existing deﬁnitions and measures. However, there seems to be a widespread agreement that
+affect, deﬁned as a person's feelings towards an object, person, issue
+or event, is the most essential part of the attitude concept (Fishbein
+& Ajzen, 1975). According to Fishbein and Ajzen (1975), attitude is a
+“learned predisposition to respond in a consistently favourable or
+unfavourable manner with respect to a given object” (p.15).
+It is expected that positive attitudes will lead to higher intentions to perform the behaviour. Following Fishbein and Ajzen's
+(1975) deﬁnition, in this study attitude is deﬁned as the strength
+of a person's feeling of favourableness or unfavourableness towards
+the purchase of travel online.
+In the travel context, several studies have evidenced that attitude towards online shopping positively inﬂuences intentions to
+, Sanz, Ruiz, & Alda
+s, 2010; Lee et al.,
+purchase travel online (Bigne
+2007; Morosan & Jeong, 2008). Additionally, among the variables
+ et al. (2010) included in their study, attitude had the stronBigne
+gest effect on intentions to purchase travel online.
+Therefore, as intention is determined by the person's positive or
+negative attitudes towards the decision, it is expected that:
+H1: Individuals' attitude towards online travel shopping positively inﬂuences intentions to purchase travel online.
+
+2.3. Communicability
+According to the TRA a person's behavioural intention is not only
+a function of attitude towards the behaviour, but also of subjective
+norm, described as the person's perceptions of the social pressures
+to perform the behaviour (Ajzen, 1985; Fishbein & Ajzen, 1975). As a
+general rule, if individuals believe that their referents think they
+should perform the behaviour, than they will perceive social
+pressure to do so (Ajzen, 1985).
+While subjective norm may explain intentions to perform
+certain behaviours, several authors have also evidenced that subjective norm was neither signiﬁcant in predicting intentions to
+purchase online (e.g. Lin, 2007; Pavlou & Fygenson, 2006; Wang,
+Chen, Chang, & Yang, 2007) nor actual online purchases (e.g.
+
+66
+
+S. Amaro, P. Duarte / Tourism Management 46 (2015) 64e79
+
+George, 2004). More recently, a study in the context of online travel
+shopping evidenced that social inﬂuence did not affect online
+purchase intentions (San Martín & Herrero, 2012). Venkatesh and
+Davis (2000) argue that subjective norm only has an effect on intentions in mandatory usage contexts, and not when the usage is
+voluntary. However, it is undeniable that the most pervasive factors
+that inﬂuence an individual's behaviour is the inﬂuence of others
+(Burnkrant & Cousineau, 1975). Therefore, due to the importance of
+considering the inﬂuence of others and since prior work has found
+that subjective norm has not performed well in explaining intentions to purchase online, this study suggests employing
+communicability, a different form of social inﬂuence. Communicability is related to the inﬂuence of family and friends, in the sense
+that people are more likely to book online and to frequently book
+travel online if they know that other people are doing likewise
+(Morrison et al., 2001). Yet, there is no general consensus on this
+matter. Indeed, Li and Buhalis (2006) asserted that communicability was not important in explaining the adoption of online travel
+shopping. To further explore this inconsistency the following hypothesis is formulated:
+H2: Communicability positively inﬂuences intentions to purchase travel online.
+Kim, Qu, and Kim (2009) also found that the recommendation of
+family and friends was important to reduce the risk perceived with
+online travel purchases. Thus, knowing that families and friends
+purchase online can relieve customer's anxiety in purchasing online
+and reduces perceived risk (Corbitt, Thanasankit, & Yi, 2003), it is
+proposed that:
+H3: Communicability negatively inﬂuences perceived risk of
+intentions to purchase travel online.
+
+2.4. Perceived complexity
+The Innovations Diffusion Theory (IDT), originally developed by
+Everett Rogers in 1962, is one of the most frequently used theories
+to explain technological innovation (Hung, Yang, Yang, & Chuang,
+2011). According to Rogers (1995), ﬁve innovation characteristics
+e Perceived Complexity, Perceived Compatibility, Perceived Relative Advantages, Trialability and Observability2 e will determine if
+adoption or diffusion will occur.
+Perceived complexity reﬂects the extent in which it is difﬁcult to
+understand and, consequently, to use (Rogers, 1995). As one can
+expect, innovations that are simpler to understand will be adopted
+more rapidly than innovations that require new skills (Rogers,
+1995). For the purpose of this study, perceived complexity is the
+degree to which purchasing travel online is perceived to be difﬁcult.
+The measurement scales and deﬁnition of complexity is
+considerably similar to TAM's perceived ease of use (Venkatesh
+et al., 2003). Several researchers have highlighted these similarities (Davis, 1989; Moore & Benbasat, 1991; Wu & Wang, 2005).
+Common sense and theory suggest that innovative technologies
+that are perceived to be easier to use and less complex have a
+higher possibility of acceptance and use by potential users (Davis
+et al., 1989; Shih & Fang, 2004). Therefore, the TAM posits that
+ease of use is a determinant of attitude (Davis, 1989). In the travel
+context, studies grounded on the TAM have found that perceived
+ease of use affected consumer's attitude towards online travel
+
+2
+Only Perceived Complexity, Perceived Compatibility and Perceived Relative
+Advantages were included in this study, as only these were found to be consistently
+related to adoption (Tornatzky & Klein, 1982).
+
+agencies (Cho & Agrusa, 2006) and on attitude towards using hotel
+reservation websites (Morosan & Jeong, 2008).
+Based on these ﬁndings and on the TAM, it is expected that the
+perceived complexity of online travel shopping will be a determinant of attitude towards online shopping. Thus:
+H4: Individuals' perceived complexity of online travel shopping
+will be negatively related to attitude towards online travel
+shopping.
+
+2.5. Perceived compatibility
+Perceived compatibility is a construct borrowed from the IDT
+deﬁned as “the degree to which an innovation is perceived as being
+consistent with existing values, past experiences, and needs of
+potential adopters” (Rogers, 1995, p. 15). Based on Vijayasarathy's
+(2004) deﬁnition of compatibility applied to online shopping, for
+the purpose of the current study, compatibility is the extent to
+which consumers believe that purchasing travel online ﬁts/
+matches their lifestyle, needs, and shopping preference.
+Research has supported the positive and signiﬁcant relationship
+between compatibility and attitude towards online shopping (e.g.
+Chen, Gillenson, & Sherrell, 2002; Vijayasarathy, 2004). Bellman,
+Lohse, and Johnson (1999) reported that individuals who spent a
+considerable amount of time using the Internet and other related
+technologies such as e-mail in their job or personal life would be
+more likely to shop online. Christou and Kassianidis (2003) and Li
+and Buhalis (2006) also found that perceived compatibility was
+positively associated with intentions to purchase travel online.
+Thus, it is hypothesised that:
+H5: Individuals' perceived compatibility with online travel
+shopping will be positively related to attitude towards online
+travel shopping.
+H6: Individuals' perceived compatibility with online travel
+shopping will be positively related to intentions to purchase
+travel online.
+
+2.6. Perceived behavioural control
+Perceived behavioural control was added to the TRA to overcome the original model's limitations in dealing with behaviours
+over which people have incomplete volitional control (Ajzen, 1991),
+creating the Theory of Planned Behaviour. Indeed the TRA can
+predict behaviours from intentions with a high degree of accuracy,
+provided that the behaviours are under volitional control (Ajzen &
+Fishbein, 1980), otherwise behaviours may not be performed.
+When people believe that they have the resources and opportunities and that the obstacles they may encounter can be overcomed,
+then they shall have the conﬁdence to perform the behaviour, and
+therefore exhibit a high degree of perceived behavioural control
+(Ajzen, 2002).
+Some researchers have argued that perceived behavioural control is not well understood (e.g. Pavlou & Fygenson, 2006;
+Traﬁmow, Sheeran, Conner, & Finlay, 2002), with studies employing self-efﬁcacy instead of perceived behavioural control when
+conducting research grounded on the TPB (e.g. Krueger, Reilly, &
+Carsrud, 2000; Vijayasarathy, 2004). Although self-efﬁcacy and
+perceived behavioural control are related concepts, they cannot be
+used interchangeably and should be distinguished (Terry, 1993).
+Self-efﬁcacy is related with cognitive perceptions of control based
+on internal factors, while perceived behavioural control reﬂects
+both internal and external factors (Armitage & Conner, 2001).
+
+S. Amaro, P. Duarte / Tourism Management 46 (2015) 64e79
+
+More than 10 years after perceived behavioural control was
+added to the TRA Ajzen (2002), aware of the problems with the
+nature and measurement of this construct, explicitly recommended
+the decomposition of perceived behavioural control in two components: self-efﬁcacy and controllability. While self-efﬁcacy refers
+to ease or difﬁculty of performing a behaviour or conﬁdence in
+one's ability to perform it, controllability refers to control over the
+behaviour, or the beliefs about the extent to which performing the
+behaviour is up to the actor (Ajzen, 2002).
+The current study follows these recommendations and decomposes perceived behavioural control in two components: selfefﬁcacy and controllability. This structure maintains the parsimonious unitary view of perceived behavioural control and provides a
+more detailed prediction of external control beliefs by allowing a
+distinct prediction of self-efﬁcacy and controllability, which will
+lead to a better prediction of perceived behavioural control,
+intention and behaviour (Pavlou & Fygenson, 2006).
+For the purpose of this study, the following deﬁnitions will be
+considered:
+ Online travel shopping self-efﬁcacy: Following Pavlou and
+Fygenson (2006) and Vijayasarathy (2004), online travel shopping self-efﬁcacy is deﬁned as consumers' self-assessment of
+their own capabilities to purchase travel online.
+ Controllability: Grounded on Ajzen's (2002) and Pavlou and
+Fygenson's (2006) deﬁnitions, controllability is deﬁned as individual judgements about the availability of resources and
+opportunities to purchase travel online.
+The relationship between perceived behavioural control and
+intentions to purchase travel online has clearly been underlooked
+ et al.'s (2010) study was the only one that used the
+at. Bigne
+perceived behavioural control construct and found that it did not
+directly inﬂuence users' intention to purchase airline tickets online.
+In a different study, that considered facilitating conditions, a
+concept similar to perceived behavioural control, San Martín and
+Herrero (2012) found that they failed to predict intentions to
+book a room online.
+Grounded on the TPB, that conceptualises that perceived
+behavioural control is held to contribute to intentions (Ajzen, 1991),
+this study proposes the following hypothesis:
+H7: Individuals' perceived behavioural control over purchasing
+travel online positively inﬂuences intentions to purchase travel
+online.
+Hernandez, Jimenez, and Martín (2009) demonstrated that individuals who felt they had the capability of purchasing online
+would perceive online shopping as easier to use. Hence, it is
+hypothesised that:
+H8: Individuals' perceived behavioural control over purchasing
+travel online negatively inﬂuences perceived complexity.
+
+67
+
+Since the current study is interested in understanding users' perceptions of the advantages of online travel shopping over traditional channels, relative advantage is considered to be more
+adequate than perceived usefulness, since it is a broader concept.
+For the purposes of the current study, relative advantage is
+deﬁned as the degree to which online travel shopping provides
+beneﬁts to consumers or is better than its alternatives, such as
+purchasing at high street travel agencies or directly contacting
+travel suppliers by telephone or fax.
+From the literature, several major issues emerge as advantages
+of online travel shopping and have typically included convenience
+(Heung, 2003; Jensen, 2009; Kim & Kim, 2004; Kim, Ma, & Kim,
+2006; Kolsaker, Lee-Kelley, & Choy, 2004; Mayr & Zins, 2009),
+ﬁnancial advantages, such as lower prices (Kim & Kim, 2004; Kim,
+Kim, & Han, 2007; Kim et al., 2006), time saving (Christou &
+Kassianidis, 2003; Heung, 2003; Wong & Law, 2005), enjoyment
+(Cho & Agrusa, 2006; Powley, Cobanoglu, & Cummings, 2004) and
+product variety (Jensen, 2009).
+The current study considers that these are the pertinent dimensions of relative advantage, because they represent ways in
+which online travel shopping can offer advantages over traditional
+channels. Hence, relative advantages of online shopping are conceptualised as a multidimensional construct that captures these
+beneﬁts of online shopping. This overall abstraction is believed to
+be theoretically meaningful and parsimonious to use as a representation of the dimensions (Law, Chi-Sum, & Mobley, 1998).
+The perceived relative advantages of online travel shopping
+have been found to affect intentions to purchase online (Christou &
+Kassianidis, 2003; Kim & Kim, 2004; Kim et al., 2006; Moital,
+Vaughan, Edwards, & Peres, 2009; Wong & Law, 2005) and also
+inﬂuences the adoption of online travel shopping (Heung, 2003;
+Jensen, 2009; Kamarulzaman, 2007; Morrison et al., 2001).
+Based on these arguments, the following hypothesis is posited:
+H9: Perceived relative advantages of online travel shopping will
+be positively related to intentions to purchase travel online.
+Additionally, grounded on the TAM that suggests the perceived
+usefulness (that is considered to be integrated in the relative advantages construct) affects attitude, it is hypothesised that:
+H10: Perceived relative advantage of online travel shopping will
+be positively related to attitudes towards online travel shopping.
+To the best of our knowledge, a relationship that has never been
+explored in online shopping is the one between perceived relative
+advantages and trust. In the context of Internet banking, Suh and Han
+(2002) found that customers' perceived usefulness had a positive
+impact on trust in Internet banking. Based on this ﬁnding, it is argued
+that individuals who perceive the relative advantages of online travel
+shopping are more likely to trust online shopping and therefore:
+H11: Perceived relative advantage of online travel shopping will
+increase trust in online travel shopping.
+
+2.7. Perceived relative advantage
+2.8. Perceived risk
+One of the IDT core constructs is relative advantages, a concept
+similar to TAM's perceived usefulness. In fact, many researchers
+consider that they are equivalent (Lee & Kozar, 2008;
+Riemenschneider, Hardgrave, & Davis, 2002; Wu & Wang, 2005).
+However, there exists an important distinction between the two
+concepts since relative advantages explicitly contain a comparison
+between the innovation and its precursor, while perceived usefulness does not (Karahanna, Ahuja, Srite, & Galvin, 2002; Shin, 2010).
+
+The present study is concerned in examining the perceived risk
+with the Internet as the purchase method for travel and not with
+the travel service itself. Accordingly, perceived risk is deﬁned as the
+potential loss perceived by a consumer in considering the purchase
+of travel online when compared to the purchase of travel ofﬂine.
+Surprisingly, very little research has looked at perceived risk
+associated with online travel shopping (Lin et al., 2009). Studies
+
+68
+
+S. Amaro, P. Duarte / Tourism Management 46 (2015) 64e79
+
+have evidenced that perceived risk is negatively related to the
+purchase of airline tickets online (Kim, Kim, & Leong, 2005; Kim
+et al., 2009; Kolsaker et al., 2004). Considering not just airline
+tickets but all types of travel services, Jensen (2012) found that
+perceived risk was negatively related to consumers' intention to
+purchase travel online.
+Since research has attested that perceived risk has a negative
+effect on intentions to purchase travel online (Jensen, 2012; Kolsaker
+
+et al., 2004) and on attitude towards online travel shopping (Bigne
+et al., 2010) the following research hypotheses are proposed:
+H12: The perceived risk of online travel shopping has a negative
+inﬂuence on attitude towards online travel shopping.
+H13: The perceived risk of online travel shopping has a negative
+inﬂuence on intentions to purchase travel online.
+
+2.9. Trust
+Trust in online travel shopping is deﬁned as “an attitude of
+conﬁdent expectation in an online situation of risk that one's vulnerabilities will not be exploited” (Corritore, Kracher, &
+Wiedenbeck, 2003, p. 740). Research has shown that people are
+more prone to purchase online if they perceive a higher trust in
+online shopping (e.g. Corbitt et al., 2003). Indeed, trust plays a
+central role on online purchases, because consumers will hesistate
+to purchase if they feel uncertainty and risk (McKnight, Choudhury,
+& Kacmar, 2002). In a more extreme view, Wang and Emurian
+(2005) posit that the future of online shopping depends on trust.
+Despite the importance of trust, Kim et al. (2011) state that there
+is a lack of research regarding perceived trust in online shopping for
+tourism products and services. Therefore, it is relevant to add trust
+since the few studies that have considered trust in online travel
+shopping have also produced mixed results. For example, while
+Wen (2010) claimed that consumers' trust in online shopping had a
+positive effect on intentions to purchase travel online,
+Kamarulzaman (2007) did not ﬁnd a direct effect on the adoption of
+online travel shopping. To clarify these mixed results, the following
+hypothesis was set forth:
+H14: Trust in online travel shopping has a positive inﬂuence on
+intentions to purchase travel online.
+Other research has found that trust inﬂuences attitude towards
+ et al., 2010) and negatively inﬂuences
+online shopping (Bigne
+perceived risk (Kamarulzaman, 2007). Thus, it is hypothesised that:
+H15: Trust in online travel shopping has a positive inﬂuence on
+attitude towards online shopping.
+H16: Trust in online travel shopping has a negative inﬂuence on
+perceived risk of online travel shopping.
+Fig. 1 graphically summarises the research hypotheses.
+3. Methodology
+3.1. Sampling and data collection
+Theoretically, the population comprises all Internet users aged
+18 or more as they have already purchased travel online or exhibit a
+greater propensity to shop online. However, since there does not
+exist a list of Internet users it is impossible to select our sampling
+elements from the population directly. Consequently, a nonprobabilistic sampling procedure e convenience sampling e was
+used to collect data.
+
+To collect the data the questionnaire was distributed online,
+using the Survey Gizmo questionnaire tool (www.surveygizmo.
+com). Since the study focuses on online travel shopping, it was
+not necessary to address the concerns of individuals that do not
+have access to the Internet.
+In late July of 2012, e-mail invitations were sent to colleagues,
+students, personal contacts, professional list-serve lists, and other
+e-mail contacts collected. The e-mail invitations provided respondents with information on the purpose of the study, the
+approximate time to ﬁll out the questionnaire and information on
+the prize draw for those who completed the survey. Moreover, links
+to the survey were placed on Facebook and LinkedIn.
+These contacts and list-serve lists were composed majority of
+Portuguese Internet users, but also Internet users from all over the
+world. Therefore, the questionnaire was available in Portuguese
+and in English. Each language had its own URL link, although it was
+possible to switch languages on the ﬁrst page of the questionnaire.
+The questionnaire was available online between July 17th and
+September 12th of 2012. During this period, a total of 1759 responses was obtained. Since the total number of responses was
+large, the complete case approach was used (Hair, Black, Babin, &
+Anderson, 2010) and responses with missing values were eliminated. Thus, a total of 1732 responses was considered valid for
+further analyses. It should be stressed that the most common rule
+to determine sample size for PLS estimation consists in determining the sample according to the most complex multiple
+regression in the model, which consists in either the number of
+indicators on the most complex formative construct or the largest
+number of antecedents leading to a construct in the inner model
+(Barclay, Higgins, & Thompson, 1995). Once determined which is
+greater, the sample size required is 10 cases per predictor. In the
+proposed model, the most complex regression involves the number
+of structural paths directed at the intentions to purchase travel
+online construct, which are seven. Thus, according to this rule, the
+minimum sample size necessary would be 70. With 1732 responses, the PLS analysis appears to have sufﬁcient power.
+3.2. Questionnaire and measurements
+The questionnaire for the current study was divided into 2 main
+sections. The ﬁrst section contained questions directed to the scale
+items (indicators), selected to measure each construct based on
+existing measures or adapted from similar scales (see Appendix 1 for
+the items used and sources). All items were measured using a 5-point
+Likert scale, with 5 being “Strongly Agree” and 1 “Strongly Disagree”,
+except for item INT1, in which 5 was “Very High” and 1 “Very Low”.
+It should be noted that all ﬁrst-order constructs have a reﬂective
+measurement, where the indicators are considered to be functions
+of the latent construct (Hair, Ringle, & Sarstedt, 2011; Hair et al.,
+2010). The second-order constructs (perceived relative advantages and perceived behavioural control), however, have a formative measurement, since the ﬁrst-order variables are assumed to
+cause the second-order variables, i.e., changes in the ﬁrst-order
+variables would cause changes in the underlying variable (Jarvis,
+MacKenzie, & Podsakoff, 2003).3
+The last section of the questionnaire contained questions
+regarding respondents' demographic characteristics, namely age,
+gender and education level. In this section, respondents were also
+asked to leave their e-mail contact in case they wanted to enter the
+
+3
+The second-order constructs were operationalised using the repeated indicator
+approach as it produces more precise parameter estimates and a more reliable
+higher-order construct score for reﬂective-formative hierarchical constructs
+(Becker, Klein, & Wetzels, 2012).
+
+S. Amaro, P. Duarte / Tourism Management 46 (2015) 64e79
+
+69
+
+Fig. 1. The theoretical model.
+
+prize draw of an Amazon voucher and a free night at a 5 star hotel,
+offered in order to increase response rates. To prevent duplicate
+responses, the option to control and remove duplicate responses by
+IP address available in the Surveygizmo platform was used. The
+online questionnaire listed only a few questions per screen, as there
+is some evidence that suggests that this procedure minimises
+abandonment (Schonlau, Fricker, & Elliott, 2002).
+3.3. Data analysis
+Partial least squares structural equation modelling (PLS-SEM),
+using the SmartPLS 2.0 programme (Ringle, Wende, & Will, 2005),
+was used to validate the measures developed and test the hypotheses. This approach readily incorporates both reﬂective and
+formative measures and has less restrictive assumptions about the
+data (Hair, Ringle, Hult, & Sarstedt, 2013; Hair, Sarstedt, Pieper, &
+Ringle, 2012; Hair et al., 2011). For instance, PLS does not require
+a normal distribution since it uses bootstrapping to empirically
+estimate standard error for its parameter estimates (Gefen, Rigdon,
+& Straub, 2011; Henseler, Ringle, & Sarstedt, 2012). Therefore,
+normality in the distribution was not checked for. Moreover, constructs with fewer items can be used. Since ﬁve constructs in the
+model (Intentions to purchase travel online, Perceived Compatibility, Enjoyment, Self-efﬁcacy and Controllability) only have two
+items, this characteristic seemed relevant.
+4. Results
+4.1. Socio-demographic characteristics
+A demographic proﬁle of survey participants is summarised in
+Table 1. The age group with the most signiﬁcant number of
+
+responses was the age group 18e29, with 34.6% of the total of responses, while only approximately 13% are aged over 50.
+In terms of gender, there is a slight skew towards a higher
+proportion of female participants (61.5%). The sample seems to be
+composed by highly educated individuals, with approximately 88%
+of the respondents holding at least a college degree, against only
+11.6% who have only completed the 12th grade or less. Regarding
+the country of residence, there was a prominence of responses from
+European residents.
+
+Table 1
+Demographic proﬁle of respondents.
+Variable
+
+Category
+
+N
+
+% of Responded
+
+Age
+
+18e29
+30e39
+40e49
+50e59
+Over 60
+TOTAL
+Male
+Female
+TOTAL
+12th grade or less
+College Degree
+Master Degree
+Doctoral Degree
+TOTAL
+Asia
+Africa
+Europe
+North America
+South America
+Oceania
+TOTAL
+
+599
+496
+404
+179
+54
+1732
+667
+1065
+1732
+201
+565
+576
+390
+1732
+52
+19
+1531
+27
+84
+19
+1732
+
+34.6
+28.6
+23.3
+10.3
+3.1
+100
+38.5
+61.5
+100
+11.6
+32.6
+33.3
+22.5
+100
+3
+1.1
+88.39
+1.56
+4.85
+1.1
+100
+
+Gender
+
+Education Level
+
+Continent of Residence
+
+70
+
+S. Amaro, P. Duarte / Tourism Management 46 (2015) 64e79
+
+4.2. Model assessment
+The evaluation of a research model using PLS analysis consists of
+two distinct steps. The ﬁrst step includes the assessment of the
+measurement (outer) model and deals with evaluating the characteristics of the constructs and measurement items that represent
+them. The second step involves the assessment of the structural
+(inner) model and the evaluation of the relationships between the
+constructs as speciﬁed by the research model. It should be noted
+that PLS path modelling does not provide any global goodness-ofﬁt criterion, as CB-SEM does, which implies a lack of measures for
+overall model ﬁt (Hair, Sarstedt, Ringle, & Mena, 2012; Henseler
+et al., 2012).
+4.2.1. Measurement model
+The ﬁrst part in evaluating a model is to present the outer model
+results to examine the reliability and validity of the measures used
+to represent each construct (Chin, 2010). However, procedures used
+to assess the validity and reliability of reﬂective constructs are
+different than the ones used to assess formative constructs
+(Diamantopoulos & Winklhofer, 2001). Since the model has both
+reﬂective and formative measurements, the measurement model
+assessment will be divided to distinguish these two types of
+constructs.
+4.2.1.1. Reﬂective measurement. Assessment of reﬂective constructs
+involves determining indicator reliability, internal consistency
+reliability, convergent validity and discriminant validity, as
+described by Hair et al. (2011) and Henseler, Ringle, and Sinkovics
+(2009).
+As shown in Table 2, all measures are robust in terms of their
+reliability, since all Cronbach's alpha are higher than 0.7, except for
+Controllability with 0.628, but still above the acceptable threshold
+of 0.6 (Hair et al., 2010). Furthermore, the composite reliabilities,
+that many researchers consider more suitable for PLS-SEM than
+Cronbach's alpha (e.g. Hair et al., 2011; Henseler et al., 2009), range
+from 0.84 to 0.97, which exceed the recommended threshold value
+of 0.70 (Bagozzi & Yi, 1988). Finally, all indicator loadings are above
+the 0.6 cut-off (Chin, 1998; Henseler et al., 2009).
+To evaluate convergent validity, as suggested by Fornell and
+Larcker (1981), each construct's AVE was calculated (see Table 2).
+The results support convergent validity, since they all exceed 0.50,
+ranging from 0.57 to 0.89.
+Discriminant validity was assessed following Fornell and
+Larcker (1981) guidelines, to examine if a construct is more
+strongly related to its own measures than with any other construct
+by examining the overlap in variance by comparing the AVE of each
+construct with the squared correlations among constructs (Chin,
+2010). Table 3 shows the correlations between constructs, where
+the diagonal elements are the square roots of the AVEs. As
+observed, the square root of each construct's AVE is larger than its
+correlations with any other construct. Therefore, each construct
+shares more variance with its own block of indicators than with
+another latent variable representing a different block of indicators
+(Henseler et al., 2009), supporting the adequate discriminant validity of the scales.
+Discriminant validity was further assessed by extracting the
+factor and cross loadings of all indicators to their respective constructs. Not only should each indicator be strongly related to the
+construct it attempts to reﬂect, but also should not have a stronger
+connection with another construct (Chin, 2010). The results, presented in Appendix 2, indicate that all indicators loaded on their
+respective construct more highly than on any other, conﬁrming that
+the constructs are distinct.
+
+In conclusion, these results provide support for the overall
+quality of the reﬂective constructs' measures.
+
+4.2.1.2. Formative constructs. The formative constructs proposed in
+the model e perceived behavioural control and perceived relative
+advantages - are second-order constructs. Tests of measurement
+quality for a second-order factor model should, by analogy, follow
+the same process that is used to examine the ﬁrst-order factors
+(Chin, 1998). Therefore, the assessments of measurement quality of
+second-order constructs are conducted in two stages, at the ﬁrstorder construct level (carried out in the previous section, since all
+ﬁrst-order constructs are reﬂective) and at the second-order
+construct level, in which the ﬁrst-order constructs act as indicators
+of the second-order construct (Hair et al., 2010).
+The weights of the ﬁrst-order constructs on the second-order
+constructs and their signiﬁcance were examined (see Table 4), to
+assess if each ﬁrst-order construct contributes to form the second-order construct (Chin, 1998; Hair et al., 2011). For a formative higher-order construct, the weights of the lower-order
+constructs are especially important as they represent actionable
+drivers of the higher-order construct (Becker, Klein, & Wetzels,
+2012).
+All ﬁrst-order constructs weights are signiﬁcant, which means
+that there is empirical support for the ﬁrst-order constructs relevance for the construction of the formative second-order constructs
+as theoretically conceived, demonstrating a sufﬁcient level of validity (Hair et al., 2011; Urbach & Ahlemann, 2010). Moreover, the
+weights are higher than 0.10 and their sign is consistent with the
+underlying theory (Andreev, Heart, Maoz, & Pliskin, 2009).
+Regarding perceived relative advantages, it should be noted that
+ﬁnancial advantages, time saving and convenience are the most
+relevant advantages.
+Another important criterion for assessing the validity of the
+ﬁrst-order constructs is to examine multicollinearity. Unlike constructs with a reﬂective measurement, where multicollinearity
+between construct items is desirable, excessive multicollinearity
+between the formative ﬁrst-order constructs can destabilise the
+model (Diamantopoulos & Winklhofer, 2001) and may cause the
+weights to be non-signiﬁcant and, therefore, redundant (Hair et al.,
+2011). If the ﬁrst-order constructs are highly correlated, it may
+suggest that they are tapping into the same aspect of the construct
+(Petter, Straub, & Rai, 2007) and therefore, a formative nature for
+the second-order construct would be inappropriate. Therefore, to
+ensure that multicollinearity was not present, the variance inﬂation
+factor (VIF) was determined, with values varying from 1.504 to a
+maximum of 3.083, which is far below the common cut-off
+threshold of 5 (Hair et al., 2011).
+At the second-order construct level it is important to assess the
+nomological validity, i.e., if the formative construct carries the
+intended meaning. This may be manifested in the magnitude and
+signiﬁcance of the relationships between the second-order
+formative construct and other constructs in the research model,
+which are expected to be strong and signiﬁcant based on previous
+research (Henseler et al., 2009).
+Table 5 shows the relationships between the second-order
+constructs and other constructs in the model, according to the
+hypotheses proposed in the model.
+The results indicate signiﬁcant relationships between perceived
+behavioural control and perceived relative advantages with other
+constructs in the model, consistent with underlying theory, indicating nomological validity. Although perceived relative advantage
+does not exhibit a signiﬁcant effect on intentions to purchase travel
+online, as hypothesised, this is due to the mediating effect of attitude, as will further be discussed.
+
+S. Amaro, P. Duarte / Tourism Management 46 (2015) 64e79
+
+71
+
+Table 2
+Measurement statistics of construct scales based on reﬂective indicators.
+Construct/Indicators
+
+Mean
+
+Standard
+Deviation
+
+Intentions to Purchase Travel Online
+INT1
+INT2
+Attitude
+ATT1
+ATT2
+ATT3
+ATT4
+ATT5
+Communicability
+CMM1
+CMM2
+CMM3
+Perceived Complexity
+CXY1
+CXY2
+CXY3
+CXY4
+Compatibility
+CMP1
+CMP2
+Self-Efﬁcacy
+SEF1
+SEF2
+Controllability
+CTR1
+CTR2
+Convenience
+CNV1
+CNV2
+CNV3
+Financial Advantages
+FAD1
+FAD2
+FAD3
+Time Saving
+TSV1
+TSV2
+TSV3
+Enjoyment
+EJY1
+EJY2
+Product Variety
+PVR1
+PVR2
+PVR3
+Perceived Risk
+RSK1
+RSK2
+RSK3
+RSK4
+RSK5
+Trust
+TRT1
+TRT2
+TRT3
+TRT4
+TRT5
+
+3.95
+3.89
+4.00
+3.96
+4.10
+4.01
+3.89
+3.89
+3.85
+4.15
+4.29
+4.21
+3.88
+2.09
+2.37
+2.08
+1.88
+2.15
+3.66
+3.79
+3.50
+4.15
+4.11
+4.20
+4.38
+4.51
+4.17
+4.08
+4.24
+3.88
+4.10
+3.79
+3.91
+3.72
+3.74
+3.98
+4.03
+4.07
+3.80
+3.06
+3.06
+3.06
+3.48
+3.40
+3.51
+3.55
+2.70
+2.50
+2.76
+2.64
+2.82
+2.80
+3.55
+3.29
+3.53
+3.61
+3.49
+3.71
+
+1.03
+1.17
+1.02
+0.78
+0.82
+0.90
+0.92
+0.90
+0.99
+0.65
+0.72
+0.76
+0.86
+0.64
+1.02
+0.85
+0.72
+0.87
+0.95
+0.99
+1.07
+0.78
+0.86
+0.82
+0.65
+0.64
+0.97
+0.62
+0.73
+0.82
+0.75
+0.72
+0.84
+0.83
+0.80
+0.71
+0.77
+0.76
+0.88
+0.83
+0.88
+0.91
+0.74
+0.87
+0.87
+0.93
+0.83
+0.94
+1.13
+1.08
+1.02
+1.03
+0.66
+0.92
+0.79
+0.79
+0.95
+0.89
+
+a
+
+Indicator
+Loadings
+
+t-valuea
+
+0.94
+0.94
+
+278.60
+199.97
+
+0.90
+0.94
+0.91
+0.90
+0.66
+
+143.17
+243.34
+142.33
+102.24
+27.90
+
+0.85
+0.90
+0.77
+
+60.06
+131.00
+48.12
+
+0.69
+0.79
+0.83
+0.70
+
+30.56
+51.66
+80.35
+37.98
+
+0.94
+0.92
+
+321.47
+155.73
+
+0.93
+0.94
+
+174.95
+199.64
+
+0.87
+0.83
+
+140.99
+72.22
+
+0.79
+0.79
+0.84
+
+61.08
+64.80
+76.99
+
+0.89
+0.90
+0.84
+
+160.01
+142.68
+76.69
+
+0.91
+0.92
+0.82
+
+155.53
+163.84
+68.63
+
+0.92
+0.94
+
+151.34
+254.61
+
+0.81
+0.86
+0.83
+
+62.69
+95.27
+99.46
+
+0.83
+0.80
+0.80
+0.75
+0.81
+
+89.39
+74.45
+61.57
+50.87
+71.55
+
+0.66
+0.65
+0.82
+0.83
+0.81
+
+33.91
+33.03
+89.01
+75.92
+66.40
+
+Composite
+reliability
+
+Cronbach’s a
+
+Average Variance
+Extracted
+
+0.94
+
+0.87
+
+0.89
+
+0.94
+
+0.91
+
+0.75
+
+0.88
+
+0.79
+
+0.71
+
+0.84
+
+0.75
+
+0.57
+
+0.93
+
+0.84
+
+0.86
+
+0.93
+
+0.85
+
+0.87
+
+0.84
+
+0.63
+
+0.73
+
+0.85
+
+0.73
+
+0.65
+
+0.91
+
+0.85
+
+0.77
+
+0.91
+
+0.86
+
+0.78
+
+0.93
+
+0.84
+
+0.86
+
+0.87
+
+0.78
+
+0.69
+
+0.90
+
+0.96
+
+0.64
+
+0.87
+
+0.81
+
+0.57
+
+t-values were obtained with the bootstrapping procedure (5000 samples) and are signiﬁcant at the 0.001 level.
+
+4.2.2. Inner model assessment
+Since the outer model evaluation provided evidence of reliability and validity, the inner model estimates were examined to
+assess the hypothesised relationships among the constructs in the
+conceptual model (Hair et al., 2013). The inner model proposed in
+this study was evaluated with several measures, following Henseler
+et al.'s (2009, 2012) and Hair et al.'s (2013) recommendations.
+The standardised path coefﬁcients and signiﬁcance levels provide evidence of the inner model's quality (Hair, Sarstedt, Ringle
+et al., 2012) and allow researchers to test their proposed
+
+hypotheses. The path coefﬁcients and signiﬁcance levels are illustrated in Fig. 2.
+The total effects (indirect effect þ direct effect) of the independent constructs on the dependent ones were also examined,
+since they provide practitioners with actionable results regarding
+cause-effect relationships. Table 6 shows the direct, indirect and
+total effects of the predictors of the main dependent variable of the
+model, intentions to purchase travel online.
+The ﬁrst hypothesis predicted that attitude towards online
+travel shopping would positively inﬂuence intentions to purchase
+
+72
+
+S. Amaro, P. Duarte / Tourism Management 46 (2015) 64e79
+
+Table 3
+Discriminant validity of the constructs e correlations between constructs.
+Constructs
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+1. Attitude
+2. Communicability
+3. Compatibility
+4. Complexity
+5. Controllability
+6. Convenience
+7. Enjoyment
+8. Financial Advantage
+9. Perceived Risk
+10. Product Variety
+11. Purchase Intentions
+12. Self-Efﬁcacy
+13. Time Saving
+14. Trust
+
+0.87
+0.49
+0.74
+0.5
+0.43
+0.58
+0.42
+0.51
+0.52
+0.44
+0.78
+0.53
+0.51
+0.59
+
+0.84
+0.33
+0.34
+0.34
+0.39
+0.18
+0.29
+0.27
+0.24
+0.39
+0.32
+0.34
+0.32
+
+0.93
+0.52
+0.44
+0.59
+0.44
+0.47
+0.58
+0.45
+0.7
+0.57
+0.46
+0.63
+
+0.76
+0.54
+0.55
+0.24
+0.37
+0.56
+0.27
+0.46
+0.59
+0.43
+0.55
+
+0.85
+0.5
+0.14
+0.29
+0.36
+0.2
+0.43
+0.58
+0.37
+0.38
+
+0.8
+0.36
+0.58
+0.46
+0.45
+0.51
+0.49
+0.63
+0.52
+
+0.93
+0.38
+0.28
+0.6
+0.33
+0.24
+0.39
+0.35
+
+0.88
+0.34
+0.53
+0.44
+0.31
+0.52
+0.41
+
+0.8
+0.28
+0.53
+0.49
+0.34
+0.73
+
+0.83
+0.39
+0.24
+0.46
+0.35
+
+0.94
+0.53
+0.41
+0.53
+
+0.93
+0.35
+0.49
+
+0.88
+0.42
+
+0.76
+
+Bold numbers represent the square roots of the AVEs.
+
+travel online. Consistent with intention based models and with
+
+other studies conducted in the online travel context (e.g. Bigne
+et al., 2010; Lee et al., 2007; Morosan & Jeong, 2008), attitude
+was found to be signiﬁcantly associated with intentions to purchase
+travel online (b ¼ 0.55, p < 0.001).
+The second and third hypotheses proposed that communicability inﬂuences intentions to purchase travel online and perceived
+risk. The former hypothesis was based on Morrison et al.'s (2001)
+ﬁndings that people were more likely to book online if they knew
+that many other people were doing likewise. However, this hypothesis was not supported (b ¼ 0.01, p ¼ 0.33). This result is not
+totally unexpected, since the inﬂuence of others to perform behaviours in volunteering settings e such as the purchase of travel
+online e has been found to be weak or non-existent (e.g. Davis
+et al., 1989; Hsu & Chiu, 2004; San Martín & Herrero, 2012; Shih
+& Fang, 2004). The current results support Li and Buhalis's (2006)
+ﬁndings that communicability is not an important factor in
+explaining the purchase of travel online. The latter hypothesis
+pertaining that communicability would reduce people's perceived
+risk regarding the purchase of travel online was also not supported
+(b ¼ 0.03, p ¼ 0.09). Both hypotheses using communicability were
+rejected leading us to interesting conclusions. It suggests that the
+inﬂuence of friends tends to diminish as the purchase of travel
+online gets more widespread and that it is most likely that this
+inﬂuence is important for new phenomenon.
+The fourth hypothesis that stated “Individuals' perceived
+complexity of online travel shopping will be negatively related to
+attitude towards online travel shopping”, was supported
+(b ¼ 0.05, p < 0.05). This ﬁnding is right in line with the IDT that
+posits that innovations that are simpler to understand will be
+adopted more quickly (Rogers, 1995). Purchasing travel online can
+be a complex process, since there are many travel suppliers online
+and different procedures to conclude the purchase. Internet users
+that feel that it is complex will have a less favourable attitude towards the purchase of travel online. However, this effect is
+Table 4
+Weights of the ﬁrst-order constructs on the second-order constructs.
+2nd Order Constructs
+
+1st Order Constructs
+
+Weight
+
+t-Statistic
+
+Perceived Behavioural Control
+
+Self-Efﬁcacy
+Controllability
+Convenience
+Financial Advantage
+Time Saving
+Enjoyment
+Product Variety
+
+0.64
+0.48
+0.27
+0.30
+0.30
+0.18
+0.24
+
+60.79***
+61.01***
+39.38***
+41.94***
+42.32***
+30.27***
+37.39***
+
+Perceived Relative Advantages
+
+***Signiﬁcant at 0.001 level based on 5000 bootstraps.
+
+relatively weak. Complexity appears to be relevant when an individual ﬁrst starts a new behaviour, but after a period of time its
+inﬂuence becomes less signiﬁcant (Vijayasarathy, 2004).
+Internet users' perception about the compatibility of online
+travel shopping appears to be a strong predictor of online travel
+shopping. Indeed, the ﬁfth and sixth hypothesis predicting a relationship with attitude and intentions to purchase travel online,
+respectively, were supported (b ¼ 0.47, p < 0.001 and b ¼ 0.20,
+p < 0.001). This result suggests that people who feel that online
+travel shopping is compatible with their lifestyle will have a more
+favourable attitude towards online travel shopping and can be expected to purchase travel online more readily.
+The seventh and eighth hypotheses were concerned with the
+role of perceived behavioural control, a construct borrowed from
+the TPB. The seventh hypothesis was supported by the data
+(b ¼ 0.10, p < 0.001), indicating that perceived behavioural control
+positively inﬂuences intentions to purchase travel online, echoing
+the postulation of the TPB. This result helps to better clarify the
+contradictory ﬁnding of a previous study regarding the purchase of
+ et al., 2010) that had found that perceived
+travel online (Bigne
+behavioural control did not affect intentions to purchase travel
+online.
+Data analysis also indicates that perceived behavioural control
+has a signiﬁcant negative effect on perceived complexity
+(b ¼ 0.64, p < 0.001), which indicates that individuals who feel
+they have the capability and resources to purchase online will
+perceive online shopping as easier to use, consistent with the
+ﬁndings of other studies (e.g. Hernandez et al., 2009).
+The tenth hypotheses that predicted that perceived relative
+advantages of online travel shopping would positively affect intentions to purchase travel online was accepted (b ¼ 0.00, p ¼ 0.38).
+However, contrary to what was expected, hypothesis nine, that
+established a positive relationship between perceived relative advantages and intentions to purchase travel online was not supported (b ¼ 0.00, p ¼ 0.38). Yet, Table 6 shows that perceived
+
+Table 5
+Structural estimates between second-order constructs and other constructs in the
+model.
+Path
+Perceived
+Perceived
+Perceived
+Perceived
+
+Coefﬁcient t-Statistic
+Behavioural Control / Intentions to Purchase 0.10
+Behavioural Control / Complexity
+0.64
+Relative Advantage / Attitude
+0.26
+Relative Advantage / Intentions to Purchase
+0.00
+
+4.45***
+42.17***
+10.94***
+0.32 ns
+
+***Signiﬁcant at the 0.001 level based on 5000 bootstrap samples; ns e nonsigniﬁcant.
+
+S. Amaro, P. Duarte / Tourism Management 46 (2015) 64e79
+
+73
+
+Fig. 2. PLS analysis results.
+
+relative advantages have a signiﬁcant total effect on intentions to
+purchase travel online (b ¼ 0.19, p < 0.001). Further examinations
+following Holmbeck (1997) recommendations and Sobel's (1982) Zstatistic proved that attitude totally mediated the relationship between perceived relative advantages and intentions to purchase
+travel online. Therefore, the unsupported hypothesis must be
+analysed with caution. Not only is the total effect of perceived
+relative advantages on intentions to purchase travel online significant, but also it is one of its most important predictors.
+Hypothesis 11, that expected a positive relationship between
+perceived relative advantages and trust was conﬁrmed (b ¼ 0.54,
+p < 0.001). This was an important ﬁnding, since this relationship
+has never been explored in the context of online travel shopping.
+This means that Internet users trust in online shopping can be
+increased by emphasising the perceived relative advantages of
+online travel shopping.
+Hypotheses 12 and 13 concerned the inﬂuence of perceived risk
+of online travel shopping on attitude and intentions to purchase
+travel online. The latter hypothesis was supported (b ¼ 0.12,
+p < 0.001), while the former was not (b ¼ 0.03, p ¼ 0.18). Although
+perceived risk does not affect attitude towards online shopping, it
+may inhibit individuals from purchasing travel online, since it
+negatively inﬂuences intentions.
+Few studies have addressed trust in the context of online travel
+shopping and the few that have done so reached different conclusions. Hypotheses 14 and 15, proposing that trust would be
+Table 6
+Direct, indirect and total effects on intentions to purchase.
+Construct
+Attitude
+Communicability
+Compatibility
+Complexity
+Perceived Behavioural Control
+Perceived Relative Advantages
+Perceived Risk
+Trust
+
+Direct
+0.55
+0.01
+0.29
+e
+0.10
+0.00
+0.12
+0.06
+
+Indirect
+
+Total
+
+t-Statistic
+
+e
+e
+
+0.55
+0.01
+0.46
+0.03
+0.12
+0.19
+0.14
+0.10
+
+22.12***
+0.51 ns
+15.56***
+2.06*
+5.20***
+7.53***
+4.74***
+3.82***
+
+0.17
+0.03
+0.02
+0.19
+0.02
+0.16
+
+*Signiﬁcant at the 0.05 level; *** Signiﬁcant at the 0.001 level; ns e non-signiﬁcant.
+
+positively associated with attitude and negatively associated with
+perceived risk were conﬁrmed (b ¼ 0.11, p < 0.001 and b ¼ 0.72,
+ et al. (2010) and of
+p < 0.001), supporting the ﬁndings of Bigne
+Kamarulzaman (2007) that trust inﬂuences perceived risk and
+attitude. However, contrary to these authors that did not ﬁnd a
+direct impact of trust on intentions, the results of this study support
+this relationship, accepting hypothesis 16 (b ¼ 0.06, p < 0.05). It
+should however be noted that it has a small impact.
+To evaluate the predictive power of the research model, a major
+emphasis in PLS analysis is to examine the explained variance (R2)
+of the endogenous constructs4 (Chin, 2010) that indicate the
+amount of variance in the construct which is explained by the
+model.
+As shown in Fig. 2, R2 values range from 0.289 to 0.67, which
+indicates that the model has high predictive value and is capable of
+explaining endogenous constructs.
+Another approach to assess predictive relevance is to apply the
+predictive sample reuse technique developed by Geisser (1975) and
+Stone (1974) , known as the StoneeGeisser's Q2. The Q2 values of the
+endogenous constructs were calculated in SmartPLS, with the
+blindfolding procedure, and were all superior to zero (ranging from
+0.17 to 0.58), indicative of the endogenous constructs' predictive
+relevance.
+5. Conclusions and implications
+From a theoretical perspective, this study has made several
+advances. First, because it examines online travel shopping based
+on a holistic approach, integrating several theoretical models and
+validates the integration of these theories in the context of online
+travel shopping. It conﬁrms attitude and perceived behavioural
+control as predictors of intentions as postulated in the TRA
+(Fishbein & Ajzen, 1975), and TPB (Ajzen, 1991), respectively. The
+
+4
+It should be noted that when the repeated indicators approach is used, the
+variance of the second-order construct is perfectly explained by its lower components, therefore R2 ¼ 1.0 (Ringle, Sarstedt, & Straub, 2012). Therefore the R2 of the
+second-order constructs is not reported.
+
+74
+
+S. Amaro, P. Duarte / Tourism Management 46 (2015) 64e79
+
+study shows that Rogers' (1995) IDT can be used to explain intentions to purchase travel online, since the innovations characteristics of relative advantages, compatibility and complexity are
+valid predictors of intentions to purchase travel online. The results
+also indicate that the IDT is superior to TAM, since adding
+compatibility increases the explained variance. More, the study
+demonstrates that perceived relative advantages and complexity
+(similar to perceived usefulness and perceived ease of use,
+respectively, from the TAM) are important predictors of attitude
+towards online shopping. By integrating all these theories and
+adding other relevant constructs, a holistic view was obtained,
+providing more information than studies with fragmented results.
+Considering that research with multidimensional constructs
+using PLS path modelling is still limited (Wetzels, OdekerkenSchroder, & van Oppen, 2009), this study ﬁlls this gap by using
+multidimensional constructs to operationalise three constructs.
+Using multidimensional constructs enhance the understanding of
+the overall construct (Law et al., 1998), by providing detail on
+different facets of the construct (Petter et al., 2007). In particular:
+- The empirical results have shown that perceived behavioural
+control can be conceptualised as a second-order construct,
+formed by two distinct dimensions: self-efﬁcacy and controllability. Although Ajzen (2002) recommends decomposing
+perceived behavioural control in this manner, no study focussing on online travel purchasing intentions had conceptualised
+perceived behavioural control in this way.
+- This study has shown that perceived relative advantages can be
+operationalised as a multidimensional construct, composed by
+convenience, time saving, ﬁnancial advantages, enjoyment and
+product variety. Each dimension represents a facet of the advantages of purchasing travel online, identiﬁed in the literature
+review.
+Although not a part of the main aim of this research, other
+ﬁndings have been made concerning the role of several constructs
+that were unexplored or had contradictory results. For instance,
+ et al., 2010) considered perceived behavonly one study (Bigne
+ioural control and, contrary to what the TPB posits, it found that it
+did not affect intentions to purchase travel online. However, this
+study's results are consistent with the TPB, since they show that
+perceived behavioural control affects intentions to purchase travel
+online.
+At a time when Internet use and online travel shopping are more
+prevalent, factors such as perceived behavioural control or
+perceived complexity with online travel shopping play a small role.
+What really matters for Internet users to purchase travel online is
+having a favourable attitude towards online travel shopping and
+ﬁnding it compatible with their lifestyle. Furthermore, individuals
+that perceive the advantages of purchasing travel online, namely
+time saving, convenience and ﬁnancial aspects, will be more likely
+to purchase travel online. It is also interesting to note that even
+though trust and security in computer systems are increasing
+(Bogdanovych, Berger, Simoff, & Sierra, 2006) and online shopping
+is nowadays a common practice, perceived risk continues to
+negatively affect intentions to purchase travel online.
+It is evident that attitude towards online travel shopping is the
+most relevant determinant of intentions to purchase travel online.
+Therefore, online travel marketers need to pay close attention to
+the factors that contribute to a favourable attitude. This study has
+evidenced some of those factors, namely trust, complexity and
+perceived relative advantages.
+Fam, Foscht, and Collins (2004) found that in order to increase
+trust in online shopping, providers should offer a warranty of
+refund to consumers, reassure that the information provided will
+
+remain conﬁdential and private, provide formal guarantees of service and/or products, inform if the travel service is available at the
+time of purchase and welcome feedback and comments. Providing
+explanations of all the costs involved, offering reliable security
+measures, no disclosure of credit card details, using the latest
+encryption technology, explaining how the information collected
+will be used, providing a functional navigation and having a welldesigned website are other actions that can increase trust in online travel shopping (Austin, Ibeh, & Yee, 2006; Chen, 2006; Kim
+et al., 2011; Wen, 2010).
+Since perceived relative advantages is a signiﬁcant predictor of
+attitude towards online travel shopping, online travel providers
+need to emphasise the advantages of purchasing travel online,
+bearing in mind the advantages that potential buyers most value.
+The results of the current study have revealed that ﬁnancial advantages are viewed as a major advantage. Therefore, online travel
+providers should guarantee the lowest price and offer other
+ﬁnancial advantages such as discounts, coupons and other ﬁnancial
+incentives. For example, Intercontinental Hotels Group guarantee
+that they have the lowest price, by offering the ﬁrst night for customers that ﬁnd a lower price elsewhere. This is even more
+important considering that travellers have pointed out the lack of
+conﬁdence that they are getting a good deal as one of the main
+reasons why they experience frustration online (PhocusWright,
+2012).
+The results support that convenience and time saving are also
+important advantages for travellers to purchase travel online. Online travel providers should provide procedures that are convenient
+to travellers such as easy payment features or personalised information based on past behaviours. They can strive to satisfy these
+needs by, for example, making relevant bits of scattered information convenient and easy to retrieve (PhocusWright, 2012) and
+make suggestions based on customers' past bookings.
+The second most important predictor of intentions to purchase
+travel online in the model is the Internet user's compatibility. As
+Vijayasarathy (2004) points out, individuals that ﬁnd online travel
+shopping compatible with their lifestyles may be “time starved and
+constantly exploring ways to reduce the time to complete various
+tasks to manage their busy schedules” (p.757). This is further
+reinforced by the results obtained in perceived relative advantages,
+as time saving and convenience were found to be signiﬁcant advantages of purchasing travel online. With hundreds of options
+resulting from an online search, travellers are often overloaded and
+feel frustrated (PhocusWright, 2012). Therefore, online travel providers should take advantage of technological advances, by analysing travellers' past behaviour to deliver personalised results and
+offer relevant promotions. Furthermore, considering that one third
+of mobile users are planning on the go (Koumelis, 2012), online
+travel providers should provide apps for mobile devices and tablets
+to purchase travel, with other features that facilitate convenience,
+such as boarding pass or check in.
+The results also support the important role that perceived risk
+plays in purchasing travel online. Therefore, online travel providers
+must provide effective ways to reduce users' perceived risk to
+enhance Internet users' willingness to purchase travel online. A
+strong ﬁrm reputation is important to reduce the risk associated
+with online shopping (Cases, 2002; Eastlick, Lotz, & Warrington,
+2006; Kim et al., 2009). Consequently, online travel providers
+should strive to build a good reputation, by, for example, cooperating with partners who already have a good reputation (GrabnerKraeuter, 2002), but also by providing fulﬁlling and satisfying
+transactions. Other risk reduction strategies are to provide travellers with information on their consumer rights and personal data,
+having a security approval symbol (e.g. VeriSign), provide contact
+information, offer money back guarantees, and have high security
+
+S. Amaro, P. Duarte / Tourism Management 46 (2015) 64e79
+
+standards that should be communicated to consumers, as well as
+clear privacy information protecting consumers' personal infor et al., 2010; Cases, 2002; Kim et al., 2009; Lin et al.,
+mation (Bigne
+2009; Powley et al., 2004; Vijayasarathy, 2004).
+Trust presents a statistical signiﬁcant impact on intentions to
+purchase travel online. However it is almost insigniﬁcant, contradicting a recent study that found that trust was the main predictor
+of intentions to purchase ﬂights from low-cost carrier websites
+(Escobar-Rodríguez & Carvajal-Trujillo, 2014). This ﬁnding points to
+the need for further investigation on the role of trust, as it is
+reasonable to assume that it may vary depending on the type of
+travel product being bought.
+6. Limitations and future research
+Even though the proposed model has been developed on a rich
+theoretical background, as in any research project, this study has
+limitations. First, the data used in this study were based on a
+convenience sample and, therefore, generalisations of the results
+must be made with caution. Although being a strong sample in
+terms of diversity and size, the examination of the respondents'
+characteristics shows a high proportion of respondents with higher
+education levels, which should not be ignored when assessing the
+conclusions. The replication of this study with a more balanced
+proportion of Internet users regarding the country of residence
+would be desirable.
+Another limitation of this study is related to the deﬁnition of
+online travel purchases. In this study, the deﬁnition considered is
+broad, since it includes the purchase of airline tickets, cruises,
+holiday packages and hotel reservations. Thus, further studies
+should study online purchasing motivations considering distinct
+travel product categories, rather than considering travel as one
+category. Indeed, a few studies (Bogdanovych et al., 2006;
+Kamarulzaman, 2007) has found that travellers usually purchase
+less complex travel online and prefer booking complex travel from
+a travel agent. Therefore, the results obtained in this study may
+differ if applied only to low complexity travel or to high complexity
+travel. On the other hand, the deﬁnition does not consider the
+different devises people may use to purchase travel online. Given
+the increasing penetration of smartphones, for example, future
+research could investigate if the results hold independently of the
+devise used.
+A third limitation of this study was that it did not consider crosscultural issues. For example, Heung's (2003) study concluded that
+online travel purchasers were more likely to be from Western
+countries. In a similar vein, Law, Bai, and Leung (2008) found that
+Americans had a higher propensity to purchase travel online than
+the Chinese. Future research should study which factors in the
+
+75
+
+proposed model are culture speciﬁc and which are cross-cultural.
+Studying the differences across nations is important in deciding
+which marketing elements may be standardised globally (Pizam,
+1999).
+The data was analysed using PLS equation modelling on the total
+sample. However, researchers have pointed out that this assumes
+that the data are homogeneous, which can be unrealistic (Ringle,
+Sarstedt, & Schlittgen, 2010). Therefore, future research may use
+multi-group analyses to identify if there is heterogeneity or
+segment level differences. In SmartPLS this can be done with the
+ﬁnite mixture PLS (FIMIX-PLS) tool. This approach identiﬁes
+different segments and their estimates for the relationships between constructs in the structural model (Ringle, 2006). A better
+understanding of the factors that inﬂuence intentions to purchase
+travel online in different segments enhances the possibilities of
+developing online marketing strategies that meet the needs of each
+segment.
+Given attitude's importance in explaining intentions to purchase
+travel online, it is essential to examine the factors affecting attitude
+formation, besides the ones considered in this study. For example,
+prior experience with online travel purchases (e.g. Morosan &
+Jeong, 2006), perceived playfulness (e.g. Morosan & Jeong, 2008),
+enjoyment (e.g. Hassanein & Head, 2007) and personal innovativeness (e.g. Limayem et al., 2000) have been found to affect attitude towards online shopping.
+In a similar vein, although the antecedents of intentions to
+purchase online explained a substantial amount of its variance,
+there may be other important factors which have not been included
+in the model, representing an opportunity for further research. For
+instance, satisfaction with previous online purchases (Kim et al.,
+2006) and consumer shopping orientations (Jensen, 2012) may
+explain intentions to purchase travel online.
+Finally, there has been strong evidence that supports the link
+between intended and actual behaviour. Yet, in the context of online shopping, this relationship has been largely overlooked. Future
+research should assert this relationship between intentions to
+purchase travel online and actual behaviour, since this relationship
+has never been examined in the travel context.
+In spite of several limitations, academic researchers, tourism
+practitioners and marketers can take advantage of this study to
+better understand the adoption of online travel shopping and
+consequently improve online travel distribution strategies. The
+recommendations for further investigations also provide researchers with challenging directions for future research.
+Appendix 1. Construct indicators
+
+Construct
+
+Indicators
+
+References
+
+Intentions to Purchase Travel Online
+
+INT1 e If you were to purchase travel the probability of purchasing
+online would be…(estimation)*
+INT2 e I expect to purchase travel online in the near future (intention).
+
+Attitude
+
+ATT1 e Online travel shopping is a good idea.
+ATT2 e Online travel shopping is a wise idea.
+ATT3 e I like the idea of purchasing travel online.
+ATT4 e Purchasing travel online would be pleasant.
+ATT5 e Purchasing travel online is appealing
+COMM1 e I have heard about people booking travel online many times.
+COMM2 e Many friends have purchased travel online.
+COMM3 e It is common for people to purchase travel online.
+SEF1 e I am proﬁcient in using the Internet for travel shopping.
+SEF2 e I feel conﬁdent that I can use the Internet to purchase travel.
+
+Adapted from Grewal, Monroe, and Krishnan
+(1998) and Teo and Yeong (2003)
+ et al. (2010) and
+Adapted from Bigne
+Limayem et al. (2000)
+Adapted from Ajzen and Fishbein (1980)
+
+Communicability
+
+Self-Efﬁcacy (ﬁrst-order construct of
+Perceived Behavioural Control)
+
+Li and Buhalis (2006) and Morrison
+et al. (2001)
+New Item
+Adapted from Vijayasarathy (2004)
+(continued on next page)
+
+76
+
+S. Amaro, P. Duarte / Tourism Management 46 (2015) 64e79
+
+(continued )
+Construct
+
+Indicators
+
+References
+
+Controllability (ﬁrst-order construct
+of Perceived Behavioural Control)
+
+CONT1 e All necessary resources (e.g. computer, internet access, time)
+for purchasing travel online are accessible to me.
+CONT2 e I have the necessary ﬁnancial means (e.g. credit card, Paypal)
+to purchase travel online.
+TRU1 e The chance of having a technical failure in an online transaction
+is quite small.
+TRU2 e I believe most e-commerce travel web sites will perform to the
+outmost of the customers' beneﬁt.
+TRU3 e I believe online travel sites are trustworthy.
+TRU4 e Internet shopping is unreliable. (R)
+TRU5 e Internet shopping cannot be trusted, there are too many
+uncertainties. (R)
+COMP1 e Using the internet to purchase travel is compatible with the
+way I like to shop.
+COMP2 e Using the Internet to purchase travel ﬁts with my lifestyle.
+COMP1 e I feel online purchasing procedures are not clear to me.
+COMP2 e I feel it is not easy to book travel online.
+COMP3 e I would ﬁnd it easy to purchase what I wanted online. (R)
+COMP4 e Purchasing online is easy. (R)
+RISK1 e I do not feel comfortable giving out credit card information to
+make a transaction over the Internet.
+RISK2 e I feel apprehensive about purchasing online.
+RISK3 e Purchasing travel online is risky.
+RISK4 e There is too much uncertainty associated with purchasing
+travel online.
+RISK5 e Compared with other methods of purchasing, shopping
+online is riskier.
+CONV1 e Purchasing travel online makes me less dependent of
+opening hours.
+CONV2 e Purchasing travel online has easy payment procedures.
+CONV3 e Purchasing travel online is more convenient than
+regular shopping,
+as I can do it anytime and anywhere.
+FADV1 e I save money by purchasing travel online.
+FADV2 e Online travel shopping provides more discounts than
+ofﬂine travel purchasing.
+FADV3 e Generally, travel websites offer tourism products at
+cheaper prices.
+TSAV1 e Purchasing travel online enables (will enable) me to
+complete shopping quickly.
+TSAV2 e I can save time by purchasing travel online.
+TSAV e Purchasing travel online takes less time than purchasing at
+travel agencies.
+EJY1 e Purchasing travel online is more exciting than purchasing
+ofﬂine.
+EJY2 e Purchasing travel online enjoys me more than purchasing
+ofﬂine.
+PVAR1 e There is a larger choice of travel products available
+when purchasing online.
+PVAR2 e The Internet allows me to purchase travel services that
+are not available ofﬂine.
+PVAR3 e I can design a custom made trip by purchasing travel online.
+
+Pavlou and Fygenson (2006)
+
+Trust
+
+Compatibility
+
+Complexity
+
+Perceived Risk
+
+Convenience (First-order construct
+of Perceived Relative Advantage)
+
+Financial Advantages (First-Order
+Construct of Perceived Relative
+Advantage)
+
+Time Saving (First-Order Construct
+of Perceived Relative Advantage)
+
+Enjoyment (First-Order Construct
+of Perceived Relative Advantage)
+
+Product Variety (Dimension of
+Perceived Relative Advantage)
+
+New Item
+Corbitt et al. (2003)
+
+Kim et al. (2011)
+Adapted from Lee and Turban (2001)
+
+Vijayasarathy (2004)
+
+Li and Buhalis (2006)
+Adapted from (Davis, 1989)
+Cho (2004)
+New Measure
+Shim et al. (2001)
+
+Adapted from Verhoef and Langerak (2001)
+
+Adapted from Limayem et al. (2000)
+
+Limayem et al. (2000)
+Kim et al. (2011)
+Adapted from Li and Buhalis (2006)
+Adapted from Davis (1989)
+Adapted from Limayem et al. (2000)
+Cho (2004)
+Adapted from Verhoef and Langerak (2001)
+Childers, Carr, Peck, and Carson (2001)
+Jensen (2009)
+
+New Measure
+
+Appendix 2. Factor Loadings (bolded) and cross loadings
+
+ATT1
+ATT2
+ATT3
+ATT4
+ATT5
+CMM1
+CMM2
+CMM3
+CMP1
+CMP2
+CXY1
+CXY2
+CXY3
+
+ATT
+
+CMM
+
+CMP
+
+CXY
+
+CTR
+
+CNV
+
+EJY
+
+FAD
+
+RSK
+
+PVR
+
+INT
+
+SEF
+
+TSV
+
+TRT
+
+0.90
+0.94
+0.91
+0.90
+0.66
+0.41
+0.44
+0.38
+0.74
+0.63
+0.29
+0.39
+0.48
+
+0.46
+0.44
+0.40
+0.44
+0.39
+0.85
+0.90
+0.77
+0.36
+0.24
+0.19
+0.25
+0.33
+
+0.68
+0.72
+0.67
+0.66
+0.43
+0.27
+0.30
+0.27
+0.94
+0.91
+0.34
+0.39
+0.48
+
+0.46
+0.46
+0.44
+0.46
+0.31
+0.29
+0.30
+0.26
+0.51
+0.46
+0.69
+0.79
+0.83
+
+0.42
+0.41
+0.35
+0.38
+0.26
+0.31
+0.32
+0.23
+0.44
+0.37
+0.33
+0.38
+0.51
+
+0.55
+0.54
+0.51
+0.54
+0.37
+0.33
+0.34
+0.31
+0.58
+0.52
+0.32
+0.39
+0.52
+
+0.34
+0.39
+0.41
+0.38
+0.30
+0.13
+0.15
+0.18
+0.41
+0.41
+0.13
+0.15
+0.22
+
+0.46
+0.46
+0.45
+0.46
+0.36
+0.23
+0.26
+0.25
+0.46
+0.40
+0.23
+0.27
+0.36
+
+0.49
+0.49
+0.45
+0.49
+0.29
+0.21
+0.25
+0.21
+0.55
+0.53
+0.45
+0.54
+0.41
+
+0.40
+0.42
+0.40
+0.40
+0.30
+0.18
+0.20
+0.23
+0.43
+0.39
+0.15
+0.16
+0.26
+
+0.78
+0.77
+0.67
+0.69
+0.41
+0.32
+0.36
+0.30
+0.71
+0.58
+0.30
+0.38
+0.44
+
+0.52
+0.52
+0.44
+0.48
+0.29
+0.28
+0.29
+0.24
+0.56
+0.49
+0.40
+0.43
+0.54
+
+0.46
+0.45
+0.47
+0.46
+0.37
+0.29
+0.30
+0.25
+0.45
+0.40
+0.23
+0.29
+0.43
+
+0.54
+0.55
+0.51
+0.55
+0.36
+0.26
+0.29
+0.26
+0.60
+0.57
+0.36
+0.47
+0.47
+
+S. Amaro, P. Duarte / Tourism Management 46 (2015) 64e79
+
+77
+
+(continued )
+
+CXY4
+CTR1
+CTR2
+CNV1
+CNV2
+CNV3
+EJY1
+EJY2
+FAD1
+FAD2
+FAD3
+RSK1
+RSK2
+RSK3
+RSK4
+RSK5
+PVR1
+PVR2
+PVR3
+INT1
+INT2
+SEF1
+SEF2
+TSV1
+TSV2
+TSV3
+TRT1
+TRT2
+TRT3
+TRT4
+TRT5
+
+ATT
+
+CMM
+
+CMP
+
+CXY
+
+CTR
+
+CNV
+
+EJY
+
+FAD
+
+RSK
+
+PVR
+
+INT
+
+SEF
+
+TSV
+
+TRT
+
+0.30
+0.37
+0.36
+0.43
+0.47
+0.51
+0.36
+0.42
+0.50
+0.44
+0.40
+0.50
+0.41
+0.39
+0.35
+0.41
+0.29
+0.33
+0.47
+0.75
+0.73
+0.44
+0.54
+0.49
+0.49
+0.37
+0.36
+0.37
+0.55
+0.44
+0.48
+
+0.23
+0.32
+0.25
+0.29
+0.32
+0.33
+0.15
+0.18
+0.28
+0.25
+0.23
+0.30
+0.20
+0.17
+0.17
+0.22
+0.15
+0.21
+0.23
+0.38
+0.36
+0.27
+0.32
+0.34
+0.30
+0.25
+0.20
+0.25
+0.30
+0.23
+0.24
+
+0.34
+0.35
+0.41
+0.42
+0.49
+0.52
+0.37
+0.44
+0.47
+0.41
+0.36
+0.50
+0.49
+0.49
+0.36
+0.45
+0.28
+0.34
+0.47
+0.69
+0.63
+0.51
+0.55
+0.44
+0.44
+0.34
+0.39
+0.42
+0.59
+0.47
+0.50
+
+0.70
+0.46
+0.45
+0.39
+0.50
+0.42
+0.19
+0.25
+0.37
+0.32
+0.28
+0.53
+0.46
+0.44
+0.34
+0.45
+0.14
+0.21
+0.31
+0.47
+0.39
+0.53
+0.57
+0.41
+0.42
+0.29
+0.36
+0.34
+0.45
+0.45
+0.47
+
+0.37
+0.87
+0.83
+0.39
+0.43
+0.39
+0.10
+0.15
+0.31
+0.25
+0.20
+0.31
+0.33
+0.28
+0.22
+0.28
+0.10
+0.17
+0.23
+0.43
+0.38
+0.52
+0.56
+0.36
+0.36
+0.26
+0.23
+0.21
+0.32
+0.33
+0.33
+
+0.38
+0.43
+0.43
+0.79
+0.79
+0.84
+0.30
+0.37
+0.59
+0.50
+0.43
+0.42
+0.37
+0.36
+0.28
+0.37
+0.30
+0.37
+0.45
+0.51
+0.45
+0.43
+0.49
+0.59
+0.60
+0.46
+0.34
+0.35
+0.48
+0.39
+0.40
+
+0.22
+0.12
+0.11
+0.22
+0.32
+0.33
+0.92
+0.94
+0.35
+0.34
+0.32
+0.24
+0.21
+0.23
+0.21
+0.22
+0.48
+0.47
+0.55
+0.32
+0.31
+0.22
+0.22
+0.35
+0.34
+0.35
+0.28
+0.27
+0.34
+0.22
+0.24
+
+0.23
+0.26
+0.25
+0.38
+0.52
+0.48
+0.34
+0.37
+0.89
+0.90
+0.84
+0.34
+0.24
+0.27
+0.22
+0.25
+0.39
+0.44
+0.50
+0.43
+0.41
+0.28
+0.30
+0.49
+0.48
+0.41
+0.25
+0.31
+0.39
+0.29
+0.31
+
+0.31
+0.29
+0.33
+0.28
+0.42
+0.39
+0.23
+0.28
+0.34
+0.28
+0.26
+0.83
+0.80
+0.80
+0.75
+0.81
+0.15
+0.20
+0.32
+0.55
+0.45
+0.42
+0.48
+0.33
+0.33
+0.23
+0.43
+0.36
+0.59
+0.69
+0.65
+
+0.23
+0.18
+0.17
+0.30
+0.38
+0.41
+0.52
+0.59
+0.47
+0.48
+0.45
+0.25
+0.20
+0.21
+0.20
+0.24
+0.81
+0.86
+0.83
+0.38
+0.36
+0.23
+0.22
+0.41
+0.39
+0.43
+0.24
+0.26
+0.35
+0.22
+0.26
+
+0.23
+0.34
+0.40
+0.38
+0.40
+0.45
+0.27
+0.34
+0.45
+0.39
+0.32
+0.48
+0.44
+0.40
+0.36
+0.43
+0.24
+0.29
+0.43
+0.94
+0.94
+0.46
+0.54
+0.40
+0.39
+0.30
+0.29
+0.28
+0.47
+0.45
+0.48
+
+0.41
+0.56
+0.43
+0.37
+0.39
+0.42
+0.20
+0.24
+0.32
+0.27
+0.22
+0.42
+0.44
+0.42
+0.29
+0.36
+0.14
+0.19
+0.26
+0.54
+0.46
+0.93
+0.94
+0.34
+0.35
+0.23
+0.33
+0.28
+0.41
+0.40
+0.41
+
+0.31
+0.35
+0.28
+0.47
+0.49
+0.54
+0.35
+0.38
+0.49
+0.44
+0.44
+0.33
+0.24
+0.26
+0.22
+0.27
+0.33
+0.38
+0.43
+0.40
+0.37
+0.33
+0.33
+0.91
+0.92
+0.82
+0.29
+0.33
+0.40
+0.28
+0.31
+
+0.36
+0.32
+0.33
+0.35
+0.47
+0.43
+0.31
+0.35
+0.39
+0.35
+0.33
+0.69
+0.56
+0.57
+0.50
+0.60
+0.22
+0.27
+0.37
+0.54
+0.46
+0.42
+0.49
+0.41
+0.40
+0.31
+0.66
+0.65
+0.82
+0.83
+0.81
+
+References
+Ajzen, I. (1985). From intentions to actions: a theory of planned behavior. In J. Kuhl,
+& J. Beckman (Eds.), Action-control: From cognition to behavior (pp. 11e39).
+Heidelberg, Germany: Springer.
+Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior and Human
+Decision Processes, 50(2), 179e211.
+Ajzen, I. (2002). Perceived behavioral control, self-efﬁcacy, locus of control, and
+the theory of planned behavior. Journal of Applied Social Psychology, 32(4),
+665e683.
+Ajzen, I. (2011). Behavioral interventions: design and evaluation guided by the
+theory of planned behavior. In M. M. Mark, S. I. Donaldson, & B. C. Campbell
+(Eds.), Social psychology for program and policy evaluation (pp. 74e100). New
+York, NY: Guilford.
+Ajzen, I., & Fishbein, M. (1980). Understanding attitudes and predicting social
+behavior. Englewood Cliffs, NJ: Prentice-Hall.
+Amaro, S., & Duarte, P. (2013). Online travel purchasing: a literature review. Journal
+of Travel & Tourism Marketing, 30(8), 755e785.
+Andreev, P., Heart, T., Maoz, H., & Pliskin, N. (2009). Validating formative partial
+least squares (PLS) models: methodological review and empirical illustration. In
+Paper presented at the thirtieth international conference on information systems.
+Phoenix, Arizona.
+Armitage, C. J., & Conner, M. (2001). Efﬁcacy of the theory of planned behaviour: a
+meta-analytic review. British Journal of Social Psychology, 40(4), 471e499.
+Austin, N., Ibeh, K., & Yee, J. C. C. (2006). Consumer trust in the online travel
+marketplace. Journal of Internet Commerce, 5(2), 21e39.
+Bagozzi, R. P., & Yi, Y. (1988). On the evaluation of structural equation models.
+Journal of the Academy of Marketing Science, 16(1), 74e94.
+Barclay, D., Higgins, C., & Thompson, R. (1995). The partial least squares (PLS)
+approach to causal modeling: personal computer adoption and use as an
+illustration. Technology Studies, 2(2), 285e309.
+Becker, J.-M., Klein, K., & Wetzels, M. (2012). Hierarchical latent variable models in
+PLS-SEM: guidelines for using reﬂective-formative type models. Long Range
+Planning, 45(5e6), 359e394.
+Bellman, S., Lohse, G. L., & Johnson, E. J. (1999). Predictors of online buying behavior.
+Communications of the ACM, 42(12), 32e38.
+, E., Sanz, S., Ruiz, C., & Ald
+Bigne
+as, J. (2010). Why some internet users don't buy air
+tickets online. In U. Gretzel, R. Law, & M. Fuchs (Eds.), Information and
+communication technologies in tourism 2010 (pp. 209e221). Vienna, Austria:
+Springer.
+Bogdanovych, A., Berger, H., Simoff, S., & Sierra, C. (2006). Travel agents vs. online
+booking: tackling the shortcomings of nowadays online tourism portals. In
+M. Hitz, M. Sigala, & J. Murphy (Eds.), Information and communication technologies in tourism 2006 (pp. 418e428). Vienna, Austria: Springer.
+
+Buhalis, D. (1998). Strategic use of information technologies in the tourism industry.
+Tourism Management, 19(5), 409e421.
+Buhalis, D., & Law, R. (2008). Progress in information technology and tourism
+management: 20 years on and 10 years after the Internetdthe state of eTourism research. Tourism Management, 29(4), 609e623.
+Burnkrant, R. E., & Cousineau, A. (1975). Informational and normative social inﬂuence in buyer behavior. Journal of Consumer Research, 2, 206e215.
+Cases, A. S. (2002). Perceived risk and risk-reduction strategies in Internet shopping.
+International Review of Retail, Distribution and Consumer Research, 12(4),
+375e394.
+Chen, C. (2006). Identifying signiﬁcant factors inﬂuencing consumer trust in an
+online travel site. Information Technology & Tourism, 8(3/4), 197e214.
+Chen, L., Gillenson, M. L., & Sherrell, D. L. (2002). Enticing online consumers: an
+extended technology acceptance perspective. Information & Management, 39(8),
+705e719.
+Childers, T. L., Carr, C. L., Peck, J., & Carson, S. (2001). Hedonic and utilitarian motivations for online retail shopping behavior. Journal of Retailing, 77(4), 511e535.
+Chin, W. W. (1998). Commentary: issues and opinion on structural equation
+modeling. MIS Quarterly, 22(1), viiexvi.
+Chin, W. W. (2010). How to write up and report PLS analyses. In V. E. Vinzi,
+W. W. Chin, J. Henseler, & H. Wang (Eds.), Handbook of partial least squares:
+Concepts, methods and applications in marketing and related ﬁelds (pp. 655e690).
+Berlin: Springer.
+Cho, J. (2004). Likelihood to abort an online transaction: inﬂuences from cognitive
+evaluations, attitudes, and behavioral variables. Information & Management,
+41(7), 827e838.
+Cho, Y. C., & Agrusa, J. (2006). Assessing use acceptance and satisfaction toward
+online travel agencies. Information Technology & Tourism, 8(3), 179e195.
+Christou, E., & Kassianidis, P. (2003). Consumer's perceptions and adoption of online
+buying for travel products. Journal of Travel & Tourism Marketing, 12(4), 93e107.
+Corbitt, B. J., Thanasankit, T., & Yi, H. (2003). Trust and e-commerce: a study of
+consumer perceptions. Electronic Commerce Research and Applications, 2(3),
+203e215.
+Corritore, C. L., Kracher, B., & Wiedenbeck, S. (2003). On-line trust: concepts,
+evolving themes, a model. International Journal of Human-Computer Studies,
+58(6), 737e758.
+Davis, F. D. (1985). A technology acceptance model for empirically testing new enduser information systems: Theory and results. Doctoral Dissertation. Sloan
+School of Management, Massachusetts Institute of Technology.
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance
+of information technology. MIS Quarterly, 13(3), 319e340.
+Davis, F. D., Bagozzi, R. P., & Warshaw, P. R. (1989). User acceptance of computer
+technology: a comparison of two theoretical models. Management Science,
+35(8), 982e1003.
+
+78
+
+S. Amaro, P. Duarte / Tourism Management 46 (2015) 64e79
+
+Diamantopoulos, A., & Winklhofer, H. M. (2001). Index construction with formative
+indicators: an alternative to scale development. Journal of Marketing Research,
+269e277.
+Eastlick, M., Lotz, S., & Warrington, P. (2006). Understanding online B-to-C relationships: an integrated model of privacy concerns, trust, and commitment.
+Journal of Business Research, 59(8), 877e886.
+eMarketer. (2012). Online as a percentage of total travel sales to outrank Asia-Paciﬁc
+in 2013. Retrieved April 15, 2013, from http://www.emarketer.com/Article/
+Online-Travel-Sales-Explode-Latin-America/1009493.
+Escobar-Rodríguez, T., & Carvajal-Trujillo, E. (2014). Online purchasing tickets for
+low cost carriers: an application of the uniﬁed theory of acceptance and use of
+technology (UTAUT) model. Tourism Management, 43, 70e88.
+Fam, K. S., Foscht, T., & Collins, R. D. (2004). Trust and the online relationshipdan
+exploratory study from New Zealand. Tourism Management, 25(2), 195e207.
+Fishbein, M., & Ajzen, I. (1975). Belief, attitude, intention and behaviour: An introduction to theory and research. Reading, MA: Addison-Wesley.
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement error. Journal of Marketing Research,
+18(1), 39e50.
+Gefen, D., Rigdon, E. E., & Straub, D. (2011). An update and extension to SEM
+guidelines for administrative and social science research. MIS Quarterly, 35(2),
+IIIeXIV.
+Geisser, S. (1975). The predictive sample reuse method with applications. Journal of
+the American Statistical Association, 70(350), 320e328.
+George, J. F. (2004). The theory of planned behavior and Internet purchasing.
+Internet Research, 14(3), 198e212.
+Grabner-Kraeuter, S. (2002). The role of consumers' trust in online-shopping.
+Journal of Business Ethics, 39(1/2), 43e50.
+Gretzel, U., & Fesenmaier, D. R. (2009). Information technology: shaping the past,
+present, and future of tourism. In T. Jamal, & M. Robinson (Eds.), The SAGE
+handbook of tourism studies (pp. 558e580). London: Sage.
+Grewal, D., Monroe, K. B., & Krishnan, R. (April 1998). The effects of pricecomparison advertising on buyers' perceptions of acquisition value, transaction value, and behavioral intentions. Journal of Marketing, 62, 46e59.
+Hair, J. F., Black, W. C., Babin, H. J., & Anderson, R. E. (2010). Multivariate data analysis
+(7th ed.). New Jersey: Prentice Hall.
+Hair, J. F., Ringle, C. M., Hult, G. T. M., & Sarstedt, M. (2013). A primer on partial least
+squares structural equation modeling (PLS-SEM). Thousand Oaks, CA: SAGE
+Publications.
+Hair, J. F., Ringle, C. M., & Sarstedt, M. (2011). PLS-SEM: indeed a silver bullet. Journal
+of Marketing Theory and Practice, 19(2), 139e151.
+Hair, J. F., Sarstedt, M., Pieper, T. M., & Ringle, C. M. (2012). The use of partial least
+squares structural equation modeling in strategic management research: a review of past practices and recommendations for future applications. Long Range
+Planning, 45(5e6), 320e340.
+Hair, J. F., Sarstedt, M., Ringle, C. M., & Mena, J. A. (2012). An assessment of the use of
+partial least squares structural equation modeling in marketing research.
+Journal of the Academy of Marketing Science, 40(3), 414e433.
+Hassanein, K., & Head, M. (2007). Manipulating perceived social presence through
+the web interface and its impact on attitude towards online shopping. International Journal of Human-Computer Studies, 65(8), 689e708.
+Henseler, J., Ringle, C. M., & Sarstedt, M. (2012). Using partial least squares path
+modeling in international advertising research: basic concepts and recent issues. In S. Okazaki (Ed.), Handbook of research in international advertising (pp.
+252e276). Cheltenham, UK: Edward Elgar Publishing.
+Henseler, J., Ringle, C. M., & Sinkovics, R. R. (2009). The use of partial least squares
+path modeling in international marketing. Advances in International Marketing,
+20, 277e319.
+Hernandez, B., Jimenez, J., & Martín, M. J. (2009). Adoption vs acceptance of ecommerce: two different decisions. European Journal of Marketing, 43(9/10),
+1232e1245.
+Heung, V. C. S. (2003). Internet usage by international travellers: reasons and barriers. International Journal of Contemporary Hospitality Management, 15(7),
+370e378.
+Holmbeck, G. N. (1997). Toward terminological, conceptual, and statistical clarity in
+the study of mediators and moderators: examples from the child-clinical and
+pediatric psychology literatures. Journal of Consulting and Clinical Psychology,
+65(4), 599e610.
+Hsu, M.-H., & Chiu, C.-M. (2004). Predicting electronic service continuance with a
+decomposed theory of planned behaviour. Behaviour & Information Technology,
+23(5), 359e373.
+Hung, Y.-C., Yang, Y.-L., Yang, H.-E., & Chuang, Y.-H. (2011). Factors affecting the
+adoption of e-commerce for the tourism industry in Taiwan. Asia Paciﬁc Journal
+of Tourism Research, 16(1), 105e119.
+Jarvis, C. B., MacKenzie, S. B., & Podsakoff, P. M. (2003). A critical review of construct
+indicators and measurement model misspeciﬁcation in marketing and consumer research. Journal of Consumer Research, 30(2), 199e218.
+Jensen, J. M. (2009). Travellers' intentions to purchase travel products online: the
+role of shopping orientation. In A. Matias, P. Nijkamp, & M. Sarmento (Eds.),
+Advances in tourism economics: New developments (pp. 203e215). Heidelberg,
+Germany: Physica Verlag.
+Jensen, J. M. (2012). Shopping orientation and online travel shopping: the role of
+travel experience. International Journal of Tourism Research, 14(1), 56e70.
+Kamarulzaman, Y. (2007). Adoption of travel e-shopping in the UK. International
+Journal of Retail & Distribution Management, 35(9), 703e719.
+
+Karahanna, E., Ahuja, M., Srite, M., & Galvin, J. (2002). Individual differences and
+relative advantage: the case of GSS. Decision Support Systems, 32(4), 327e341.
+Kim, W. G., & Kim, D. J. (2004). Factors affecting online hotel reservation intention
+between online and non-online customers. International Journal of Hospitality
+Management, 23(4), 381e395.
+Kim, D. J., Kim, W. G., & Han, J. S. (2007). A perceptual mapping of online travel
+agencies and preference attributes. Tourism Management, 28(2), 591e603.
+Kim, L. H., Kim, D. J., & Leong, J. K. (2005). The effect of perceived risk on purchase
+intention in purchasing airline tickets online. Journal of Hospitality & Leisure
+Marketing, 13(2), 33e53.
+Kim, L. H., Qu, H., & Kim, D. J. (2009). A study of perceived risk and risk reduction of
+purchasing air-tickets online. Journal of Travel & Tourism Marketing, 26(3),
+203e224.
+Kim, M.-J., Chung, N., & Lee, C.-K. (2011). The effect of perceived trust on electronic
+commerce: shopping online for tourism products and services in South Korea.
+Tourism Management, 32(2), 256e265.
+Kim, W. G., Ma, X., & Kim, D. J. (2006). Determinants of Chinese hotel customers' esatisfaction and purchase intentions. Tourism Management, 27(5), 890e900.
+Kolsaker, A., Lee-Kelley, L., & Choy, P. C. (2004). The reluctant Hong Kong consumer:
+purchasing travel online. International Journal of Consumer Studies, 28(3),
+295e304.
+Koumelis, T. (2012). Travelers are conﬁdent and frequent mobile shoppers.
+Retrieved April 26, 2013, from http://www.traveldailynews.com/news/article/
+52052/travelers-are-conﬁdent-and-frequent.
+Krueger, N. F., Reilly, M. D., & Carsrud, A. L. (2000). Competing models of entrepreneurial intentions. Journal of Business Venturing, 15(5e6), 411e432.
+Law, K. S., Chi-Sum, W., & Mobley, W. M. (1998). Toward a taxonomy of multidimensional constructs [Article] Academy of Management Review, 23(4), 741e755.
+Law, R., Bai, B., & Leung, B. (2008). Travel website uses and cultural inﬂuence: a
+comparison between American and Chinese travelers. Information Technology &
+Tourism, 10(3), 215e225.
+Law, R., Leung, R., & Buhalis, D. (2009). Information technology applications in
+hospitality and tourism: a review of publications from 2005 to 2007. Journal of
+Travel & Tourism Marketing, 26(5e6), 599e623.
+Law, R., Leung, K., & Wong, J. (2004). The impact of the internet on travel agencies.
+International Journal of Contemporary Hospitality Management, 16(2), 100e107.
+Lee, Y., & Kozar, K. A. (2008). An empirical investigation of anti-spyware software
+adoption: a multitheoretical perspective. Information & Management, 45(2),
+109e119.
+Lee, J., & Morrison, A. M. (2010). A comparative study of web site performance.
+Journal of Hospitality and Tourism Technology, 1(1), 50e67.
+Lee, M. K. O., & Turban, E. (2001). A trust model for consumer internet shopping.
+International Journal of Electronic Commerce, 6(1), 75e91.
+Lee, H. Y., Qu, H., & Kim, Y. S. (2007). A study of the impact of personal innovativeness on online travel shopping behaviorda case study of Korean travelers.
+Tourism Management, 28(3), 886e897.
+Li, L., & Buhalis, D. (2006). E-commerce in China: the case of travel. International
+Journal of Information Management, 26(2), 153e166.
+Limayem, M., Khalifa, M., & Frini, A. (2000). What makes consumers buy from
+internet? A longitudinal study of online shopping. IEEE Transactions on Systems,
+Man, and Cybernetics e Part A: Systems and Humans, 30(4), 421e432.
+Lin, H.-F. (2007). Predicting consumer intentions to shop online: an empirical test of
+competing theories. Electronic Commerce Research and Applications, 6(4),
+433e442.
+Lin, P.-J., Jones, E., & Westwood, S. (2009). Perceived risk and risk-relievers in online
+travel purchase intentions. Journal of Hospitality Marketing & Management,
+18(8), 782e810.
+McKnight, D. H., Choudhury, V., & Kacmar, C. (2002). Developing and validating
+trust measures for e-commerce: an integrative typology. Information Systems
+Research, 13(3), 334e359.
+Mayr, T., & Zins, A. H. (2009). Acceptance of online vs. traditional travel agencies.
+Anatolia: An International Journal of Tourism and Hospitality Research, 20(1),
+164e177.
+Moital, M., Vaughan, R., & Edwards, J. (2009). Using involvement for segmenting the
+adoption of e-commerce in travel. The Service Industries Journal, 29(5), 723e739.
+Moital, M., Vaughan, R., Edwards, J., & Peres, R. (2009). Determinants of intention to
+purchase over the internet. Anatolia: An International Journal of Tourism and
+Hospitality Research, 20(2), 345e358.
+Moore, G. C., & Benbasat, I. (1991). Development of an instrument to measure the
+perceptions of adopting an information technology innovation. Information
+Systems Research, 2(3), 192e222.
+Morosan, C., & Jeong, M. (2006). Understanding travelers' adoption of hotel reservation web sites. In M. Hitz, M. Sigala, & J. Murphy (Eds.), Information and
+communication technologies in tourism 2006 (pp. 394e405). Vienna, Austria:
+Springer.
+Morosan, C., & Jeong, M. (2008). Users' perceptions of two types of hotel reservation
+web sites. International Journal of Hospitality Management, 27(2), 284e292.
+Morrison, A. M., Jing, S., O'Leary, J. T., & Cai, L. A. (2001). Predicting usage of the
+internet for travel bookings: an exploratory study. Information Technology &
+Tourism, 4(1), 15e30.
+O'Connor, P., & Murphy, J. (2004). Research on information technology in the hospitality industry. International Journal of Hospitality Management, 23(5), 473e484.
+Pavlou, P. A., & Fygenson, M. (2006). Understanding and predicting electronic
+commerce adoption: an extension of the theory of planned behavior. Management Information Systems Quarterly, 30(1), 115.
+
+S. Amaro, P. Duarte / Tourism Management 46 (2015) 64e79
+Petter, S., Straub, D., & Rai, A. (2007). Specifying formative constructs in information
+systems research. MIS Quarterly, 31(4), 623e656.
+PhocusWright. (2012). Empowering inspiration: The future of travel search. Sherman,
+CT: PhocusWright.
+Pizam, A. (1999). Cross cultural tourist behavior. In A. Pizam, & Y. Mansfeld (Eds.),
+Consumer behavior in travel and tourism (pp. 393e408). New York: Routledge.
+Powley, J. H., Cobanoglu, C., & Cummings, P. R. (2004). Determinants of online travel
+purchases from third-party travel web sites. In A. J. Frew (Ed.), Information and
+communication technologies in tourism 2004 (pp. 424e436). Vienna, Austria:
+Springer.
+Riemenschneider, C. K., Hardgrave, B. C., & Davis, F. D. (2002). Explaining software
+developer acceptance of methodologies: a comparison of ﬁve theoretical
+models. IEEE Transactions on Software Engineering, 28(12), 1135e1145.
+Ringle, C. (2006). Segmentation for path models and unobserved heterogeneity: the
+ﬁnite mixture partial least squares approach. Research Papers on Marketing and
+Retailing, 35, 1e29.
+Ringle, C. M., Sarstedt, M., & Schlittgen, R. (2010). Finite mixture and genetic algorithm segmentation in partial least squares path modeling: identiﬁcation of
+multiple segments in complex path models. In A. Fink, B. Lausen, W. Seidel, &
+A. Ultsch (Eds.), Advances in data analysis, data handling and business intelligence. Berlin: Springer-Verlag.
+Ringle, C. M., Sarstedt, M., & Straub, D. W. (2012). A critical look at the use of PLSSEM in MIS Quarterly. MIS Quarterly, 36(1), iiexiv.
+Ringle, C. M., Wende, S., & Will, S. (2005). SmartPLS 2.0 (M3) (version beta). [Software]. Hamburg, Retrieved from http://www.smartpls.de.
+Rogers, E. M. (1995). Diffusion of innovations (4th ed.). New York, NY: The Free Press.
+San Martín, H., & Herrero, A. (2012). Inﬂuence of the user's psychological factors on
+the online purchase intention in rural tourism: integrating innovativeness to
+the UTAUT framework. Tourism Management, 33(2), 341e350.
+Schonlau, M., Fricker, R. D., & Elliott, M. N. (2002). Conducting research surveys via email and the web. Santa Monica, CA: RAND Corporation.
+Shih, Y. Y., & Fang, K. (2004). The use of a decomposed theory of planned behavior to
+study Internet banking in Taiwan. Internet Research, 14(3), 213e223.
+Shim, S., Eastlick, M. A., Lotz, S. L., & Warrington, P. (2001). An online prepurchase
+intentions model: the role of intention to search. Journal of Retailing, 77(3),
+397e416.
+Shin, D. H. (2010). MVNO services: policy implications for promoting MVNO
+diffusion. Telecommunications Policy, 34(10), 616e632.
+Sobel, M. E. (1982). Asymptotic conﬁdence intervals for indirect effects in structural
+equation models. Sociological Methodology, 13(1), 290e312.
+Stone, M. (1974). Cross-validatory choice and assessment of statistical predictions.
+Journal of Royal Statistical Society, Series B, 36(2), 111e147.
+Suh, B., & Han, I. (2002). Effect of trust on customer acceptance of Internet banking.
+Electronic Commerce Research and Applications, 1(3e4), 247e263.
+Teo, T. S. H., & Yeong, Y. D. (2003). Assessing the consumer decision process in the
+digital marketplace. International Journal of Management Science, 31(5),
+349e363.
+Terry, D. (1993). Self-efﬁcacy expectancies and the theory of reasoned action. In
+D. J. Terry, C. Gallois, & M. McCamish (Eds.), The theory of reasoned action: Its
+application to AIDS-preventive behaviour (Vol. 28); (pp. 135e151). Queensland,
+Australia: Pergamon Press.
+Tornatzky, L. G., & Klein, K. J. (1982). Innovation characteristics and innovation
+adoption-implementation: a meta-analysis of ﬁndings. IEEE Transactions on
+Engineering Management, 29(1), 28e45.
+Traﬁmow, D., Sheeran, P., Conner, M., & Finlay, K. A. (2002). Evidence that perceived
+behavioural control is a multidimensional construct: perceived control and
+perceived difﬁculty. British Journal of Social Psychology, 41(1), 101e121.
+Urbach, N., & Ahlemann, F. (2010). Structural equation modeling in information
+systems research using partial least squares. Journal of Information Technology
+Theory and Application, 11(2), 5e40.
+Venkatesh, V., & Davis, F. D. (2000). A theoretical extension of the technology
+acceptance model: four longitudinal ﬁeld studies. Management Science, 46(2),
+186e204.
+
+79
+
+Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of
+information technology: toward a uniﬁed view. MIS Quarterly, 425e478.
+Verhoef, P. C., & Langerak, F. (2001). Possible determinants of consumers' adoption
+of electronic grocery shopping in the Netherlands. Journal of Retailing and
+Consumer Services, 8(5), 275e285.
+Vijayasarathy, L. R. (2004). Predicting consumer intentions to use on-line shopping:
+the case for an augmented technology acceptance model. Information & Management, 41(6), 747e762.
+Wang, Y. D., & Emurian, H. H. (2005). An overview of online trust: concepts, elements, and implications. Computers in Human Behavior, 21, 105e125.
+Wang, M. S., Chen, C. C., Chang, S. C., & Yang, Y. H. (2007). Effects of online shopping
+attitudes, subjective norms and control beliefs on online shopping intentions: a
+test of the theory of planned behaviour. International Journal of Management,
+24(2), 296e302.
+Wen, I. (2010). Online travelers' decision makings: a new equation model to evaluate impacts of website, search intention, and trust. Information Technology &
+Tourism, 12(2), 153e173.
+Wetzels, M., Odekerken-Schroder, G., & van Oppen, C. (2009). Using PLS path
+modeling for assessing hierarchical construct models: guidelines and empirical
+illustration. MIS Quarterly, 33(1), 177e195.
+Wong, J., & Law, R. (2005). Analysing the intention to purchase on hotel websites: a
+study of travellers to Hong Kong. International Journal of Hospitality Management, 24(3), 311e329.
+Wu, J.-H., & Wang, S.-C. (2005). What drives mobile commerce? An empirical
+evaluation of the revised technology acceptance model. Information & Management, 42(5), 719e729.
+Yu, T.-K., & Wu, G.-S. (2007). Determinants of internet shopping behavior: an
+application of reasoned behaviour theory. International Journal of Management,
+24(4), 744e762.
+Zhou, Z. (2004). E-commerce and information technology in hospitality and tourism.
+Canada: Delmar Learning.
+
+Suzanne Amaro has a PhD in Marketing and Strategy, an
+MSc degree in Management and a ﬁve-year bachelor's degree in Economics. She started her professional activity as
+a consultant at a Business and Innovation Centre. She has
+been an associate professor at the Management Department of the Polytechnic Institute of Viseu since 1999 and
+is now head of the Marketing BSc Degree. Her current
+research interests include: travellers' online purchase
+behaviour, the use of social media for travel purposes
+and social media marketing. She also is very interested
+in the use of partial least squares structural equation
+modelling as a research technique.
+
+Paulo Duarte is professor of marketing at the Business and
+Economics Department and head of the Master in Marketing at University of Beira Interior, Portugal. Prior to
+receiving his Ph.D. in Management at the University of
+Beira Interior, he held a senior marketing position in a fast
+moving consumer goods distribution company. Academically, he has been doing research in the ﬁelds of consumer
+behaviour, satisfaction, brand management, and web
+marketing, having published articles on these topics. He is
+also member of the editorial board of several international
+journals.
+
+

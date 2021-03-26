@@ -1,0 +1,816 @@
+Tourism Analysis, Vol. 20, pp. 251–258
+Printed in the USA. All rights reserved.
+Copyright Ó 2015 Cognizant Comm. Corp.
+
+1083-5423/15 $60.00 + .00
+DOI: http://dx.doi.org/10.3727/108354215X14265319207632
+E-ISSN 1943-3999
+www.cognizantcommunication.com
+
+RESEARCH NOTE
+THE INTERNET IMPACT ON TRAVEL PURCHASES:
+INSIGHTS FROM PORTUGAL
+
+CARMEN MARTINS,* ANA SALAZAR,† AND ALESSANDRO INVERSINI*
+*School of Tourism, Bournemouth University, Bournemouth, Poole, UK
+†Universidade Fernando Pessoa, Porto, Portugal
+
+This research proposes an analysis of online consumer buying behavior in the travel and tourism
+field in Portugal. The study utilizes a self-administrated survey on a sample of 380 individuals created in order to understand the influence of the Internet on consumer buying behavior. The survey
+was administrated in Portugal, one of the European countries that are still struggling with Internet
+penetration. Results show the importance of the Internet has on two stages of the buying process:
+(i) alternative evaluation and (ii) buying act. Furthermore, this research highlights the critical role
+of touristic products availability and search costs on the buying behavior of consumers. However,
+past bad experiences and a certain level of insecurity persist as factors limiting the online purchase
+process. Results confirm the general trends in consumer behavior and highlight the need of moving
+further for Portugal in terms of technology adoption.
+Key words: Online consumer behavior; Buying decision; Internet; Tourist products
+
+Introduction
+
+2002). On the other side, travelers, who become
+much more exigent (Buhalis & Law, 2008), are in
+constant need of information and they are faced
+with the task of finding the right information in the
+tourism online domain (Xiang & Gretzel, 2010;
+Xiang, Wöber, & Fesenmaier, 2008). Therefore, the
+Internet brought a paradigm shift in travelers’ buying behavior, enlarging the choice of tourism product and making the “one click purchase” possible
+(O’Connor, 2008). Nonetheless, two decades after
+the commercial advent of the Internet (Sharma &
+
+The advent of the Internet radically reshaped
+the rules of engagement of tourism companies and
+firms all over the world (Buhalis, 2003). In the digital age, communication has become much more
+interactive (Hoffman & Novak, 1996). On the one
+side, organizations and firms in travel and tourism
+benefit from the advent of the Internet, by having new marketing and selling outlets in which to
+present and sell their products (O’Connor & Frew,
+
+Address correspondence to Carmen Martins, School of Tourism, Bournemouth University, Talbot Campus, Dorset House, Room
+D241, Fern Barrow, Bournemouth, Poole, Dorset BH12 5BB, UK. Tel: +44 (0) 1202 965046; E-mail: cmartins@bournemouth.ac.uk
+
+251
+
+252
+
+MARTINS, SALAZAR, AND INVERSINI
+
+Mehrotra, 2007) not all tourism firms in all countries are ready to embrace the Internet (r)evolution.
+Likewise, not all consumers are ready to rely on
+online information and online commerce.
+This study analyzes the impact of the Internet on
+travel purchase in Portugal for two main reasons:
+1. Tourism represents a very important part of the
+Portuguese GDP (around 11%) (United Nations
+World Tourism Organization, 2006). The travel
+industry is presenting positive trends within
+the country (Instituto Nacional de Estatistica,
+2012) and the government is seeking solutions
+to increase its impact on the GDP (Turismo de
+Portugal, 2009).
+2. Technology adoption in the country is not very
+high. Despite the fact that Portugal presented an
+exponential growth from 2008 (46%) until 2012
+(61%) in Internet-connected households, the
+numbers are lower when compared with other
+European countries [e.g., UK (81%) and Netherlands (94%)]. Countries like Romania, Bulgaria,
+Greece, Cyprus, and Portugal have the highest
+rates of non-Internet users (Eurostat, 2012). As
+regards activities online, 59.1% of Portuguese
+had visited tourism websites in 2012 (with booking.com as market leader), representing 31% of
+total pages of tourism websites (Marktest, 2013).
+Therefore, this study looks into online consumer
+behavior in Portugal with the goal of (i) understand
+the influence of the Internet in the purchase decision process of online touristic products and (ii) to
+understand how the buying behavior of touristic
+products is influenced by the Internet, thus shedding
+light on Portuguese’s online habits. Particularly, the
+study moves from the five stages of the purchase
+decision process (Blackwell, Miniard, & Engel,
+2006; Mowen & Minor, 2007; Reid & Bojanic,
+2006) to better understand the factors influencing
+the online decision-making process and the advantages and limitation of the Internet in supporting
+the purchase decision.
+Literature Review
+Over the years, it was possible to observe a
+substantial change of consumer behavior in tourism (Horner & Swarbrooke, 2007), intrinsically
+
+associated with the transformations that have
+occurred in the world economy towards digital communication (Buhalis & Law, 2008). In 1996, the
+Internet was already widely recognized as an emerging tool in the context of marketing (Hoffman &
+Novak, 1996), because it has unique features for
+marketing activities that distinguish it from traditional trade instruments. According to Cantoni and
+Tardini (2006), the importance of online communication has grown over recent years and transformed
+the Internet into one of the major communication
+tools, both at business and personal levels. Additionally, also thanks to the recent advent of the so-called
+Web 2.0 (O’Reilly, 2007), the Internet is now seen as
+an interactive media where communication is happening in a bidirectional way (Hoffman & Novak,
+1996), enabling new business models (Inversini &
+Masiero, 2014).
+Within the tourism domain, the Internet (r)evolution brought a fundamental change in the overall value chain (Buhalis, 2003). On the one side,
+tourism companies and organizations are understanding that a proper strategic and tactical use of
+technologies can bring a competitive added value
+(Inversini, Brülhart, & Cantoni, 2012). Consumers
+become much more sophisticated and, thanks to the
+Internet, they have the possibility of looking for
+different options while choosing their travel plans
+(Buhalis & Law, 2008). Additionally, consumers
+are in constant need of information to inform their
+decision-making process in all the stage of the tourism goods consumption.
+According to Cetină, Munthiu, and Rădulescu
+(2012), it is unquestionable that the digital revolution exerted one of the most powerful influences
+on consumer behavior. Amor (2002) stated that
+one of the biggest advantages of the Internet is its
+global availability, with the consumer being influenced by the availability of the products. The rapid
+growth of the Internet has changed the way people
+search for information about hospitality and tourism services (Mattila, 2004). This topic attracted
+a vast interest by academics (Jang, 2004). The
+main issue related to information search is the possibility of locating the correct and relevant travel
+and tourism information in the so-called “online
+tourism domain” (Xiang et al., 2008). Assessing
+online tourists’ behavior is part of the online tourism domain, where professionals can work with
+
+INTERNET IMPACT ON TRAVEL PURCHASES
+the demographic segmentation. Hsieh, O’Leary,
+and Morrison (1992) argued that segmentation is a
+management strategy based on assumptions about
+the behavior of population subgroups, being able
+to determine differences that are useful in selecting the target (Costa & Rita, 2000). Costa and Rita
+(2000) emphasized that segmentation is a tool of
+vital importance for tourism business management,
+bringing market knowledge and prioritizing market
+segments, positioning, and marketing strategies.
+Analyzing consumers’ behavior means investigating the process, steps, buying influences, and
+use of goods and services by consumers. Horner
+and Swarbrooke (2007) define tourism consumer
+behavior as “the study of the reasons for purchasing products for people, and how they make their
+decisions” (p. 6). Understanding tourism consumer behavior is, among others, the most important challenge that marketers and managements
+are facing (Reid & Bojanic, 2006). The consumer
+goes through different stages until he/she makes
+choices about products or services for consumption. Mowen and Minor (2007) report that decision
+making of consumer purchase is a set of processes
+involving recognizing problems, seeking solutions,
+evaluating alternatives, choosing between options,
+and evaluating results to choose from. The decision
+of travel is a complex process that entails the solution of many subdecisions (Xiang et al., 2008). The
+decision process of tourism consumer purchasing is
+complex and involves internal and external factors
+that influence it (Horner & Swarbrooke, 2007). The
+internal factors that bound to the consumer decision
+are: Personal reasons; Personality; Health; Past
+experience; Commitment to the family; Commitment to work; Hobbies and interests; Knowledge;
+Lifestyle; Attitudes, beliefs, and perceptions; Timetable. The external factors presented are: Availability of suitable products; Council of the travel
+agencies; Information obtained from the destinations, travel agents, and travel media; Recommendation of friends and family; Restrictions on travel
+policies (e.g., visa requirement); Health and vaccination requirements at the destinations; Promotions
+and special offers; The weather at destination.
+The purchase decision process comprises several stages (Blackwell et al., 2006; Reid & Bojanic,
+2006) that can be summarized as follows. (i) Recognition of the problem: the different stimuli can
+
+253
+
+trigger consumer awareness of the need or problem. (ii) Search for information: once the need is
+high on a conscious level, the model states that
+consumers seek information on how to meet this
+need. (iii) Evaluation of alternatives: for Kotler
+(2000), the consumer demands certain benefits
+from the solution offered by the product to satisfy
+a need and sees each product as a set of attributes
+with different capabilities to provide the advertised
+benefits and satisfying the need. (iv) Buying decision: when the consumer decides what to buy and
+makes his decision. (v) Postpurchase evaluation:
+was the shopping experience up to expectations?
+Was it better or worse than he/she expected? These
+are some of the questions that consumers give
+answers to after going through the experience of a
+tourist product purchase. According to Nascimento
+(2000), consumer satisfaction is an essential condition for loyalty. The satisfaction results from a positive disconfirmation of consumer expectations (i.e.,
+perform higher than expectations) of their desires
+and mediated by psychological processes (cognitive, affective, and evaluative). In order to establish
+which stage of the presented models is more influenced by the Internet, the following hypotheses
+have been formulated.
+The first hypothesis (H1) regards the Internet influences the different stages in the purchase decision
+process of online touristic products. When deciding
+to purchase a good or a service, the consumer goes
+through a series of steps: Reid and Bojanic (2006)
+proposed a model based on information search an
+alternatives evaluation and Blackwell et al. (2006)
+made an analysis from the consumer e-commerce
+perspective. What is clear is that the Internet is playing a strong role in influencing all these stages and
+influencing the decision-making process of the final
+consumers (Buhalis & Law, 2008). The decision
+process of tourism consumer purchasing is complex
+and involves internal and external factors that have
+an influence. Therefore, based on the research of
+Horner and Swarbrooke (2007), two hypotheses have
+been formulated (H2 and H3) and tested through the
+rotated component matrix.
+H2: The internal factors influence the purchase
+decision process of online touristic products.
+H3: The external factors influence the purchase
+decision process of online touristic products.
+
+254
+
+MARTINS, SALAZAR, AND INVERSINI
+
+Gender is one of the most common forms of segmentation (Kim, Lehto, & Morrison, 2007), and
+demographic differences are extremely relevant when
+discussing online consumer behavior (Li, Kuo, &
+Rusell, 1999), helping marketing managers define
+the market segment (Costa & Rita, 2000). Therefore,
+the following hypothesis (H4) was formulated and
+tested with a t test for means difference.
+H4: There are differences in the online purchase
+decision based on the characteristics of gender, age, income, residence, occupation, and
+qualifications.
+The last set of hypotheses regards the perception
+of the advantages/disadvantages in the decision purchase process of touristic products and experiences.
+These hypotheses are driven by fact that consumers
+seem to have gained substantial power within the
+tourism value chain (Buhalis & Schertler, 1999),
+becoming much more sophisticated than in the past
+(Buhalis & Law, 2008).
+H5: The Internet brings advantages and limitations
+in the purchase decision process of online touristic products for prospective customers.
+H6: The Internet brings limitations in the purchase
+decision process of online touristic products
+for prospective customers.
+Methodology
+The objectives of this research are to (i) understand the influence of the Internet in the purchase
+decision process of online touristic products and
+(ii) to understand how the buying behavior of touristic products is influenced by the Internet. The
+research was carried out in Portugal due to the
+relevance of the tourism industry at the national
+level (Turismo de Portugal, 2009) and to the low
+rate of Internet adoption (Eurostat, 2012).
+A questionnaire was designed to tackle these
+hypotheses. It consisted of three parts: (i) introduction of the questionnaire, (ii) a series of closed questions related to the online buying process of touristic
+products, and (iii) demographic data. In order to
+ensure the validity and reliability of the questionnaire and also to improve its functionality, a pilot
+test was developed and administered online to a
+
+sample of 20 people chosen by convenience within
+the parameters set for the sample profile. Cronbach’s
+alpha was computed, and a value of 0.911 was
+obtained, indicating good scale reliability.
+The questionnaire was designed in accordance
+with the conclusions reached through the literature
+review and the research objectives. It was administered through an online survey between January and
+March of 2012. The data analysis methods include
+descriptive analysis, factor analysis of principal
+components, multiple regression analysis, and t test
+for means differences. Sampling was done using a
+nonprobabilistic sample for convenience, comprising 380 individuals.
+
+Results
+Factors That Influence the Online
+Purchase Decision Process
+In order to reduce the number of factors that
+influence the purchase decision process of online
+touristic products, we proceeded to an exploratory
+analysis of principal components, resulting in five
+factors (all with eigenvalues greater than 1), which
+explain about 57.7% of the variation, as reported in
+Table 1. To obtain a better solution for this analysis,
+a rotated component matrix (varimax method) was
+computed (Table 1). The items related to the five
+factors are indicated.
+The first factor was named Convenience and Satisfaction. According to Mowen and Minor (2007)
+and Nascimento (2000), customer satisfaction is a
+prerequisite for loyalty, and using the Internet consumers can avoid traveling, waiting, and unpleasant sellers. The second factor is labeled Availability.
+Kotler’s consumer behavior models state that advertising is a marketing stimulus that influences the
+purchase. The third factor is related to Information
+and Planning. Consumers have at their fingertips all
+the information they need to develop their process
+of purchase decision, are increasingly exposed to
+a greater flow of information, and the easy access
+to information will make the future tourist more
+demanding (Dionísio, Rodrigues, Faria, Nunes, &
+Lefty, 2009; Turban, McLean, & Wetherbe, 2002;
+Vieites and Espiñeira (2008)). The fourth factor was
+called Evaluation of Alternatives. The consumer
+demands certain benefits from the solution offered
+
+INTERNET IMPACT ON TRAVEL PURCHASES
+
+255
+
+Table 1
+Five Factors That Influence the Online Purchase Decision Process
+
+My purchase decision of touristic products
+is influenced by the Internet.
+The Internet facilitates the demand of
+touristic products that I want to buy.
+The price influences my choice.
+The fact that the Internet is always
+available influences my choice.
+The Internet is practical, decisive, direct,
+and full.
+Considering the price/quality ratio,
+I prefer to buy on the Internet.
+The Internet has proven to be a reliable
+means to buy the product that I desire.
+The Internet facilitates the buying process.
+When buying on the Internet I feel that
+I’m getting a good deal.
+The Internet meets my buying needs.
+Touristic products are cheaper on
+the Internet.
+On the Internet is there all the information
+on all touristic products I desire.
+On the Internet when buying directly from
+hotel groups and airlines, without
+intermediaries, I can get a better price.
+The new technologies have allowed me to
+enjoy all the information that tourism has
+to offer, for a better trip planning.
+The Internet has altered the demand for
+­information of touristic products.
+Eigenvalues
+% of Variance
+a
+
+Convenience
+and Satisfaction
+
+Availability
+
+Information
+and Planning
+
+Evaluation of
+Alternatives
+
+Bad
+Experience
+
+0.085
+
+0.647
+
+0.120
+
+0.280
+
+0.092
+
+0.192
+
+0.110
+
+0.190
+
+0.528
+
+0.127
+
+0.213
+0.373
+
+0.115
+0.523
+
+0.010
+0.215
+
+0.619
+0.278
+
+0.032
+−0.095
+
+0.578
+
+0.267
+
+0.146
+
+0.165
+
+0.226
+
+0.702
+
+0.188
+
+0.193
+
+0.165
+
+0.064
+
+0.691
+
+−0.015
+
+0.180
+
+0.116
+
+0.106
+
+0.609
+0.749
+
+0.173
+0.163
+
+0.269
+0.109
+
+0.251
+0.061
+
+0.050
+0.090
+
+0.711
+0.602
+
+0.214
+0.055
+
+0.164
+0.086
+
+−0.023
+0.075
+
+0.160
+0.391
+
+0.245
+
+0.224
+
+0.088
+
+−0.063
+
+0.678
+
+0.390
+
+−0.004
+
+0.138
+
+0.178
+
+0.574
+
+0.247
+
+0.147
+
+0.617
+
+–0.070
+
+0.113
+
+0.268
+
+0.250
+
+0.681
+
+0.126
+
+–0.157
+
+10.666
+28.069
+0.910
+
+2.552
+6.717
+0.908
+
+2.124
+5.589
+0.907
+
+1.234
+3.247
+0.906
+
+1.205
+3.170
+0.906
+
+by the product to meet his/her needs (Mowen &
+Minor, 2007; Solomon, 2006). The fifth and last
+factor highlights the tourists online, labeled Bad
+Experience. Borja (2007) and Hoffman and Novak
+(1996) state that the mistrust stems from the fact
+that the Internet is providing personal data, distrust,
+poor visibility, and safety of the product. These
+results are indeed coherent with hypotheses H2 and
+H3, leading to the conclusion that (H2) the internal
+factors influence the purchase decision process of
+online touristic products, being associated with convenience and satisfaction, and the external factors
+(H3) supported by the availability of suitable products and by the information and planning factor.
+Interestingly, regarding both factors and stages
+the main advantage of the Internet is the actual
+availability (second factor) of the touristic products,
+
+confirming hypothesis H5. The limitations of the
+Internet influence the purchase decision process
+of online touristic products were also confirmed
+through hypothesis H6, on the seventh factor that
+highlights the tourists’ online Bad Experience.
+The Internet Influence in the Stages of
+the Purchase Decision Process
+To assess the Internet’s influence on the different
+stages of the purchase decision process, a multiple
+linear regression was conducted (Table 2), taking
+as dependent variable “The Internet is important
+in my purchase decision process,” and as independent variables the stages of the buying decisions
+process. According to the value of the R2, one can
+conclude that 34.9% of the variance is explained by
+
+256
+
+MARTINS, SALAZAR, AND INVERSINI
+
+Table 2
+Multiple Linear Regression
+Unstandardized
+Coefficients
+Model
+Constant
+The Internet is important during the information searching.
+The Internet is important during the stage where I evaluate
+the available alternatives (e.g., analysis of the information
+needed for my purchase decision).
+The Internet is important during the purchase act.
+The Internet is important during the stage of postpurchase
+(e.g., complaints, suggestions, feedback).
+
+Standardized
+Coefficient
+
+B
+
+SE
+
+Beta
+
+t
+
+Sig.
+
+−0.077
+0.158
+0.258
+
+0.345
+0.090
+0.085
+
+0.109
+0.189
+
+−0.224
+1.754
+3.043
+
+0.823
+0.080
+0.003
+
+0.471
+0.016
+
+0.053
+0.046
+
+0.437
+0.017
+
+8.934
+0.344
+
+0.000
+0.731
+
+Dependent variable: The Internet is important in purchase decision. Model summary: R = 0.591, R2 = 0.349, adjusted R2 = 0.342,
+standard error of the estimate = 0.916.
+
+the model (i.e., the Internet explains about 35% of
+the influences in the purchase decision process of
+touristic products).
+Observing the statistical significances (Sig. <
+0.05) of the coefficients related to the model (Table
+2), it can be concluded that the Internet is important in two of the stages of the buying decisions of
+touristic products—evaluation of alternatives and
+purchasing act—supporting hypothesis H1.
+Much of the effort during the purchase decision
+occurs at the stage where a choice must be made
+from the available alternatives (Solomon, 2006).
+Studies confirm that it is at this stage that the consumer can compare the products and assess them
+in the best way, which is one of the advantages that
+the Internet and electronic marketing have to offer
+to consumers (Nascimento, 2000), leading to the
+purchasing act stage. During this stage the consumers are subjected to powerful promotional stimuli
+and feel pressured to decide at the same moment
+(Nascimento, 2000).
+Average Differences Concerning
+Demographic Characteristics
+Regarding gender, there are more male respondents (64.5%), confirming that the male gender is
+more likely to make purchases online, according to
+Wolin and Korgaonkar (2003). In order to assess
+the differences concerning the demographic characteristics, we used the t test for mean differences,
+having arrived at the following conclusions:
+
+1. Concerning the qualifications, there is a difference in perception between the two levels of
+secondary and higher education. Respondents
+with higher education give more importance to
+the Internet in the purchase decision process of
+touristic products.
+2. There is also a difference between the individual
+monthly average net income from level 1 (less
+than 500 €) and level 3 (1,001–1,500 €), where
+respondents with an income between 1,001 €
+and 1,500 € give more importance to the Internet in the purchase decision process. This results
+stems from the actual crises that Portugal is facing, where tourists with a lower income lose
+purchase power.
+3. Concerning occupation, it was observed that
+there is a difference in perception regarding
+one variable (The Internet is important during
+the stage where I evaluate the available alternatives), showing that students and engineers have
+different perceptions.
+These results support hypothesis H4, indicating
+that there are differences in the decision to purchase
+online based on the characteristics of qualifications,
+income, and occupation.
+Conclusions and Limitations
+This study demonstrates the importance that the
+Internet has on consumer behavior in the decisionmaking process. The factors that most influence
+
+INTERNET IMPACT ON TRAVEL PURCHASES
+this buying behavior process are: convenience and
+satisfaction, availability, information and planning,
+and evaluation of alternatives. In addition, having
+a bad experience on the Internet was found to be
+relevant.
+The evaluation of alternatives and the purchasing
+act itself are the most relevant stages to consumers.
+Because so many different online market choices
+are offered, companies should focus on disseminating information and increasing the online website
+and search engines, leading companies to have a
+more in-depth knowledge of consumer preferences.
+From a marketing strategy perspective, these companies should invest in adequate prices for the right
+audience. This means that consumers will choose
+the best value they can find (i.e., the best quality/
+price relationship) and this should be the central
+message in their communication efforts.
+Regarding the average differences with respect
+to demographic characteristics, it was founded that
+there is no difference in perception between genders, yet qualifications and monthly income showed
+that respondents with higher education and higher
+income are more influenced by the Internet in the
+purchase decision process. This suggests an opportunity to segment and to adjust companies’ offers.
+Concerning the limitations of this research and
+suggestions for future research, one limitation is
+that the variables tested did not fully explain the process of purchase decision process of online touristic
+products. It is therefore suggested to conduct further
+studies to assess other factors that may also influence consumers of tourist products, thus increasing the number of influencing factors in addition
+to those that were revealed in this research, and, by
+doing so, increasing also the percentage of explanation of the online consumer behavior. Another limitation relates to the limited degree of generalization
+of the results, due to sample size (380 subjects) and
+the fact that it is a nonprobabilistic by convenience
+sample, so it is suggested a replication of this study
+to other samples of consumers. Still, the instrument
+of data collection provides a general overview of
+the buying process, in relation to the type of buyer
+and touristic product. Thus, for future research, it
+is recommended the use of questionnaires more
+adapted to different market segments, as well as to
+particular product classes (such as hotel, flight, or
+rent-a-car company). This would allow gathering
+
+257
+
+specific and detailed data, so that the findings and
+conclusions would have a higher added value for
+business recommendations.
+References
+Amor, D. (2002). Internet future strategies: How pervasive
+computing services will change the world. Upper Saddle
+River, NJ: Prentice Hall Professional.
+Blackwell, R. D., Miniard, P. W., & Engel, J. F. (2006).
+Consumer behavior (10th ed.). Boston: South-Western
+College Publishing.
+Borja, M. A. (2007). El consumidor virtual y su comportamiento: caracteristicas, variables influyentes y modelizacion del processo de compra. Paper presented at the
+Cities in Competition.
+Buhalis, D. (2003). Etourism: Information technology for
+strategic tourism management. Harlow, UK: Financial
+Times Prentice Hall.
+Buhalis, D., & Law, R. (2008). Progress in information technology and tourism management: 20 years on and 10
+years after the Internet—The state of eTourism research.
+Tourism Management, 29(4), 609–623. doi: http://dx.doi.
+org/10.1016/j.tourman.2008.01.005
+Buhalis, D., & Schertler, W. (1999). Information and communication technologies in tourism 1999. Proceedings
+of the International Conference in Innsbruck, Austria,
+1999. Paper presented at the Information and communication technologies in tourism 1999. Proceedings of the
+International Conference in Innsbruck, Austria, 1999.
+Cantoni, L., & Tardini, S. (2006). Internet. New York:
+Routedge.
+Cetină, I., Munthiu, M.-C., & Rădulescu, V. (2012). Psychological and social factors that influence online
+consumer behavior. Procedia - Social and Behavioral
+Sciences, 62, 184–188. doi: http://dx.doi.org/10.1016/j.
+sbspro.2012.09.029
+Costa, J., & Rita, P. (2000). A tourist market portfolio for
+Portugal. International Journal of Contemporary Hospitality Management, 12(7), 394–401.
+Dionísio, P., Rodrigues, J. V., Faria, H., Nunes, R., & Lefty,
+R. (2009). b-Mercator, blended marketing (1st ed.). Don
+Quixote.
+Eurostat. (2012). Internet use in households and by indi­
+viduals 2012. Retrieved from http://ec.europa.eu/eurostat/
+en/web/products-statistics-in-focus/-/KS-SF-12-050
+Hoffman, D. L., & Novak, T. P. (1996). Marketing in hypermedia computer-mediated environments: Conceptual
+foundations. The Journal of Marketing, 60(3), 50–68.
+Horner, S., & Swarbrooke, J. (2007). Consumer behaviour in tourism (2nd ed.). Oxford, UK: ButterworthHeinemann.
+Hsieh, S., O’Leary, J. T., & Morrison, A. M. (1992).
+­Segmenting the international travel market by activity.
+Tourism Management, 13(2), 209–223.
+Instituto Nacional de Estatistica, I. (2012). Tourism statistics—
+2012. Retrieved from http://www.ine.pt/xportal/xmain?
+xpid=INE&xpgid=ine_publicacoes&PUBLICACO
+
+258
+
+MARTINS, SALAZAR, AND INVERSINI
+
+ESpub_boui=162531606&PUBLICACOEStema=5414
+335&PUBLICACOESmodo=2
+Inversini, A., Brülhart, C., & Cantoni, L. (2012). Myswitzerland.com: Analysis of online communication and promotion. Information Technology & Tourism, 13(1), 39–49.
+Inversini, A., & Masiero, L. (2014). Selling rooms online:
+The use of social media and online travel agents. International Journal of Contemporary Hospitality Management, 26(2), 272–292. doi: http://dx.doi.org/10.1108/
+IJCHM-03-2013-0140
+Jang, S. S. (2004). The past, present and future research of
+online information search. Journal of Travel & Tourism
+Marketing, 17(2–3), 41–47.
+Kim, D.-Y., Lehto, X. Y., & Morrison, A. M. (2007). Gender
+differences in online travel information search: Implications for marketing communications on the internet.
+Tourism Management, 28(2), 423–433. doi: http://dx.doi.
+org/10.1016/j.tourman.2006.04.001
+Kotler, P. (2000). Marketing management: Millennium
+­edition (10 ed.). Upper Saddle River, NJ: Prentice Hall.
+Li, H., Kuo, C., & Rusell, M. G. (1999). The impact of
+perceived channel utilities, shopping orientations, and
+demographics on the consumer’s online buying behavior.
+Journal of Computer-Mediated Communication, 5(2).
+Marktest. (2013). 30% dos portugueses ja fez compras
+online. Retrieved from http://www.marktest.com/wap/
+a/n/id~1c16.aspx
+Mattila, A. S. (2004). Consumer behavior research in hospi­
+tality and tourism journals. International Journal of
+Hospitality Management, 23(5), 449–457. doi: http://dx.​
+doi.org/10.1016/j.ijhm.2004.10.001
+Mowen, J. C., & Minor, M. S. (2007). Consumer behaviour.
+Upper Saddle River, NJ: Prentice Hall.
+Nascimento, J. R. (2000). Nova Economia, Novo Consumidor. Revista de Comunicação e Marketing (1).
+O’Connor, P. (2008). Electronic distribution. Handbook of
+Hospitality Operations and IT, 139–139.
+O’Connor, P., & Frew, A. J. (2002). The future of hotel electronic distribution: Expert and industry perspectives.
+
+Cornell Hotel and Restaurant Administration Quarterly,
+43(3), 33–45.
+O’Reilly, T. (2007). What is Web 2.0: Design patterns and
+business models for the next generation of software.
+Communications & Strategies, 1, 17.
+Reid, R., & Bojanic, D. (2006). Hospitality marketing
+­management (4th ed.). Hoboken, NJ: John Wiley &
+Sons, Inc.
+Sharma, A., & Mehrotra, A. (2007). Choosing an optimal
+channel mix in multichannel environments. Industrial
+Marketing Management, 36(1), 21–28.
+Solomon, M. R. e. a. (2006). Consumer behaviour: A European perspective (3rd ed.). Upper Saddle River, NJ:
+Prentice Hall.
+Turban, E., McLean, E., & Wetherbe, J. (2002). Tecnologias
+da Informação para Gestão: transformando os negócios
+na Economia Digital. São Paulo: Bookman.
+Turismo de Portugal. (2009). Anuário das Estatísticas do
+Turismo 2009. Retrieved from http://www.turismode​
+portugal.pt/Português/turismodeportugal/publicacoes/
+Documents/Anuario%20das%20estatisticas%202009.
+pdf
+United Nations World Tourism Organization. (2006).
+Tourism market trends. Retrieved from http://unwto.org
+Vieites, A., & Espiñeira, M. (2008). Marketing na Internet e
+nos meios digitais interactivos. Porto: Vida Económica –
+Editorial, SA.
+Wolin, L. D., & Korgaonkar, P. (2003). Web advertising:
+gender differences in beliefs, attitudes and behavior.
+Internet Research, 13(5), 375–385.
+Xiang, Z., & Gretzel, U. (2010). Role of social media in
+online travel information search. Tourism Management, 31(2), 179–188. doi: http://dx.doi.org/10.1016/j.
+tourman.2009.02.016
+Xiang, Z., Wöber, K., & Fesenmaier, D. R. (2008). Representation of the online tourism domain in search engines.
+Journal of Travel Research, 47(2), 137–150.
+
+

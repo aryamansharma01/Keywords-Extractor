@@ -1,0 +1,1682 @@
+Tourism Management 51 (2015) 174e185
+
+Contents lists available at ScienceDirect
+
+Tourism Management
+journal homepage: www.elsevier.com/locate/tourman
+
+Why do travelers trust TripAdvisor? Antecedents of trust towards
+consumer-generated media and its inﬂuence on recommendation
+adoption and word of mouth*
+Raffaele Filieri a, *, Salma Alguezaui b, Fraser McLeay a
+a
+b
+
+Newcastle Business School, Northumbria University, City Campus East 1, NE1 8ST, Newcastle upon Tyne, United Kingdom
+Research Assistant at Newcastle Business School, Northumbria University, United Kingdom
+
+h i g h l i g h t s
+
+g r a p h i c a l a b s t r a c t
+
+ The study tests a model of antecedents and consequences of trust towards consumer-generated media
+(CGM).
+ Information quality, website quality,
+and customer satisfaction inﬂuence
+trust towards CGM.
+ Information quality predicts source
+credibility, customer satisfaction, and
+website quality.
+ Trust inﬂuences consumers' intention to follow other users' advice and
+to foster positive word of mouth.
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 27 August 2014
+Accepted 6 May 2015
+Available online 4 June 2015
+
+The proliferation of fake and paid online reviews means that building and maintaining consumer trust is
+a challenging task for websites hosting consumer-generated content. This study tests a model of antecedents and consequences of trust for consumer-generated media (CGM). Five factors are proposed for
+building consumer trust towards CGM: source credibility, information quality, website quality, customer
+satisfaction, user experience with CGM. Trust is expected to predict recommendation adoption and word
+of mouth. Data from 366 users of CGM were analyzed through structural equation modeling and the
+ﬁndings show that all the aforementioned factors with the exception of source credibility and user
+experience inﬂuence consumer trust towards CGM. Trust towards a CGM website inﬂuences travel
+consumers' intentions to follow other users' recommendations and fosters positive word of mouth.
+Findings also show that information quality predicts source credibility, customer satisfaction, and
+website quality.
+© 2015 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Electronic word of mouth
+Online trust
+Website quality
+Information quality
+Customer satisfaction
+Consumer-generated media
+Recommendation adoption
+Word of mouth
+
+1. Introduction
+
+*
+
+Dr. Raffaele Filieri was the main contributor to the full production of this article
+which draws upon research undertaken in a joint research project with Salma
+Alguezaui and Professor Fraser McLeay.
+* Corresponding author. Tel.: +44 (0) 191 227 3334.
+E-mail addresses: raffaele.ﬁlieri@northumbria.ac.uk (R. Filieri), s.alguezaui@
+gmail.com (S. Alguezaui), fraser.mcleay@northumbria.ac.uk (F. McLeay).
+http://dx.doi.org/10.1016/j.tourman.2015.05.007
+0261-5177/© 2015 Elsevier Ltd. All rights reserved.
+
+Travelers increasingly rely on travel reviews to plan their trips
+(Buhalis & Law, 2008; Litvin, Goldsmith, & Pan, 2008). Figures from
+Google show that more than 80% of people research their holiday
+online, and typically visit 26 websites and spend over 2 h in their
+search for the right place and the right deal (Trend, 2013). In the
+travel and tourism industry, consumers can bypass tour operators
+
+R. Filieri et al. / Tourism Management 51 (2015) 174e185
+
+and agents altogether to get advice from consumer-generated
+media (CGM) e namely those websites that provide consumergenerated content (CGC) such as online consumer reviews. Travelers' recommendations on CGM inﬂuence consumer decisions of
+where to go on holiday, which accommodation to book, and once
+there, which attractions to visit and where to go to eat (Dickinger,
+2011; Fotis, Buhalis, & Rossides, 2012; Gretzel & Yoo, 2008;
+Sparks, Perkins, & Buckley, 2013). CGC such as online travel reviews allows consumers to identify the best hotels, restaurants, and
+attractions, enabling travelers to avoid the worst products and
+services, with the ﬁnal result of improving their decision making
+(Filieri & McLeay, 2014).
+Tourism research has demonstrated that CGC is perceived as
+more trustworthy when compared to content from ofﬁcial destination websites, travel agents, and mass media (Dickinger, 2011;
+Fotis et al., 2012). However, in recent years the mass media all
+over the world have started to question the reliability of the most
+popular CGM, reporting stories of hotel managers posing as customers or encouraging their staff to write fake glowing reviews
+about their organization or even negative reviews about their
+competitors (e.g. Smith, 2013; Streitﬁeld, 2011; Tuttle, 2012). In a
+bid to expose the apparent failure of TripAdvisor to tackle the
+phenomenon of fake reviews, a British businessman had set up a
+fake restaurant which started to receive glowing reviews (Smith,
+2013). Thus, it has become apparent to many users that not all
+consumer reviews are necessarily written by real customers and
+opinion spam is widespread in consumer review websites (Jindal &
+Liu, 2008).
+Due to this apparently uncontrollable rise of fake and promotional content on CGM, a concept such as trust acquires a
+particular relevance. The questions that arise are: Why do travel
+consumers trust CGM like TripAdvisor? Does trust in CGM affect
+travel consumer behavior? The present research attempts to
+provide an answer to these questions. Although trust has been
+identiﬁed as a critical determinant of consumer purchase intentions in e-commerce (e.g. Flavi
+an, Guinalíu, & Gurrea, 2006;
+Hoffman, Novak, & Peralta, 1999; Jarvenpaa, Tractinsky, & Vitale,
+2000; Lee & Turban, 2001; Yoon, 2002), little attention has
+been paid to trust towards CGM (Ayeh, Au, & Law, 2013a; Yoo &
+Gretzel, 2009) and whether trust affects travel consumer
+behavior.
+In order to ﬁll this gap, this study has tested a new model
+measuring the antecedents and consequences of trust towards
+CGM. This study relies on the Beldad, de Jong, and Steehouder
+(2010) model of the antecedents of trust which attempts to measure the inﬂuence of factors like user experience, customer satisfaction, information quality, source credibility, and website quality,
+on trust towards CGM.
+Furthermore, this research explores the inﬂuence of trust on
+two types of travel consumer behavior, namely: consumer
+intention to spread the word about the CGM website they use to
+other people in their network (word of mouth), and consumer
+intention to adopt the advice received from CGM and purchase
+the recommended product. These predictions were tested by
+using structural equation modeling with data from 366 travel
+users of CGM. The results have practical implications for travel
+operators and for managers of CGM and other online operators in
+the CGM industry.
+The rest of the paper is structured as follows. First, we review
+the literature on electronic-word of mouth (e-WOM) and trust
+with a particular focus on CGM. We then present the theoretical
+framework and formulate the hypotheses of this study, subsequently we introduce the methodology and ﬁnally we present and
+discuss the ﬁndings. Managerial implications, limitations and
+future research directions conclude this paper.
+
+175
+
+2. Online reviews, consumer-generated media and trust
+Consumers often try to get a feel for what a destination or accommodation will be like prior to their travel and for that reason
+they look for online consumer reviews on websites such as
+TripAdvisor, Yelp, and Holiday Watchdog. Online consumer
+reviews e also known in the literature as CGC e can be considered
+as a form of e-WOM, which refers to ‘any positive or negative
+statement made by potential, actual or former consumers about
+a product or company, which is made available to a multitude of
+people and institutions via the Internet’ (Hennig-Thurau, Gwinner,
+Walsh, & Gremler, 2004, p. 39).
+Existing research in e-WOM has primarily focused on the motivation of customers who write reviews (e.g. Hennig-Thurau et al.,
+2004), on the inﬂuence of consumer reviews on the purchase decisions of other customers (Senecal & Nantel, 2004; Smith, Menon, &
+Sivakumar, 2005), and on the role of consumer reviews in affecting
+the sales of different types of goods (Cui, Lui, & Guo, 2012; Dellarocas,
+Zhang, & Awad, 2007; Godes & Mayzlin, 2004; Zhu & Zhang, 2010).
+Research in the travel and tourism industry has provided evidence that online consumer reviews inﬂuence hotel rooms sales
+(e.g. Ye, Law, & Gu, 2009) and travelers' purchase intentions about
+which destination to travel to (Arsal, Backman, & Baldwin, 2008),
+and which accommodation to book (e.g. Filieri & McLeay, 2014;
+Gretzel & Yoo, 2008; Sparks & Browning, 2011; Vermeulen &
+Seegers, 2009). Consumer-generated content have been found to
+be equally important with respect to ofﬁcially provided information (Inversini, Cantoni, & Buhalis, 2009). Websites like TripAdvisor
+have become so popular among travelers that they potentially inﬂuence the travel decisions of approximately 200 million users
+who visit the website each month to get recommendations over
+restaurants, accommodation, and destinations (TripAdvisor, 2014).
+However, the mass media all over the world repeatedly
+report stories of fake and promotional reviews posted on CGM
+(e.g. Smith, 2013; Streitﬁeld, 2011; Tuttle, 2012). TripAdvisor has
+recently been forced by the UK Advertising Standards Authority to
+remove its ‘misleading’ slogans referring to the trustworthy and
+honest nature of all the reviews hosted on its website. Thus, maintaining high levels of trust towards CGM seems to be an increasingly
+challenging task for the managers of these online organizations.
+Trust is deﬁned as ‘one party's conﬁdence in an exchange
+partner's reliability and integrity’ (Morgan & Hunt, 1994, p. 23). In
+this study, the focus is on online trust, which differs from ofﬂine
+trust in that the object of online trust can be a website (Bart,
+Shankar, Sultan, & Urban, 2005), that is CGM websites in this
+study. Trust in an online retailer has been identiﬁed as a central
+n et al., 2006;
+success factor of e-commerce activities (e.g. Flavia
+Hoffman et al., 1999; Jarvenpaa et al., 2000; Lee & Turban, 2001;
+Yoon, 2002); however, little research has investigated the antecedents and the consequences of trust in e-WOM (Ayeh et al.,
+2013a). Existing research in e-tourism on this topic has investigated the impact of online travel reviews on the credibility of hotels
+(Sparks & Browning, 2011), and the role that reviews play in
+reducing travelers' perceptions of risk when booking accommodation (Gretzel, Yoo, & Purifoy, 2007). The study that more closely
+focuses on trust towards CGM is Ayeh et al. (2013a)'s on the determinants of travelers' attitudes and intentions towards usage of
+CGC for travel planning. Ayeh et al. (2013a) adopted the Technology
+Acceptance Model (TAM) to measure the impact of factors like
+usefulness, perceived ease of use, homophily, perceived source
+trustworthiness, and perceived enjoyment, which e with the
+exception of perceived trustworthiness e were found to contribute
+to intentions to use CGM for travel planning. However, in this study
+we adopt the trust-building model developed by Beldad et al.
+(2010), which will be discussed in the next section.
+
+176
+
+R. Filieri et al. / Tourism Management 51 (2015) 174e185
+
+3. Theoretical background and research hypotheses
+The academic literature has identiﬁed several antecedents of
+trust and most of these studies focused on transacting websites
+(Beldad et al., 2010). Beldad et al. (2010) reviewed the literature on
+the antecedents of trust in commercial and non-commercial websites and classiﬁed them into three main categories: customer-based
+antecedents, such as users' experience with the technology used
+for the transaction, or user's tendency to trust; website-based antecedents, such as the quality of the website used or of the information; and organization/company-based antecedents such as
+customers' experiences with online organizations.
+Beldad et al.'s (2010) framework has been adopted in this study to
+investigate the antecedents of trust towards CGM in the travel and
+tourism industry. The main reason for adopting Beldad et al. (2010)'s
+framework is that it is an online trust-building model that ﬁts both
+commercial and non-commercial organizations, it has not yet
+received empirical validation for CGM websites, and includes a
+number of relationships that have not been tested before in a single
+model, which increases to the originality of the study.
+However, it has to be noted that the Beldad et al. (2010)
+framework does not consider some of the peculiarities of CGM,
+which have been highlighted in e-WOM literature and therefore it
+has been adapted to ﬁt the current research topic. For instance,
+popular CGM like TripAdvisor and Yelp are characterized by reviews posted by anonymous users on travel products and services
+such as attractions, accommodation, and restaurants available in a
+destination. A factor such as the credibility of the source will be
+more important in such a context. Moreover, the propensity to trust
+construct does not ﬁt with the current study as this construct can
+be important for ﬁrst-time users but irrelevant for returning users,
+which are the users we focus on in this study; therefore we have
+decided to drop this construct.
+To summarize, in this study customer-based antecedents of
+trust included factors such as users' experience (knowledge and
+skills) in using CGM; website-based antecedents included website
+quality, information quality, and perceived source credibility; and
+organization/company-based antecedents included users' previous
+experiences with CGM. Furthermore, this study attempts to measure
+the consequences of trusting behavior towards CGM. Thus, we have
+considered whether trust inﬂuences the following consumer behaviors that are critical to the realization of the strategic objectives of
+CGM websites: following the recommendations of reviewers
+and purchasing the recommended product/service, and spreading
+positive word of mouth (WOM) about the CGM website.
+3.1. Website-based trust antecedents
+3.1.1. Source credibility
+Source credibility and trustworthiness are considered to be
+fundamental predictors of consumers' acceptance of a message in
+traditional WOM (Hovland, Janis, & Kelley, 1953; McGinnies &
+Ward, 1980). Different than in face-to-face communications, in eWOM consumers cannot adopt paraverbal cues to assess the
+credibility of a communication source (Litvin et al., 2008; Tidwell &
+Walther, 2002). Evaluating the credibility of a source is difﬁcult in
+e-WOM communications (Park & Lee, 2008) because reviews are
+written by anonymous sources who have no prior relationship
+with the receiver (Dellarocas, 2003).
+Current research on the inﬂuence of source credibility on website
+trust is scant in e-WOM. Existing research has explored the inﬂuence
+of source credibility on perceived information usefulness (Cheung,
+Lee, & Rabjhon, 2008; Willemsen, Neijens, Bronner, & DeRidder,
+2011), diagnosticity (Filieri, 2015), and information adoption with
+contrasting results (Zhang & Watts, 2008). In the tourism literature,
+
+Ayeh, Au, and Law (2013b) revealed a weak or non-signiﬁcant relationship between source trustworthiness/expertise and intention to
+use user-generated content for travel planning.
+However, more and more CGM require contributors to create a
+web proﬁle when they register where they can provide some personal information (e.g. proﬁle picture, places visited, and the like);
+additionally, most of these websites utilise reviewer reputation
+systems to enable consumers to assess the credibility of reviewers
+(Cheung, Luo, Sia, & Chen, 2009). For example, TripAdvisor has
+introduced a badge system that show the different levels of expertise
+of reviewers, which can range from ‘reviewer’ to ‘top contributor’
+depending on the number of reviews and posts published, while
+Yelp's users can acquire the ‘elite’ badge if they frequently provide
+high quality reviews and actively engage with the community.
+Thus, all of this information may provide some sort of
+indication about the potential credibility and trustworthiness of a
+source. In this study, we argue that the perceived credibility of
+the source (reviewers) inﬂuences consumers' trust towards a
+channel of communication, namely a CGM website. We believe
+that if travel consumers perceive the reviewers as credible
+sources they will believe that the website is reliable in that it has
+effective mechanisms in place to avoid spammers who post
+deceptive reviews through fake accounts. Therefore, we hypothesize as follows:
+H1. Source credibility positively inﬂuences trust towards CGM.
+
+3.1.2. Information quality
+Information quality refers to the quality of the information
+contained in an online review and is deﬁned as ‘the quality of the
+content of a consumer review from the perspective of information
+characteristics’ (Park, Lee, & Han, 2007, p. 128). Information quality
+in e-WOM reﬂects relevancy, sufﬁciency, accuracy, currency
+(Cheung et al., 2008; Park et al., 2007), value (Filieri & McLeay, 2014),
+credibility and usefulness (Cheung et al., 2009) of the information.
+Information quality has been found to predict information adoption
+(Filieri & McLeay, 2014) and purchase intentions (Park et al., 2007)
+and it is also a signiﬁcant determinant of user trust in commercial
+websites (Kim, Xu, & Koh, 2004), in health infomediaries (Zahedi &
+Song, 2008), and an enabler of inter-organizational data interchange
+(Nicolaou & McKnight, 2006).
+Travel consumers retrieve reviews to make informed decisions
+about their travel options; however, the tourism product is complex as it is made up of multiple products and features, such as
+accommodation, transportation, restaurants, attractions and the
+like, so that consumers need to collect a large amount of information before being able to build their own travel package. Moreover,
+every consumer is different and has different needs; young married
+couples may be looking for romantic accommodation, while backpackers search for cheap and functional places to stay. A CGM that
+wants to satisfy such a wide variety of information needs must be
+able to provide information that is relevant to the different needs,
+current, and complete. Such information is valued highly if it is not
+biased by promotional messages from hotel managers (information
+credibility) and instead it is entirely based on real customers' experiences. In fact, the more credible the information is perceived to
+be, the more useful it is in making informed decisions (Cheung
+et al., 2009). Therefore, if travel consumers ﬁnd that the information from reviews is credible, current, useful, valuable, sufﬁciently
+complete and relevant to satisfy their information needs, they will
+trust CGM more because they will think it comes from real customers and not from biased information sources. Thus, we propose:
+H2. Information quality in reviews positively inﬂuences trust towards CGM.
+
+R. Filieri et al. / Tourism Management 51 (2015) 174e185
+
+Additionally, the quality of information in online reviews is a
+very important cue for consumers to assess the credibility of a
+source (Filieri, 2015). An information source who provides current,
+accurate, complete, useful, and detailed information regarding
+the relevant features of a product may be perceived as more
+credible than a source who provides a short, superﬁcial, emotional,
+and inaccurate description of a product. For this reason, we hypothesize as follows:
+
+177
+
+are empowering travelers as they are now capable of building a
+tourism package for themselves (Litvin et al., 2008). Following
+this literature, we argue that the more a website is effective in
+fulﬁlling consumers' needs and in facilitating them in accomplishing their tasks (e.g. building a tourism package), the higher
+will be their satisfaction. Accordingly, we hypothesize:
+H3-1. Perceived website quality positively inﬂuences customer
+satisfaction.
+
+H2-1. Information quality positively inﬂuences perceived source
+credibility.
+The quality of the information contained in online reviews
+can also be considered as an antecedent of perceived website
+quality. If the information retrieved on CGM is judged to be of high
+quality that means that the website fulﬁlls consumers' expectations.
+The satisfaction that derives from retrieving highly valued content
+might be transferred to the functionalities of the website such as
+ease of navigation, security and privacy, speed of page loading and
+the like. As a consequence, travel consumers may perceive a CGM
+website to be of high quality as it enables them to effectively and
+efﬁciently retrieve all the information they need to make an
+informed decision. For this reason, we hypothesize as follows:
+H2-2. Information quality positively inﬂuences perceived website
+quality.
+Moreover, we argue that information quality predicts customer
+satisfaction with CGM. The main reason why consumers visit CGM
+is to retrieve travel information from other customers who have
+experienced a product or a service. If this information helps the
+travel consumer to effectively plan his/her trip and the website
+meets customer expectations, then he/she will be satisﬁed and will
+decide to return and use the website again in the future. Thus, we
+hypothesize as follows:
+H2-3. Information
+satisfaction.
+
+quality
+
+positively
+
+inﬂuences
+
+customer
+
+3.1.3. Perceived CGM website quality
+Website quality refers to ‘customers’ perception of a website's
+performance in information retrieval and delivery’ (Yang, Cai, Zhou,
+& Zhou, 2005, p.579). In e-commerce literature, ﬁndings support the
+inﬂuence that website quality has on the formation of consumer
+trust in online merchants (McKnight, Choudhury, & Kacmar, 2002).
+However, CGM websites like TripAdvisor do not enable transactions
+and so they function as information presenting and communication
+websites (Yang et al., 2005). Thus, the website quality of nontransacting websites includes factors such as ease of navigation,
+interactive communication and customization, technical adequacy,
+privacy, and security (Yang et al., 2005). In online environments, the
+website is faceless, so the interface becomes the ‘online storefront’
+upon which ﬁrst impressions are formed (McKnight et al., 2002). If a
+CGM is perceived as safe and secure, eases consumers' navigation
+and the retrieval of information through customized search engines
+and has forums where customers can interact with other customers,
+the user of such CGM will form a positive impression of the CGM
+website, which ultimately will be perceived as reliable. Accordingly,
+we hypothesize as follows:
+H3. Perceived website quality positively inﬂuences trust towards
+CGM.
+Previous research in e-tourism reported that website quality
+has a direct and positive impact on customer satisfaction
+(Bai, Law, & Wen, 2008). By facilitating customer-to-customer information sharing about travel experiences, CGM websites
+
+3.2. Company/organization-based antecedents of trust
+3.2.1. Satisfaction from previous experiences
+In marketing literature, customer satisfaction is measured as the
+general satisfaction of a customer, which is based on all cumulative
+experiences with a company, a product or a service, thereby it is not
+the satisfaction resulting from a speciﬁc transaction, rather a global
+evaluation of the relationship history between the parties (Olsen &
+Johnson, 2003). A previous positive transaction with online shopn,
+ping determines customers' trust in the company (Casalo, Flavia
+n et al., 2006; Pavlou, 2003; Yoon, 2002).
+& Guinaliu, 2007; Flavia
+Drawing from this literature we expect that users of CGM who are
+satisﬁed with their previous usage experiences will be more likely
+to trust a CGM. In fact, while planning their travels, users of CGM
+search for tips and advice that can help them improve their decision making. If the tips received meet or exceed the traveler's
+expectations then he/she will be satisﬁed with his/her information
+search experience. For instance, if online reviews from other
+travelers help users to discover attractions, accommodation or
+restaurants that they would not be able to discover through other
+information sources (e.g. travel guides, friends' and professionals'
+advice) then they will be satisﬁed or even delighted as they will feel
+empowered. On the contrary, if travel reviews are inaccurate,
+biased or seemingly fake they will be more likely to let users
+down and then generate disappointment. If consumers experience
+disappointment then they will tend not to trust the CGM as the
+negative experience will provide them with the evidence that the
+CGM is not capable or willing to block unreliable and misleading
+content from appearing on the website. Consumers who are satisﬁed with their previous experiences will feel more conﬁdent
+about the reliability of the recommendations received on the CGM.
+Thus, we hypothesize as follows:
+H4. Satisfaction with previous experiences positively inﬂuences
+users' trust towards a CGM.
+
+3.3. Customer-based trust antecedents
+3.3.1. User experience and proﬁciency
+The receiver of communications in e-WOM indicates a travel
+consumer that seeks advices and recommendations from a CGM.
+The level of experience in using CGM and online reviews in the
+decision making process can be an important factor to consider
+when investigating the antecedents of trust (Beldad et al., 2010).
+According to Brown, Borderick, and Lee (2007), lack of experience
+may lead to naivety and credibility being given to all information
+on the Internet. Some studies support this argument by indicating
+that higher levels of web experience are associated with low levels
+of trust in online organizations (Aiken & Boush, 2006; Jarvenpaa
+et al., 2000). According to Aiken and Boush (2006) a possible
+explanation for this is that users with high levels of experience
+may have already accumulated sufﬁcient knowledge of possibilities that things could go wrong any time online. According to Bart
+et al. (2005) more knowledge of and experience with the Internet
+
+178
+
+R. Filieri et al. / Tourism Management 51 (2015) 174e185
+
+can spur greater conﬁdence in using it, which would inﬂate online
+trust. However, other studies have found that high levels of
+Internet experience affect consumers' tendency to trust Internet
+technology, thereby enhancing their trust in Internet-based
+transactions (Corbitt, Thanasankit, & Yi, 2003).
+In this study, we argue that a travel consumer who has accumulated experience with using online reviews and CGM may feel
+conﬁdent of not being deceived by unreliable websites or content.
+An experienced user may feel knowledgeable enough in how to
+spot unreliable websites and fake reviews. Instead, ﬁrst-time users
+are less knowledgeable about CGM and unaware of how to tell
+whether a CGM is reliable or not. Thus, lower levels of expertise
+and knowledge in using online CGM may result in more cautious
+behavior towards online reviews and CGM. On the contrary, a user
+who is very experienced with online reviews will trust CGM
+because he/she has got enough knowledge and experience of the
+website and of the reviews, which enables him/her to conﬁdently
+distinguish reliable from unreliable CGM websites. Thus, we hypothesize as follows:
+H5. Customer experience with using CGM positively inﬂuences trust
+towards CGM.
+3.4. Behavioral consequences of trust towards CGM
+The value of a CGM is given by the number of people using it
+and by the inﬂuence it has in a speciﬁc industry. To provide an
+example, the higher the popularity and inﬂuence of TripAdvisor in
+the tourism industry, the more e-retailers in the same industry
+would be willing to pay for a sponsored link from this website. Such
+a business model sustains the revenues of this and many other
+CGM, which is based on selling leads to large e-retailers in the
+travel and tourism industry, including Booking.com, Agoda.com,
+Hotels.com, and many more. Therefore, two key performance indicators of CGM are customer base and inﬂuence on consumer
+decisions. In this study, it is expected that trust towards CGM can
+inﬂuence both consumers' intention to adopt the recommendations received and engage in positive WOM about the CGM to other
+people. Below the hypotheses of the study are presented.
+3.4.1. Recommendation adoption
+Information adoption is the process by which people purposefully engage in using information (Cheung et al., 2008;
+
+Sussman & Siegal, 2003). Research highlighted the inﬂuence of
+trusting beliefs and trusting intention on the user's intention to
+follow an e-retailer's advice (McKnight et al., 2002). In the
+context of CGM, a trustworthy website is believed to monitor the
+legitimacy of the reviews submitted by its users in the consumer's best interest, thereby decreasing the risks associated
+with being deceived by fake content. Thus, we argue that the
+users of CGM should consider whether the recommendations
+contained in consumer reviews can be relied upon in order to
+learn about the expected quality and performance of a product or
+service. If the users of a CGM believe that the recommendations
+hosted on that CGM are reliable, they will be more likely to adopt
+those recommendations in their decision making. On the contrary, if the website is perceived as unreliable, consumers will
+not adopt the recommendations as they do not want to risk
+being deceived. Therefore, the more consumers view CGM as
+trustworthy the more likely they will be to follow the advice
+received.
+H6. Customer trust towards CGM positively inﬂuences recommendation adoption.
+
+3.4.2. Word of mouth
+There is a scarcity of studies in online settings about the role
+of trust on consumer's intention to engage in positive WOM. In
+this study, we argue that if travel consumers trust CGM, they will
+then be more willing to talk to their friends and acquaintances
+about the website and about the experiences they have with using
+it. In fact, a consumer who uses other consumers' recommendations is more likely to improve his/her decision making. For
+instance, through reading consumer reviews the travel consumer
+may experience accommodation, restaurants or visit attractions
+which are off the beaten track, and these experiences will motivate
+him/her to engage in WOM about the tips received from CGM to
+their friends. The more consumers are conﬁdent about the trustworthiness of a CGM website the more likely they will be to tell
+their friends and acquaintances where the advice came from
+because the risk of deception is very low(Fig. 1). For this reason,
+we hypothesize:
+H7. Consumer trust towards CGM positively inﬂuences word
+of mouth.
+
+Fig. 1. Theoretical framework and hypotheses.
+
+R. Filieri et al. / Tourism Management 51 (2015) 174e185
+
+4. Methodology
+4.1. Data collection
+Structural Equation Modeling (SEM) has been favored as a
+measurement technique over simple regression tools, because it
+enables researchers to test a series of dependence relationships
+simultaneously (Hair, Black, Babin, & Anderson, 2010). The questionnaire for this study was created through a professional onlinebased survey tool, which has already been adopted in tourism
+research with satisfactory results (Ayeh et al., 2013a). The web
+questionnaire was primarily composed of closed questions that
+were measured using a 7-point Likert scale (see Table 2). The
+questionnaire was available in English and, prior to administration,
+it was pilot-tested with a total of 49 users of CGM, which led to
+paraphrasing and deleting items that were ambiguous or too
+similar to each other. An email with a link to the questionnaire
+was sent to a convenience sample of travel consumers among
+academic staff members and students from two universities
+located in the Republic of Ireland and in England. The focus on
+this European sample was decided in order to widen the
+geographical scope of e-WOM research as existing e-WOM studies
+are largely based on American and Asian consumers (Chan & Ngai,
+2011).
+The travel consumers who participated to this study had recent
+experience in the use of CGM for tourism-related products and
+services (e.g. accommodation, restaurants), which was assessed in
+different ways: ﬁrst, the email sent to potential respondents clearly
+stated that only people with recent experiences with CGM could
+participate in this study; second, the respondents were asked to
+write the name of the website where they read consumer reviews
+and indicate how frequently they used reviews before purchasing
+a travel product/service. A total of 401 responses were received;
+however, 35 questionnaires were discarded for different reasons
+such as outliers or missing cases, which yielded a total of 366
+usable questionnaires.
+4.2. Measures
+The scale and items that were used to measure the constructs in
+this study are displayed in Table 2 and are derived from previous
+studies. Source credibility and trustworthiness were measured by a
+scale developed by Ohanian (1990) and recently used by Senecal
+and Nantel (2004) in e-WOM research. Information quality was
+measured through a scale used in previous studies in e-WOM
+(Cheung et al., 2009; Filieri & McLeay, 2014; Park et al., 2007). The
+scale developed by Yang et al. (2005) for non-transacting websites
+was adopted to measure website quality for CGM and excluded the
+items measuring adequacy of information and usefulness of content because research has demonstrated that website quality and
+information quality are two different factors (DeLone & McLean,
+1992). The scale used to measure trust towards CGM was similar
+to a scale adopted in previous studies (Jarvenpaa et al., 2000; Kim,
+Ferrin, & Rao, 2008). The scale used to measure users' experience
+with CGM and CGC was adapted from Smith et al. (2005). Customer
+satisfaction was measured with two items derived from Pavlou
+(2003), while information adoption was measured by a scale used
+in previous studies of online reviews (Cheung et al., 2009). e-WOM
+behavior was measured through a scale developed by Brown, Barry,
+Dacin, and Gunst (2005).
+4.3. Sample proﬁle
+The socio-demographic characteristics of the sample are presented in Table 1. The sample was primarily composed of
+
+179
+
+Table 1
+Socio-demographic characteristics of the respondents.
+Dimension
+
+Items
+
+Percentage
+
+Gender
+
+F
+M
+18e25
+26e35
+36e45
+46e54
+70.000 V and above
+50.000e69.000 V
+30.000e49.000 V
+10.000e29.000 V
+Under 9.999 V
+No Answer
+Rep. of Ireland or UK
+Other European countries
+United States
+Others
+
+46.7
+53.3
+63.5
+33.5
+1.5
+1.5
+0.5
+0.5
+5.4
+35.2
+36.6
+21.8
+92.9
+3.6
+1.5
+2
+
+Age
+
+Income
+
+Nationality
+
+individuals aged 18e35 (97% of the sample) from European countries, primarily from the UK and the Republic of Ireland. This
+sample composition may result from the questionnaire being
+available in English, which reduced the number of non-English
+speaking respondents. The age range can be considered a limitation; however, individuals in this age cohort use consumer reviews
+the most and the Internet penetration in these countries is among
+the highest in the world (84%), as demonstrated by a recent Nielsen
+study (2013).
+4.4. Data analysis
+The most fundamental assumption in multivariate data
+analysis is the normality of the data, which has been tested using
+the Kaiser-Meyer-Olkin measure of sampling adequacy which
+provided a value of 0.907, indicating that the model is meritorious
+(Hair et al., 2010). Normality was also assessed through the skewness and kurtosis values (see Table 3), which did not exceed ±2.58
+or ±1.96; thus, the distribution can be considered normal (Hair
+et al., 2010).
+Both the convergent and discriminant validity of the model
+were tested. Convergent validity was assessed using the average
+variance extracted (AVE), Cronbach's Alpha, and Composite Reliability (CR). The factor loadings for all the constructs used in this
+study were higher than the recommended cut-off of 0.5, with the
+exception of website security which was 0.475 and for this reason
+this item was removed. CR values (see Table 2) were well above the
+threshold of 0.6 (Fornell & Larcker, 1981), thus demonstrating that
+the scales measure the concepts that they were designed to measure. Reliability was assessed for each construct with Cronbach's a,
+which ranged from 0.815 (website trust) to 0.917 (source credibility), which signiﬁes a very good level of reliability for the items
+and the scales that were used in this study (Nunnally, 1978).
+Discriminant validity was assessed through the average variance
+extracted (AVE) for each latent variable included in the model,
+which should be greater than the squared correlation estimate
+(Fornell & Larcker, 1981). Table 3 shows that these requirements
+have been met. Moreover, all factor correlations were below the
+0.85 threshold (Fornell & Larcker, 1981).
+The overall model ﬁt was measured using the relative/
+normed chi-square (x2/df), yielding a value of x2/df ¼ 1.995, which
+is below the recommended threshold of 3 (Kline, 2011), the chisquared value was 961.378 and all factor loadings were statistically signiﬁcant (p ¼ 0.000). The goodness-of-ﬁt index (GFI) was
+0.905, and the comparative ﬁt index (CFI) was 0.946; thus, both
+were above the suggested cut-off of 0.9 (Hu & Bentler, 1999).
+
+180
+
+R. Filieri et al. / Tourism Management 51 (2015) 174e185
+
+Table 2
+Scales, Items, Factor Loadings, Cronbach's a.
+Construct
+
+Items
+
+Website Quality
+(WEBQUAL)
+(7-point, strongly disagreestrongly agree)
+
+This travel review website
+1. is easy to use
+2 ... has well-organized hyperlinks
+3 ... has customized search functions
+4 … provided opportunities to interact with other customers
+5 … has high speed of page loading
+6 … is easily accessible from different media
+7 … .guarantees users' privacy
+The information in online reviews was
+1. Timely
+2. Relevant to my needs
+3. Complete for my needs
+4. Valuable
+5. Useful
+6. Credible
+1. The reviewers were credible
+2 … were experienced
+3 … were trustworthy
+4 … were reliable
+1. I am satisﬁed with the information I have received from this travel
+reviews website
+2. I am satisﬁed with my previous experiences with this website
+1. Prior to your participation in this study, how would you rate your
+level of experience in terms of using CGM?
+2. Prior to your participation in this study, how would you rate your
+level of experience in terms of browsing CGM?
+3. Prior to your participation in this study, how would you rate your
+level of experience in terms of online recommendations?
+1. I think that the information offered by this travel reviews website
+was sincere and honest
+2. I think that the advice and recommendations given on this travel
+reviews website are made in search of mutual beneﬁt of both the
+reviewer and customers
+3. This travel reviews website is trustworthy
+1. I mentioned to others that I seek travel information from this
+travel reviews website
+2. I made sure that others know that I rely on this review website for
+travel information
+3. I spoke positively about this travel review website to others
+4. I recommended this travel review website to close personal
+friends
+1. Online reviews made it easier for me to make purchase decision
+(e.g., purchase or not purchase)
+2. Online reviews have enhanced my effectiveness in making
+purchase decision
+3. Online reviews have motivated me to make a purchase decision
+(purchase or not purchase)
+4. The last time I read online reviews I adopted consumers'
+recommendations
+5. Information from review contributed to my knowledge of
+discussed product/service
+
+Information Quality
+(INFOQUAL)
+(7-point, strongly disagreestrongly agree)
+
+Source Credibility (SC)
+(7-point, strongly disagreestrongly agree)
+Customer Satisfaction (SAT)
+(7-point, strongly disagreestrongly agree)
+Receiver Experience
+(EXP)
+(7-point, not experienced at
+all - very experienced)
+
+Website Trust (WEBTRUS)
+(7-point, strongly disagree
+-strongly agree)
+
+Word of Mouth Behavior
+(WOM)
+(7-point, never-frequently)
+
+Recommendation Adoption
+(ADO)
+(7-point, strongly disagree
+estrongly agree)
+
+Factor loading
+
+CR
+
+Overall a
+
+0.926
+
+0.830
+
+0.902
+
+0.865
+
+0.878
+
+0.917
+
+0.893
+
+0.892
+
+0.903
+
+0.901
+
+0.879
+
+0.815
+
+0.926
+
+0.858
+
+0.898
+
+0.896
+
+0.849
+0.727
+0.873
+0.754
+0.807
+0.857
+0.732
+0.807
+0.748
+0.786
+0.778
+0.832
+0.717
+0.862
+0.779
+0.894
+0.886
+0.872
+0.923
+0.913
+0.904
+0.787
+0.857
+0.856
+
+0.809
+0.871
+0.873
+0.876
+0.859
+0.849
+0.814
+0.801
+0.799
+0.725
+
+Table 3
+Means, SD, correlations, and AVE.
+Variable
+
+Mean
+
+SD
+
+Skew
+
+Kurt
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1.SC
+2.INFOQUAL
+3.WEBQUAL
+4.SAT
+5.EXP
+
+5.12
+5.22
+5.34
+5.65
+4.77
+
+0.9918
+0.9248
+0.9689
+1.0899
+1.5338
+
+0.666
+0.586
+0.688
+1.13
+0.494
+
+1.079
+0.991
+0.624
+1.800
+0.572
+
+0.734
+0.496
+0.525
+0.530
+0.290
+
+e
+0.607
+0.554
+0.591
+0.301
+
+e
+e
+0.643
+0.604
+0.290
+
+e
+e
+e
+0.806
+0.415
+
+e
+e
+e
+e
+0.757
+
+Note. Off-diagonal values are squared correlations and on-diagonal values are AVEs.
+Note. All correlations were signiﬁcant at p < 0.001.
+
+The root mean square error of approximation (RMSEA), which indicates the amount of error in the model, was 0.058 below the
+recommended cut-off of 0.06 (Hu & Bentler, 1999; Kline, 2011).
+Overall, the structural equation model shows a good ﬁt (see
+Table 4).
+
+5. Results
+The structural equation model was tested using the statistical
+software Amos 18.0, and the results are presented in Table 4. Based
+on the results, the strongest predictors of website trust were: information quality (b ¼ 0.402; p < 0.001; t ¼ 4.966); customer
+
+R. Filieri et al. / Tourism Management 51 (2015) 174e185
+
+181
+
+Table 4
+Goodness of ﬁt indexes and hypotheses.
+Goodness of ﬁt of the
+Model
+
+Hypoth.
+
+Relationship
+
+Standard. Regression weight
+
+t value
+
+R2
+
+Supported vs. Rejected
+
+x2/df
+GFI
+CFI
+Chi-sq.
+RMSEA
+
+H1
+H2
+H2-1
+H2-2
+H2-3
+H3
+H3-1
+H4
+H5
+H6
+H7
+
+SC–> WEBTRUS
+INFOQUAL–> WEBTRUS
+INFOQUAL–> SC
+INFOQUAL–>WEBQUAL
+INFOQUAL–> SAT
+WEBQUAL–> WEBTRUS
+WEBQUAL–>SAT
+SAT–> WEBTRUS
+EXP–> WEBTRUS
+WEBTRUS–> ADO
+WEBTRUS–> WOM
+
+0.070
+0.402***
+0.694***
+0.454***
+0.402***
+0.279***
+0.195**
+0.381***
+0.020
+0.630***
+0.812***
+
+1.049
+4.966
+8.087
+5.100
+5.382
+4.036
+2.337
+6.611
+0.576
+9.148
+10.317
+
+0.832
+0.832
+0.366
+0.548
+0.812
+0.832
+0.812
+0.832
+0.832
+0.397
+0.778
+
+Rejected
+Supported
+Supported
+Supported
+Supported
+Supported
+Supported
+Supported
+Rejected
+Supported
+Supported
+
+1.995
+0.905
+0.946
+961.378
+0.058
+
+Note: *** indicates p < 0.001, ** indicates p < 0.01, * indicates p < 0.1, no star means nonesigniﬁcant.
+
+satisfaction (b ¼ 0.381; p < 0.001; t ¼ 6.611); and website quality
+(b ¼ 0.279; p < 0.001; t ¼ 4.036). Contrary to our predictions, source
+credibility (b ¼ 0.070, p < non-signiﬁcant; t ¼ 1.049) and receiver
+experience (b ¼ 0.020; p < non-signiﬁcant; t ¼ 0.576) did not
+exhibit a signiﬁcant predictive power in their relationship with
+the dependent variable; thereby the results support hypotheses
+H2, H3, and H4, while H1 and H5 are rejected.
+Findings also show that information quality is a signiﬁcant and
+strong predictor of website quality (b ¼ 0.454; p < 0.001; t ¼ 5.100);
+of source credibility (b ¼ 0.694; p < 0.001; t ¼ 8.087); and of
+customer satisfaction (b ¼ 0.402; p < 0.001; t ¼ 5.382) together
+with website quality (b ¼ 0.195; p < 0.01; t ¼ 2.337).
+Finally, the inﬂuence of website trust on respectively recommendation adoption (b ¼ 0.630; p < 0.001; t ¼ 9.148) and word of
+mouth (b ¼ 0.812; p < 0.001; t ¼ 10.317) is found to be positive,
+strong and highly signiﬁcant; thus, both H6 and H7 are accepted.
+6. Discussion
+Nowadays, the reliability of recommendations hosted on CGM is
+threatened by the rise of fake and promotional content being
+posted by paid reviewers or by managers and staff of business organizations to boost sales. Trust is a key performance indicator for
+CGM organizations, whose inﬂuence depends on the number of
+users and visitors that rely on the recommendations of CGM to
+make a decision about the products and service they are planning
+on buying.
+Distinct from prior e-WOM researchers who focused on the
+inﬂuence of reviews on travelers' purchase intentions (e.g.
+Vermeulen & Seegers, 2009), and on sales (e.g. Ye et al., 2009), this
+study has investigated the antecedents and consequences of trust
+towards CGM. The tested model was adapted from Beldad et al.
+(2010) and included a number of factors that have not been
+tested before in a single model, which advances e-WOM theory.
+Thus, the theoretical implications of this research are that consumer trust towards CGM relies on three main antecedents:
+1) those related to the quality of the information contained in online reviews; 2) those related to the quality of the website that hosts
+the recommendations; 3) those related to the level of customer
+satisfaction with previous experiences. It appears that the higher
+the quality of the information that consumers retrieve the more
+they will perceive the website to be of high quality, which will both
+lead to customer satisfaction and trust in the CGM website. The
+results have also proved that trust affects two types of consumer
+behavior: recommendation adoption and word of mouth.
+This study's ﬁndings emphasize the centrality of information
+quality in CGM, which was found to be the most important antecedent of trust towards CGM, which accords with ﬁndings from
+
+previous research but in different contexts (Nicolaou & McKnight,
+2006; Zahedi & Song, 2008). This result can be explained by the
+fact that consumers use CGM to obtain a type of information that
+is highly valuable and difﬁcult to ﬁnd in other media, namely reviews from previous customers who, by describing their previous
+experiences, help other consumers to assess the quality of the
+products and services they are planning to buy. If the information
+hosted on CGM ﬁts consumer needs, is credible, current, complete,
+valuable and useful, consumers will rely on the recommendations
+provided on CGM. Therefore, the main reason consumers trust
+CGM is due to the quality of the recommendations that they
+receive, meaning that CGM offering high quality information are
+still perceived as trustworthy information channels. Consumers
+trust CGM as these websites give them the opportunity to read
+reviews from real customers, which is different than reading promotional content on corporate websites.
+Information quality was also found to be a strong predictor of
+source credibility, website quality, and customer satisfaction.
+Interestingly, it is the quality of the information from online reviews that will provide consumers with an indication of the level
+of reliability of a source, which means that in the absence of verbal
+and paraverbal cues users of CGM will adopt information quality
+criteria related to the message of the review as a cue to assess the
+credibility of a source. This ﬁnding may be explained by the fact
+that users rarely check the proﬁle information of reviewers, rather
+they prefer to process the relevant information from reviews
+that are likely to satisfy their need to assess the credibility of
+a source.
+Additionally, users of CGM will use information quality cues to
+infer the quality of CGM websites. This ﬁnding may be due to the
+fact that the primary function of a CGM website is to provide
+customer accounts of their experience with products and services
+in the form of reviews, discussions, comments, ratings, and rankings. Thereby the higher the quality of the content hosted on CGM,
+the better consumer perception will be of the overall quality of
+the website.
+Moreover, the quality of advice received is also the main
+reason why consumers are satisﬁed with their previous experiences with a CGM website. This result can be explained by the
+fact that travelers will feel empowered by using online customer
+reviews to inform their travel decisions, which will result in
+better travel experiences and consequently higher levels of
+satisfaction.
+Our ﬁndings also show that satisfaction with previous experiences strongly predicts website trust, which agrees with previous
+n
+ﬁndings in e-commerce research (e.g. Casalo et al., 2007; Flavia
+et al., 2006; Pavlou, 2003; Yoon, 2002). Satisfaction with previous
+experiences leads to trust towards CGM. The satisfaction of
+
+182
+
+R. Filieri et al. / Tourism Management 51 (2015) 174e185
+
+customers derives from receiving valuable, useful, and complete
+assessments from previous customers about the products and
+services that they are planning to buy. Although the mass media
+have repeatedly put in the pillory the incapability of review
+websites to tackle the phenomenon of fake reviews, customers are
+in general satisﬁed with their experiences with CGM and trust
+them. Thus, if the quality of information is kept high on CGM,
+consumers will be satisﬁed and they will continue trusting CGM
+websites.
+Website quality emerged as a strong predictor of website trust
+and of customer satisfaction. Thus, the higher the perceived quality
+of a CGM website in terms of its capability to enable (also through
+customized search functions) consumers easy and rapid access to
+the information they are looking for from different devices (e.g.
+smartphone), to interact with other consumers, to guarantee their
+privacy, the more consumers will trust and will be satisﬁed with
+CGM. Thus, this study shows that website quality is an important
+predictor of trust and customer satisfaction not only for e-commerce websites (e.g. Bai et al., 2008; McKnight et al., 2002), but also
+for CGM websites.
+Research on source credibility in e-WOM has mostly focused
+on its inﬂuence on consumer decisions (Zhang & Watts, 2008),
+consumer intentions to use user-generated content (Ayeh et al.,
+2013b), and information diagnosticity (Filieri, 2015). This study
+has instead measured the relationship between source credibility
+and trust towards a type of online media, namely CGM. Findings
+show that source credibility does not exercise a strong inﬂuence on
+the reliability of CGM. This result may be due to the fact that consumers may be aware that fake proﬁles can be created easily on
+CGM websites (Dellarocas, 2003) and that not all the sources that
+publish reviews can be considered as credible and trustworthy;
+however, they are conﬁdent that the wisdom of the crowd will
+emerge and that a few fake proﬁles or low quality reviews cannot
+skew the overall positive evaluation that customers have of CGM
+websites.
+It was found that the level of experience of the receiver in terms
+of browsing and using CGM was not a signiﬁcant predictor of trust
+towards CGM. This means that trust evaluations of CGM will be
+almost the same between experienced and inexperienced users.
+However, on average, users with more experience with CGM will
+tend to trust CGM less than novice users.
+Results have proved that trust predicts information adoption in
+CGM websites and word of mouth, which advances e-WOM literature as previous research found that information usefulness and
+credibility both predicted information adoption (Cheung et al.,
+2008; 2009). This result means that the higher the quality of recommendations and the more a CGM is perceived as trustworthy,
+the higher will be its inﬂuence on consumers' purchasing decisions.
+Thus, the element that will distinguish how inﬂuential CGM are
+will be the level of trustworthiness ascribed to them by users.
+Simply put, trust is a critical performance indicator for CGM and
+must be constantly monitored.
+Finally, the more consumers perceive a CGM to be trustworthy
+the more they are willing to talk to their friends about it. Therefore,
+if CGM websites want to increase their popularity among customers, they have to be trusted, as trust will motivate its users to
+talk to their friends about their positive experience with the
+recommendation received from the CGM website. This way, these
+organizations will save a huge amount of money on advertising
+as their consumers will informally publicize the website in their
+social circles, and following a network effect, the name of the
+website will spread quickly among Internet users. Therefore,
+keeping high levels of trust can be critical also to enlarge the
+customer base and increase the popularity and reach of a CGM
+website.
+
+7. Managerial implications
+Trust has become a top concern for CGM as evidenced by a pop-up
+message on Yelp: ‘Your trust is our top concern, so businesses can't
+pay to alter or remove their reviews'. Failure on the part of these
+organizations to maintain high levels of trust among their users could
+signiﬁcantly thwart users from engaging in information search from
+CGM, which can then undermine the inﬂuential power that they have
+in a speciﬁc industry. This study has provided empirical validation of
+a model that can help managers of these organizations to understand
+the drivers and consequences of trust to their CGM website. Information quality emerged as a critical success factor for CGM, thus
+managers of these organizations should put a stronger focus on this
+aspect because by increasing the quality of the information provided
+by their users they can improve customer satisfaction, website
+quality and website trustworthiness perceptions, which could boost
+their popularity and increase their inﬂuence in the industry.
+Keeping the quality of information provided by reviewers high
+is a major challenge for CGM as publishing fake reviews by posing as
+a customer is relatively easy and the tendency to pay for promotional reviews is expected to grow in the future (Gartner, 2012). The
+growth of fake reviews might affect the quality of the information
+hosted by CGM as consumers will have to ﬁgure out how to identify
+credible and discard potentially fake reviews. Considering the
+proven importance of the level of quality of the information hosted
+on CGM, the tendency to bias reviews and ratings may have a
+negative impact on the level of trust towards CGM, and as a
+consequence on their inﬂuence on consumer decisions and on word
+of mouth. Thus, we recommend that CGM should foster the development of sophisticated software or algorithms that can help them
+to promptly detect promotional or fake reviews. Websites like TripAdvisor will need to be signiﬁcantly more vigilant in their quest to
+ensure that all reviews and ratings are genuine and trustworthy.
+Another recommendation for CGM to keep high levels of
+trust would be to ask reviewers to post a picture of their receipt or
+any other evidence of their purchase in order to communicate
+reliability. Additionally, the most active members of a CGM community could be engaged to constantly monitor the quality of the
+entries. In fact, some of these users (e.g. Destination experts in
+TripAdvisor) are so committed to CGM that they may be willing to
+spend even more time to help the website to keep out the shills
+from business owners, their friends, and employees.
+8. Limitations and future research
+The present study has some limitations. First, the sample
+was primarily composed of respondents from the UK and Republic of
+Ireland. Although our ﬁndings may generally apply to similar cultural
+contexts, results may not be generalizable to other geographical
+areas. For instance, differences in cultural background may affect the
+antecedents of trust towards websites (Doney, Cannon, & Mullen,
+1998; Jarvenpaa, Tractinsky, & Saarinen, 1999). Moreover, the size
+of the sample was relatively small. Therefore, future research should
+replicate the study in other contexts and with a larger sample size.
+This study was focused on actual users of CGM; however, scholars
+have investigated the role of trust by identifying different stages: an
+‘exploratory stage’ in which a consumer has no direct experience
+with an electronic vendor, and a ‘commitment stage’ in which the
+consumer has accumulated some experience and decide to carry out
+higher risk operations (McKnight, Choudhury, & Kacmar, 2000). This
+study has focused on the commitment stage; however, future
+research could be undertaken on ﬁrst-time users of CGM and could
+investigate the inﬂuence of factors like the propensity to trust, trust
+marks, and website reputation which are deemed to be important in
+the exploratory stage (Beldad et al., 2010).
+
+R. Filieri et al. / Tourism Management 51 (2015) 174e185
+
+Moreover, the present study suffers the typical limitations of
+cross-sectional studies based on SEM. Cross-sectional data require
+the assumption of equilibrium and provide only a ‘snapshot’ of an
+ongoing dynamic process (Kaplan, Harik, & Hotchkiss, 2001). A
+longitudinal approach in the analysis of trust towards CGM is recommended to verify and extend the ﬁndings of this research. Data
+collected at different points in time would enable a test of the
+predictive validity of the model (between antecedents and trust, or
+between trust and outcome measures). A longitudinal study would
+be useful to measure stability versus change in rank order and to
+understand how trust in CGM evolves over time.
+It is important to note that our research model examined
+perceived website trust and its inﬂuence on intention behavior (e.g.
+recommendation adoption and WOM) rather than actual behavior.
+Therefore future research should measure the behavioral outcomes
+of trust. In order to do so, scholars could carry out experiments
+where respondents are divided into separate groups and are
+instructed to browse different CGM before purchasing tourismrelated products and services. Since trust may develop differently
+in different kinds of CGM such as blogs, microblogging websites,
+and social network websites, experiments could also enable a test
+for consumer perception of trust towards different CGM.
+This study has measured the inﬂuence of information quality
+on trust towards CGM. Information quality was measured as a
+
+composite construct including information value, completeness,
+timeliness, usefulness, relevancy, credibility. However, scholars could
+explore the inﬂuence of the different dimensions of information
+quality on website trust to see which dimension matters the most.
+Contribution
+Dr.Raffaele Filieri was the main contributor to the full production of this article which draws upon research undertaken in a joint
+research project with Salma Alguezaui and Professor Fraser McLeay.
+Kindly note Salma Alguezaui is a PhD student at Universita del
+Salento Departimento di Igegneria dell' Innovazione,Italy,and a
+Research Assistant at Northumbria University.
+Acknowledgments
+I'd like to thank the editor and three reviewers for their
+constructive and helpful comments, prof. Fraser McLeay for his
+comments on the questionnaire, and Nigel Coates for his helpful
+comments on some sections of the paper.
+Appendix 1
+
+Scale
+
+Item
+
+Website Quality (WEBQUAL)
+(7-point, strongly disagreestrongly agree)
+
+This travel review website is
+1. easy to use
+2 … well-organized hyperlinks
+3 … customized search functions
+4 … provided opportunities to interact with other customers
+5 … high speed of page loading
+6 … is easily accessible from different media
+7 … .guarantees users' privacy
+8 … .is secure*
+The information in online reviews was
+1. Timely
+2. Relevant to my needs
+3. Complete for my needs
+4. Valuable
+5. Useful
+6. Credible
+1. The reviewers were credible
+2 … were experienced
+3 … were trustworthy
+4 … were reliable
+1. I am satisﬁed with the information I have received from this travel reviews website
+2. I am satisﬁed with my previous experiences with this website
+
+Information Quality
+(INFOQUAL)
+(7-point, strongly disagreestrongly agree)
+
+Source Credibility (SC)
+(7-point, strongly disagreestrongly agree)
+Customer Satisfaction (SAT)
+(7-point, strongly disagreestrongly agree)
+Receiver Experience
+(EXP)
+(7-point, not experienced at all
+- very experienced)
+
+Website Trust (WEBTRUS)
+(7-point, strongly disagree
+-strongly agree)
+Word of Mouth Behavior
+(WOM)
+(7-point, never-frequently)
+Recommendation Adoption
+(ADO)
+(7-point, strongly disagree
+estrongly agree)
+
+*This item was removed from the analysis.
+
+183
+
+1. Prior to your participation in this study, how would you rate your level of experience in
+terms of using CGM?
+2. Prior to your participation in this study, how would you rate your level of experience in
+terms of browsing CGM
+3. Prior to your participation in this study, how would you rate your level of experience in
+terms of online recommendations?
+1. I think that the information offered by this travel reviews website was sincere and honest
+2. I think that the advice and recommendations given on this travel reviews website are
+made in search of mutual beneﬁt of both the reviewer and customers
+3. This travel reviews website is trustworthy
+1. I mentioned to others that I seek travel information from this travel reviews website
+2. I made sure that others know that I rely on this review website for travel information
+3. I spoke positively about this travel review website to others
+4. I recommended this travel review website to close personal friends
+1. Online reviews made it easier for me to make purchase decision (e.g., purchase or not
+purchase)
+2. Online reviews have enhanced my effectiveness in making purchase decision
+3 … have motivated me to make a purchase decision (purchase or not purchase)
+4. The last time I read online reviews I adopted consumers' recommendations
+5. Information from review contributed to my knowledge of discussed product/service
+
+Mean
+
+SD
+
+5.6
+5.0
+5.6
+4.9
+5.4
+5.9
+5.0
+4.3
+
+1.18
+1.36
+1.34
+1.69
+1.34
+1.17
+1.45
+1.72
+
+5.0
+5.5
+5.0
+5.5
+5.1
+5.2
+5.2
+5.1
+5.0
+5.1
+5.7
+5.6
+
+1.25
+1.13
+1.29
+1.21
+1.37
+1.24
+1.13
+1.21
+1.18
+1.16
+1.25
+1.17
+
+4.7
+
+1.65
+
+4.7
+
+1.70
+
+4.9
+
+1.67
+
+5.5
+5.5
+
+1.16
+1.20
+
+5.4
+5.7
+5.6
+5.5
+5.9
+5.9
+
+1.19
+1.28
+1.25
+1.44
+1.23
+1.28
+
+5.8
+5.7
+5.4
+5.7
+
+1.15
+1.29
+1.29
+1.19
+
+184
+
+R. Filieri et al. / Tourism Management 51 (2015) 174e185
+
+References
+Aiken, K. D., & Boush, D. M. (2006). Trustmarks, objective-source ratings, and
+implied investments in advertising: investigating online trust and the contextspeciﬁc nature of internet signals. Journal of the Academy of Marketing Science,
+34(3), 308e323.
+Arsal, I., Backman, S., & Baldwin, E. (2008). Inﬂuence of an online travel community
+€pken, & U. Gretzel (Eds.), Information
+on travel decisions. In P. O'Connor, W. Ho
+and communication technologies in tourism 2008 (pp. 82e93). Vienna, Austria:
+Springer-Verlag.
+Ayeh, J. K., Au, N., & Law, R. (2013a). Predicting the intention to use consumergenerated media for travel planning. Tourism Management, 35(April), 132e143.
+Ayeh, J. K., Au, N., & Law, R. (2013b). Do we believe in TripAdvisor? Examining
+credibility perceptions and online travelers' attitude toward using usergenerated content. Journal of Travel Research, 52(4), 437e452.
+Bai, B., Law, R., & Wen, I. (2008). The impact of website quality on customer
+satisfaction and purchase intentions: evidence from Chinese online visitors.
+International Journal of Hospitality Management, 27(3), 391e402.
+Bart, Y., Shankar, V., Sultan, F., & Urban, G. L. (2005). Are the drivers and role of
+online trust the same for all web sites and consumers? A large-scale exploratory empirical study. Journal of Marketing, 69(4), 133e152.
+Beldad, A., de Jong, M., & Steehouder, M. (2010). How shall I trust the faceless and
+the intangible? A literature review on the antecedents of online trust. Computers in Human Behavior, 26(5), 857e868.
+Brown, T. J., Barry, T. E., Dacin, P. A., & Gunst, R. F. (2005). Spreading the word:
+investigating antecedents of consumers' positive word of mouth intentions and
+behaviors in a retailing context. Journal of the Academy of Marketing Science,
+33(2), 123e138.
+Brown, J., Broderick, A. J., & Lee, N. (2007). Word of mouth communication within
+online communities: conceptualizing the online social network. Journal of
+Interactive Marketing, 21(3), 2e20.
+Buhalis, D., & Law, R. (2008). Progress in information technology and tourism
+management: 20 years on and 10 years after the internetdThe state of
+eTourism research. Tourism Management, 29(4), 609e623.
+Casalo, L. V., Flavi
+an, C., & Guinaliu, M. (2007). The inﬂuence of satisfaction,
+perceived reputation and trust on a consumer's commitment to a website.
+Journal of Marketing Communications, 13(1), 1e17.
+Chan, Y. Y. Y., & Ngai, E. W. T. (2011). Conceptualising electronic word of mouth
+activity: an input-process-output perspective. Marketing Intelligence & Planning,
+29(5), 488e516.
+Cheung, C. M. K., Lee, M. K. O., & Rabjhon, N. (2008). The impact of electronic wordof-mouth: the adoption of online opinions in online customer communities.
+Internet Research, 18(3), 229e247.
+Cheung, M. Y., Luo, C., Sia, C. L., & Chen, H. (2009). Credibility of electronic word-ofmouth: informational and normative determinants of on-line consumer recommendations. International Journal of Electronic Commerce, 13(4), 9e38.
+Corbitt, B. J., Thanasankit, T., & Yi, H. (2003). Trust and e-commerce: a study of
+consumer perceptions. Electronic Commerce Research and Applications, 2(3),
+203e215.
+Cui, G., Lui, H.-K., & Guo, X. (2012). The effect of online consumer reviews on new
+product sales. International Journal of Electronic Commerce, 17(1), 39e58.
+Dellarocas, C. (2003). The digitization of word of mouth: promise and challenges of
+online feedback mechanisms. Management Science, 49(10), 1407e1424.
+Dellarocas, C., Zhang, X. M., & Awad, N. F. (2007). Exploring the value of online
+product reviews in forecasting sales: the case of motion pictures. Journal of
+Interactive Marketing, 21(4), 23e45.
+DeLone, W. H., & McLean, E. R. (1992). Information systems success: the quest for
+the dependent variable. Information Systems Research, 3(1), 60e95.
+Dickinger, A. (2011). The trustworthiness of online channels for experience- and
+goal-directed search tasks. Journal of Travel Research, 50(4), 378e391.
+Doney, P. M., Cannon, J. P., & Mullen, M. R. (1998). Understanding the inﬂuence of
+national culture on the development of trust. Academy of Management Review,
+23(3), 601e620.
+Filieri, R. (2015). What makes online reviews helpful? A diagnosticity-adoption
+framework to explain informational and normative inﬂuences in e-WOM.
+Journal of Business Research, 68(6), 1261e1270.
+Filieri, R., & McLeay, F. (2014). E-WOM and accommodation: an analysis of the
+factors that inﬂuence travelers' adoption of information from online reviews.
+Journal of Travel Research, 53(1), 44e57.
+n, C., Guinalíu, M., & Gurrea, R. (2006). The role played by perceived usability,
+Flavia
+satisfaction and consumer trust on website loyalty. Information & Management,
+43(1), 1e14.
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobserved variables and measurement error. Journal of Marketing Research, 18(1),
+39e50.
+Fotis, J., Buhalis, D., & Rossides, N. (2012). Social media use and impact during the
+holiday travel planning process. In M. Fuchs, F. Ricci, & L. Cantoni (Eds.), Information and communication technologies in tourism 2012 (pp. 13e24). Vienna,
+Austria: Springer-Verlag.
+Gartner. (2012, September 17). Gartner says by 2014, 10e15 percent of social media
+reviews to be promotional, paid for by companies [Press release]. Retrieved from
+http://www.gartner.com/newsroom/id/2161315.
+Godes, D., & Mayzlin, D. (2004). Using online conversations to study word of mouth
+communication. Marketing Science, 23(4), 545e560.
+
+Gretzel, U., & Yoo, K. H. (2008). Use and impact of online travel reviews. In
+P. O'Connor, W. Hopken, & U. Gretzel (Eds.), Information and communication
+technologies in tourism 2008 (pp. 35e46). Vienna, Austria: Springer-Verlag.
+Gretzel, U., Yoo, K. H., & Purifoy, M. (2007). Online travel review study: Role and
+impact of online travel reviews. Austin, TX: Laboratory for Intelligent Systems in
+Tourism, Texas A&M University.
+Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E. (2010). Multivariate data analysis
+(7th ed.). Upper Saddle River, New Jersey: Prentice Hall.
+Hennig-Thurau, T., Gwinner, K. P., Walsh, G., & Gremler, D. D. (2004). Electronic
+word of mouth via consumer-opinion platforms: what motivates consumers to
+articulate themselves on the internet? Journal of Interactive Marketing, 18(1),
+38e52.
+Hoffman, L. D., Novak, T. P., & Peralta, M. (1999). Building consumer trust online.
+Communications of the ACM, 42(4), 80e85.
+Hovland, C. I., Janis, I. L., & Kelley, H. H. (1953). Communication and persuasion;
+psychological studies of opinion change. New Haven, CT: Yale University Press.
+Hu, L. T., & Bentler, P. M. (1999). Cutoff criteria for ﬁt indexes in covariance structure
+analysis: conventional criteria versus new alternatives. Structural Equation
+Model: A Multidisciplinary Journal, 6(1), 1e55.
+Inversini, A., Cantoni, L., & Buhalis, D. (2009). Destinations' information competition
+and web reputation. Information Technology & Tourism, 11(3), 221e234.
+Jarvenpaa, S. L., Tractinsky, N., & Saarinen, L. (1999). Consumer trust in an internet
+store: a cross-cultural validation. Journal of Computer-Mediated Communication,
+5(2).
+Jarvenpaa, S. L., Tractinsky, N., & Vitale, M. (2000). Consumer trust in an internet
+store. Information Technology and Management, 1(1/2), 45e72.
+Jindal, N., & Liu, B. (2008). Opinion spam and analysis. February 11-12. In Proceedings of the Conference on Web Search and Web Data Mining (WSDM’08) (pp.
+219e230). Palo Alto: California, USA.
+Kaplan, D., Harik, P., & Hotchkiss, L. (2001). Cross-sectional estimation of dynamic
+structural equation models in disequilibrium. In R. Cudeck, S. du Toit, &
+€rbom (Eds.), Structural equation modeling: Present and future (pp. 315e340).
+S. So
+Lincolnwood, IL: Scientiﬁc Software International.
+Kim, D. J., Ferrin, D. L., & Rao, H. R. (2008). A trust-based consumer decision-making
+model in electronic commerce: the role of trust, perceived risk, and their antecedents. Decision Support Systems, 44(2), 544e564.
+Kim, H., Xu, Y., & Koh, J. A. (2004). A comparison of online trust building factors
+between potential customers and repeat customers. Journal of the Association
+for Information Systems, 5(10), 392e420.
+Kline, R. B. (2011). Principles and practice of structural equation modeling. New York,
+NY: Guilford press.
+Lee, M. K., & Turban, E. (2001). A trust model for consumer internet shopping. International Journal of Electronic Commerce, 6(1), 75e91.
+Litvin, S., Goldsmith, R., & Pan, B. (2008). Electronic word of mouth in hospitality
+and tourism management. Tourism Management, 29(3), 458e468.
+McGinnies, E., & Ward, C. D. (1980). Better liked than right: trustworthiness and
+expertise as factors in credibility. Personality and Social Psychology Bulletin, 6(3),
+467e472.
+McKnight, D. H., Choudhury, V., & Kacmar, C. (2000). Trust in e-commerce vendors:
+a two-stage model. In Proceedings of the 21st International Conference on Information Systems (pp. 532e536). Brisbane, Australia: Association for Information
+Systems.
+McKnight, D. H., Choudhury, V., & Kacmar, C. (2002). The impact of initial consumer
+trust on intentions to transact with a web site: a trust building model. Journal of
+Strategic Information Systems, 11(3e4), 297e323.
+Morgan, R. M., & Hunt, S. D. (1994). The commitment-trust theory of relationship
+marketing. Journal of Marketing, 58(3), 20e38.
+Nicolaou, A. I., & McKnight, D. H. (2006). Perceived information quality in data
+exchanges: effects on risk, trust, and intention to use. Information Systems
+Research, 17(4), 332e351.
+Nielsen. (2013, June 27). The reviews are in: yelp users are four-star consumers.
+Retrieved
+from
+http://www.nielsen.com/us/en/insights/news/2013/thereviews-are-ineyelp-users-are-four-star-consumers.html.
+Nunnally, J. C. (1978). Psychometric theory (2nd ed.). New York, NY: McGraw-Hill.
+Ohanian, R. (1990). Construction and validation of a scale to measure celebrity
+endorsers' perceived expertise, trustworthiness, and attractiveness. Journal of
+Advertising, 19(3), 39e52.
+Olsen, L. L., & Johnson, M. D. (2003). Service equity, satisfaction, and loyalty: from
+transaction-speciﬁc to cumulative evaluations. Journal of Service Research, 5(3),
+184e195.
+Park, D.-H., & Lee, J. (2008). E-WOM overload and its effect on consumer behavioural intention depending on consumer involvement. Electronic Commerce
+Research and Applications, 7(4), 386e398.
+Park, D.-H., Lee, J., & Han, I. (2007). The effect of online consumer reviews on
+consumer purchasing intention: the moderating role of involvement. International Journal of Electronic Commerce, 11(4), 125e148.
+Pavlou, P. A. (2003). Consumer acceptance of electronic commerce: integrating trust
+and risk with the technology acceptance model. International Journal of Electronic Commerce, 7(3), 101e134.
+Senecal, S., & Nantel, J. (2004). The inﬂuence of online product recommendations on
+consumers' online choices. Journal of Retailing, 80(2), 159e169.
+Smith, O. (2013, July 25). TripAdvisor fails to spot fake restaurant. The Telegraph.
+Retrieved from http://www.telegraph.co.uk/travel/travelnews/10201754/Trip
+Advisor-fails-to-spot-fake-restaurant.html.
+
+R. Filieri et al. / Tourism Management 51 (2015) 174e185
+Smith, D., Menon, S., & Sivakumar, K. (2005). Online peer and editorial recommendations, trust and choice in virtual markets. Journal of Interactive Marketing,
+19(3), 15e37.
+Sparks, B. A., & Browning, V. (2011). The impact of online reviews on hotel
+booking intentions and perception of trust. Tourism Management, 32(6),
+1310e1323.
+Sparks, B. A., Perkins, H. E., & Buckley, R. (2013). Online travel reviews as persuasive
+communication: the effects of content type, source, and certiﬁcation logos on
+consumer behavior. Tourism Management, 39(December 2013), 1e9.
+Streitﬁeld, D. (2011, August 16). In a race to out-rave, 5-star web reviews go for $5.
+The New York Times. Retrieved from http://www.nytimes.com/2011/08/20/
+technology/ﬁnding-fake-reviews-online.html?_r¼0.
+Sussman, S. W., & Siegal, W. S. (2003). Informational inﬂuence in organizations: an
+integrated approach to knowledge adoption. Information Systems Research,
+14(1), 47e65.
+Tidwell, L. C., & Walther, J. B. (2002). Computer-mediated communication
+effects on disclosure, impressions, and interpersonal evaluations: getting to
+know one another a bit at a time. Human Communication Research, 28(3),
+317e348.
+Trend, N. (2013, October 23). TripAdvisor and the issue of trust. The Telegraph.
+Retrieved from http://www.telegraph.co.uk/travel/travelnews/10399563/Trip
+Advisor-and-the-issue-of-trust.html.
+Tuttle, B. (2012, August 28). Why you shouldn't trust positive online reviewsdor
+negative ones, for that matter. Time. Retrieved from http://business.time.com/
+2012/08/28/why-you-shouldnt-trust-positive-online-reviews-or-negative-onesfor-that-matter/.
+Vermeulen, I. E., & Seegers, D. (2009). Tried and tested: the impact of online hotel
+reviews on consumer consideration. Tourism Management, 30(1), 123e127.
+Willemsen, L. M., Neijens, P. C., Bronner, F., & De Ridder, J. A. (2011). Highly
+recommended! The content characteristics and perceived usefulness of
+online consumer reviews. Journal of Computer-Mediated Communication, 17(1),
+19e38.
+Yang, Z., Cai, S., Zhou, Z., & Zhou, N. (2005). Development and validation of an instrument to measure user perceived service quality of information presenting
+web portals. Information & Management, 42(4), 575e589.
+
+185
+
+Ye, Q., Law, R., & Gu, B. (2009). The impact of online user reviews on hotel room
+sales. International Journal of Hospitality Management, 28(1), 180e182.
+Yoo, K.-H., & Gretzel, U. (2009). Comparison of deceptive and truthful travel re€ pken, U. Gretzel, & R. Law (Eds.), Information and communication
+views. In W. Ho
+technologies in tourism 2009 (pp. 37e48). Vienna, Austria: Springer-Verlag.
+Yoon, S.-J. (2002). The antecedents and consequences of trust in online-purchase
+decisions. Journal of Interactive Marketing, 16(2), 47e63.
+Zahedi, F., & Song, J. (2008). Dynamics of trust revision: using health infomediaries.
+Journal of Management Information Systems, 24(4), 225e248.
+Zhang, W., & Watts, S. A. (2008). Capitalizing on content: information adoption in
+two online communities. Journal of the Association for Information Systems, 9(2),
+73e94.
+Zhu, F., & Zhang, X. (2010). Impact of online consumer reviews on sales: the
+moderating role of product and consumer characteristics. Journal of Marketing,
+74(2), 133e148.
+
+Dr. Raffaele Filieri is a Senior Lecturer in the Marketing,
+Travel and Tourism Subject Group at Newcastle Business
+School, Northumbria University, United Kingdom. He
+received his Ph.D. from Universita' Roma Tre and his postdoc from La Sapienza Universita' di Roma. His main
+research interests revolve around electronic word of
+mouth, online trust, e-tourism, and tourism marketing,
+and online consumer cocreation. His papers have been
+accepted for publication in Journal of Travel Research,
+Journal of Business Research, Industrial Marketing Management, Journal of Knowledge Management, Expert systems, International Journal of Quality & Reliability
+Management, Journal of Business Strategy, Marketing
+Intelligence & Planning, International Journal of Agile
+Systems and Management, Journal of Direct, Data and Digital Marketing Practice.
+
+

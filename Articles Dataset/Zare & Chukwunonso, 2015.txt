@@ -1,0 +1,646 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/296331505
+
+How Travel Agencies Can Differentiate Themselves to Compete With Online
+Travel Agencies in the Malaysian Context
+Article in e-Review of Tourism Research · December 2015
+CITATIONS
+
+READS
+
+3
+
+6,762
+
+2 authors:
+Samira Zare
+
+Franklyn Chukwunonso
+
+The University of Queensland
+
+Universiti Teknologi Malaysia
+
+5 PUBLICATIONS 29 CITATIONS
+
+15 PUBLICATIONS 73 CITATIONS
+
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects:
+
+Memorable Tourism Experiences View project
+
+Novel Knowledge Based Personalised e-Learning for Tertiary Education View project
+
+All content following this page was uploaded by Samira Zare on 29 February 2016.
+
+The user has requested enhancement of the downloaded file.
+
+SEE PROFILE
+
+e-Review of Tourism Research (eRTR), Vol. 12, No. 5/6, 2015
+http://ertr.tamu.edu
+
+Samira Zare
+Graduated Masters Student
+Universiti Teknologi Malaysia, Skudai, Malaysia
+Franklyn Chukwunonso
+PhD Student
+Universiti Teknologi Malaysia, Skudai, Malaysia
+How Travel Agencies Can Differentiate Themselves to Compete With Online Travel
+Agencies in the Malaysian Context
+The profound impact of the Internet and information and communication technologies (ICT)
+has brought about several changes particularly in the area of online sales of travel and
+tourism products/services. This has challenged the traditional role of travel agencies as they
+seek urgent ways to re-invent their roles or face the threat of being disintermediated. This
+study focuses on what traditional travel agencies need to do to succeed in this information
+age by analyzing the functionalities of traditional travel agencies and the adaptive strategies
+they need to adopt to stay competitive in the Malaysian travel and tourism (TT) industry. A
+qualitative approach was employed for this purpose. Semi-structured interviews were
+conducted with 20 participants comprising of top travel managers drawn from different travel
+agencies in Malaysia. The findings identified some distinct changes in the perceptions of
+travel agencies particularly with regards to their adaptive strategies and the business
+environment. The study concludes that traditional travel agencies should focus more on
+market specialization, reputation management, new distribution strategies and online
+marketing.
+Keywords: Online Travel Agency, e-Tourism, Information Communication Technology,
+Malaysia.
+Samira Zare* (Corresponding Author)
+Graduated Masters Student
+Universiti Teknologi Malaysia, Skudai, Malaysia
+Email: Samira.zaree@gmail.com
+Franklyn Chukwunonso
+PhD Student
+Universiti Teknologi Malaysia, Skudai, Malaysia
+Email: fchukwunonso2@live.utm.my
+Samira Zare is a researcher and lecturer who graduated in M.Sc. of Tourism Planning from
+Universiti Teknologi Malaysia (UTM). Some of her current research interests are Information
+Communication Technology application in Tourism, Tourist psychology & Behavior in the
+online context and Tourism planning
+Franklyn Chukwunonso has been a Lecturer with the Federal University of Technology
+Yola (now Modibbo Adama University of Technology Yola), Nigeria since 2006. Before
+then, he had worked in two leading IT private firms in Lagos, Nigeria, as a Systems Analyst.
+He holds a B.Tech and M.Tech degrees in Operations Research and is presently pursuing his
+PhD in Information System at the Faculty of Computing, Universiti Teknologi Malaysia. He
+served as the web master and the Alumni Relations officer between 2006 to 2010 at Modibbo
+Adama University of Technology Yola, Nigeria, where he currently employed as an
+academic staff.
+226
+
+e-Review of Tourism Research (eRTR), Vol. 12, No. 5/6, 2015
+http://ertr.tamu.edu
+
+1.
+
+Introduction
+Recent advances in ICT and the high proliferation of online content has led to
+
+considerable changes being experienced in the TT industry. These changes caused by the
+impact of the information revolution have created opportunities for customers to have direct
+contact with suppliers, thereby breaching traditional distribution channels and generating
+panic among stakeholders of the TT sector who feel threatened and endangered given that a
+major stake of their revenue generation emanates from intermediary activities like hotel and
+airline reservations. This on-going vertical integration has mounted much pressure on
+independent travel agencies while relieving the retailing networks of the big tour operators in
+the sector.
+The impact of these changes is evident from the decline in the number of traditional
+travel agencies according to the Malaysian Association of Tour & Travel Agents (MATTA,
+2012). Although multiple studies on disintermediation and reintermediation have already
+been carried out (Khuja & Bohari, 2012), most of these studies focused on non-Asian markets
+such as Canada, Australia, USA and Europe (Bedard, 2000; Bedard, 2005; Lewis, Semeijn &
+Talalayevsky, 1998; Van der Pijl, 2000). Researchers like Khuja and Bohari (2012) assert
+that the awareness of travel managers and the coping strategies adopted by traditional travel
+agencies are yet to yield fruit, particularly in Malaysia. This becomes more worrisome given
+that besides being one of the top government economic development priorities, the TT
+industry remains one of the major foreign income earners, employment generation and gross
+domestic product (GDP) boosters for Malaysia (Tourism Malaysia, 2012).
+Surprisingly, there is very little academic research regarding impacts associated with
+the use of ICT in the Malaysian TT sector. Although few studies have been carried out, most
+of them were narrowed on the customer’s perspective without taking into consideration the
+perceptions of the suppliers on reintermediation and disintermediation. This study therefore
+investigates the challenges facing traditional travel agencies in the Malaysian TT sector as
+they seek relevance and competitiveness with the online travel agencies (OTAs). Thus, the
+study shall provide purposeful insight into the role of the traditional travel agencies (TTAs)
+as middlemen in a time when the internet has profoundly affected the global tourism
+distribution channels. The central question of this study is: how can TTAs in Malaysia
+differentiate themselves to stay relevant and competitive with the OTAs?
+
+227
+
+e-Review of Tourism Research (eRTR), Vol. 12, No. 5/6, 2015
+http://ertr.tamu.edu
+
+2.
+
+Review of Related Literature
+Traditionally, travel agencies have always been the middlemen between consumers
+
+and suppliers. With the rapid proliferation of the Internet, the once complicated distribution
+and communication channels previously monopolized by TTAs have been simplified and are
+now within reach of prospective tourists (Licata, Buhalis & Richer, 2001; Ioannides &
+Daughtrey, 2006). It is of course beneficial for both suppliers and consumers to bypass
+intermediaries, as they are known to add substantial costs to the value chain (Granados,
+Gupta & Kauffman, 2006). Scholars posit that this electronic brokerage effect, which they
+called the threatened intermediaries or disintermediation hypothesis, will bring to an end the
+era of middlemen (Wigand, 2015; Anckar & Walden, 2000; Anckar, 2003; Sen & King,
+2003; Gharavi & Sor, 2006; Lu, Deng & Wang, 2007). TTAs would most likely be removed
+from the market because the need for cost adding services along the distribution value chain
+has disappeared (Klein & Alt, 2015; Vasudavan & Standing, 1999).
+This disintermediation hypothesis was questioned by several authors (Zhu & Zhao,
+2011; Bakos, 1998; Sarkar, Butler & Steinfield, 1998). They argued that although the market
+would reformulate itself and go through shakeouts, travel agencies will not be pushed away
+but will instead reposition themselves between the consumers and the suppliers. They assert
+that reintermediation can only take place when travel agencies themselves embrace the new
+technology and emerge as a new category of travel intermediaries, called cybermediaries
+(Ramos & Rodrigues, 2013; Sen & King, 2003). These entities would operate completely
+online and act as a broker between the customer and the supplier. Although these
+cybermediaries were seen as a threat, some studies assert that TTAs are also able to
+reintermediate and sustain their position due to their competitive advantages over online
+intermediaries. Some authors propose that travel agencies should specialize in niche markets
+and become experts in specific areas (Zare, 2013; Vasudavan & Standing, 1999). Despite
+these different opinions, there is widespread agreement that players must adapt to the Internet
+and become adept at offering tailor-made packages for various niche markets were they to
+survive the rise of new technologies and the increasing consolidation of the travel industry
+(Ioannides & Daughtrey, 2006).
+Several studies however suggest that the biggest threat to TTAs comes from travel
+cybermediaries or OTAs (Neuhofer, Buhalis & Ladkin, 2014; Tsai, Huang & Lin, 2005;
+Ioannides & Daughtrey, 2006). However, this view is opposed by others, including travel
+trade representatives, who find it highly unlikely that the Internet will wipe out high street
+228
+
+e-Review of Tourism Research (eRTR), Vol. 12, No. 5/6, 2015
+http://ertr.tamu.edu
+
+vendors (Del Chiappa, 2013). As of today, several particularly successful cybermediaries can
+be found on the Internet such as Expedia, Travelocity, Orbitz and Priceline (Yoo & Gretzel,
+2012). Furthermore, value conscious consumers prefer to book directly with low cost carriers
+(LCC) that are a dominant party in many countries including Malaysia. Thus, the impact of
+OTAs was underestimated by traditional “brick and mortar” agencies costing them the loss of
+a large chunk of the market share, especially in the leisure market, as consumer confidence to
+conduct online transactions grew. Consumers expect OTAs to provide most, if not all of the
+value added services originally provided by TTAs (Bizirgianni & Dionysopoulou, 2013;
+Ioannides & Daughtrey, 2006). However, to maintain relevance and competitiveness in
+today’s tourism market, certain critical success factors must be considered by these TTAs.
+Some of these factors include organisation structure (Landry, Mahesh & Hartman, 2005),
+organisation culture (Daniele, Frew & By, 2007), workforce skill (Chukwunonso, 2009),
+technology infrastructure (Bargshady, Alipanah, Abdulrazzaq & Chukwunonso, 2014) and
+travel services (Zare, 2013). A detailed review of each of these identified factors is presented
+in the following subsections.
+2.1
+
+Organizational Structure
+The adoption of new strategies influences organizational structures thereby creating a
+
+cultural change within the organization. These changes become evident in the way and
+manner staff relate with each other, the reporting structures, the chain of authority and
+responsibility, and the communication channel. Landry, et al., (2005) looked at the role of
+informal networks in today’s organizational structures, assigning a more dominant role to
+informal networks over the current departmental structures like sales and marketing
+departments. Meredith (1987) and Rifkin (2001) studied the role of senior managers towards
+the success of organizational change. Serour and Henderson-Sellers (2004) posit that
+technology implementation is fundamental to the success/failure rate of any organization.
+2.2
+
+Organizational Culture
+The influence of the Internet on organizations goes beyond the structure of the
+
+organization to challenging the mindset of the organization, which is founded on the
+organizational culture. Current themes in organizational issues include enhanced consumer
+focus and conflict resolution and management (Daniele, et al., 2007). The potential problem
+lies in the differences in the pace of cultural shift within the organization. This calls for
+organizations to become more customer-focused to enable them to engage customers in
+229
+
+e-Review of Tourism Research (eRTR), Vol. 12, No. 5/6, 2015
+http://ertr.tamu.edu
+
+closer interactions within the e-business environment. Siegel (1999) argues that a genuine ebusiness strategy seeks to strengthen customer interaction with organizations and furthering
+relationships based on feedbacks from customers.
+2.3
+
+Workforce Skill
+Another success factor for an organization is a change in the skill requirements at both
+
+operational and management levels. Landry et al. (2005) suggested the need for
+organizations to consider a gradual shift to knowledge-based staff that can adequately and
+effectively handle the complexities of new information systems thereby translating into new
+roles for managers. Drucker (1999) warned about the extinction of middle-management level
+jobs, stating that only the management level jobs with increased control span will remain. At
+the employee level, Landry et al. (2005) suggested that a different set of skills may be
+necessary to utilize new technologies effectively.
+2.4
+
+Technology Infrastructure
+A major difficulty encountered by many traditional "bricks and mortar" organizations
+
+is the challenge of migrating to an e-business infrastructure from the traditional IT systems,
+such as integrating or migrating into effective e-business applications, information systems,
+front ends (mostly web-based) and backend systems (legacy applications that runs the
+company’s critical operations). This shift should be gradual as it is a very expensive and
+complicated process except for cases where the company already lags far behind
+technologically to its competitors (Chukwunonso & Ribadu, 2013; Jackson & Harris, 2003).
+Chukwunonso, Omoju, Ikani and Ribadu (2011) argued that ICT alone cannot produce
+sustainable competitive advantage but that organizations must learn how to innovatively
+manage and organize their ICT infrastructure in such a way that both their business and
+human resources are effectively leveraged.
+2.5
+
+Travel Services
+TTAs focus on specific types of services that are generally referred to as the “five
+
+R’s”; Recommend Research, Reserve, Report and Relationship. However, OTAs present each
+of these services in a different perspective with the help of the Internet in terms of itinerary
+planning and purchase, customer relations, 24/7 online service, low staffing requirement,
+larger and wider-spread market base that is unrestricted by geography, are some of the
+230
+
+e-Review of Tourism Research (eRTR), Vol. 12, No. 5/6, 2015
+http://ertr.tamu.edu
+
+unimaginable opportunities and advantages OTAs have over traditional storefront agencies.
+Furthermore, the instant delivery of travel documents and itineraries purchased from these
+OTAs, the electronic ticketing, printable email confirmations, and the widespread use of
+confirmation numbers to track travel purchases are some of the many major benefits limited
+to OTAs. This is in agreement with the assertions of Hill and Hill (2001), Zare (2013) and
+Bargshady et al. (2014). Thus, the role of TTAs would consequently only remain secure if
+their advice offering capabilities were strengthened by the presence of the Internet, rather
+than if they functioned according to the more negative image of being simply a booking
+agency (Law, Leung & Wong, 2004; Zare, 2013).
+3.
+
+Methodology
+Primary data was collected using semi-structured interviews with 20 top travel
+
+managers from across different travel agencies in Malaysia. The aim was to gain deeper
+insight into the relationships that exist among the identified factors and how they individually
+and collectively influence the competitiveness and success of travel agencies. Collected data
+was analyzed based on a thematic process. Thematic analysis, according to Walsh and
+Wigens (2003), can be used for the identification of related patterns and themes, the
+relationships that exist among those patterns and themes, and for gaining understanding as to
+why those relationships exist.
+A snowball sampling strategy was used to select the participants for the interview.
+The first three participants were selected based on the suggestion of an academic expert in the
+field of travel and tourism who recommended them based on their level of expertise in the
+industry. Other participants were then selected from the recommendations of those
+interviewed. The participants were drawn from predominantly Johor Bahru and Kuala
+Lumpur in Malaysia.
+The recorded interviews were first transcribed before being analyzed. All the
+interviews were conducted between November 1 to December10, 2012. The average time for
+each interview was 40 minutes. The questions included issues related to the challenges faced
+by small and medium sized TTAs in today’s information age and what these travel agencies
+can do to differentiate themselves with the OTAs. The responses of the participants were
+analyzed using NVIVO 10 software and discussed below.
+
+231
+
+e-Review of Tourism Research (eRTR), Vol. 12, No. 5/6, 2015
+http://ertr.tamu.edu
+
+4.
+
+Findings and Discussion
+
+Seven major themes were derived from the literature review as discussed in the following
+subsections.
+4.1
+
+Travel Agencies and Awareness towards Information Technology
+All the participants agreed that there was a need for TTAs to change their strategies as
+
+they could no longer sustain their commission fee due to the airline commission cuts being
+experienced, thus they need to focus on other means of sustaining revenues. According to one
+of the participants, the speed and amount of change was dependent on the agency’s location
+as those agencies in bigger cities had earlier integrated the technology against those located in
+smaller cities.
+Although there was generally a positive attitude toward ICT use among the travel
+managers interviewed, only some of them considered ICT priority as a core strategy. The
+older managers prioritized the role of people in the tourism industry to that of ICT. Based on
+the interview findings, five major determinants were identified to have negative impacts on
+ICT integration and adoption by the travel agencies: Lack of knowledge about the technology
+or technological capability, Lack of skilled human resources, Lack of innovative ideas, Lack
+of openness to the change, and Government and association slow pace.
+4.2
+
+Internet and Online Travel Agencies
+Although there are no official statistics about the online purchase share of Malaysians
+
+in the travel market, all the participants were unanimous that the percentage of online travel
+users is not a big threat to the existence of the TTAs. The findings are consistent with the
+conclusion of a similar study on the impact of ICT on Malaysian businesses in general (Pulse
+group, 2007). The managers believe in advantages people see in TTAs over OTAs such as
+trust and immediate support when the customer needs help. Quick handling of changes or
+refunds, reaching a company by phone or in person in emergency cases and human touch in
+customer relationship were some of the advantages mentioned in the study. Murray (1991)
+asserts that people prefer TTAs over OTAs because they are more reliable than impersonal
+information sources and people seek friendliness, comfort and safety; benefits that the
+internet cannot offer them. Several literatures also affirm to the observation of the
+232
+
+e-Review of Tourism Research (eRTR), Vol. 12, No. 5/6, 2015
+http://ertr.tamu.edu
+
+participants on the missing relationship/friendship link between OTAs and customers (Lewis
+& Talalayevsky, 1997; Lewis, et al., 1998; Nysveen & Lexhagen, 2001; Granados et al.,
+2006).
+The other ten participants believe that airlines that sell directly to customers will, if
+not already, make the travel agents irrelevant: As one of the managers noted: “Principals are
+against us; they are not only selling directly to the customers through their websites and
+cutting the travel agents off their commissions but some of them have also staff sitting in the
+offices, checking any flight you give them and tell you about the net price, if we check the
+same by our Global Distribution System (GDS) the prices are higher so we come to the
+agreement on commission just by negotiating case by case, we have no other choice.” This
+group of managers believes that it is better to follow the way the airlines are going in the emarketing rather than complaining about the limiting effects of this trend on the travel agents’
+role. However, going by the trend of airlines in e-marketing and their huge capital
+investment, it would be difficult for small travel agencies with narrow profit margins to
+compete.
+4.3
+
+Changes in Strategy and Business Models
+Travel agencies have tried to reposition themselves through horizontal integration.
+
+One way to do this is by establishing branches in different countries. In Malaysia, the
+successful travel agencies have their branches in other countries or at least in Singapore.
+Advantages are achieved through close cooperation with other branches and the use of
+common partners and IT solutions.
+Lack of customer loyalty towards travel agencies due to a generation gap was also
+confirmed in this study: “The younger generations do not believe in the word “loyalty”. They
+just travel with whoever gives them the better value and they don’t stick to one brand or
+company. The generation gap is actually what changes the industry. Every time this gap
+happens, the industry needs to catch up.” One solution at least to the smaller travel agencies
+is to gain a customer’s trust and loyalty through customer relationship.
+4.4
+
+Changes in Organizational Structure and Mindset
+In the case of agencies examined in this study, all the managers claimed that they
+
+understand the necessity of change in the mindset of the travel industry, where people need to
+take a first step to e-business. However, there were conservative statements showing the lack
+233
+
+e-Review of Tourism Research (eRTR), Vol. 12, No. 5/6, 2015
+http://ertr.tamu.edu
+
+of certainty among the older managers about the way this change should happen; “… The
+mindset of people should change but a lot of old ways are still workable. We should mix and
+match, keep the good of the old style management and mix it with technology.”
+The results of Daniele, et al. (2007)’s observation about the change from the
+pyramidal form of organizations to informal networking was confirmed by this study. “The
+typical pyramid structure is changing; there is no number one, or number two employee for a
+company. The staff are multitasking nowadays; they can work in different positions under
+different titles.”
+As Meredith (1987) argues, transformation to e-business is a long-term investment
+issue with slim chance of success unless senior management is committed to the project as a
+critical success factor in any organizational change. They must explicitly demonstrate their
+support; “Those days that the managers are expected to know about everything have passed.
+Now there are people that know technology better than us managers and we should just trust
+them and let them do their jobs.”
+In addition to trust, managers should provide people with adequate education and
+training, providing satisfactory resources including human, and demonstrating a sense of
+strong leadership (Serour & Henderson-Sellers, 2004). MATTA and other travel-related
+associations planned to change the managers’ mindset through regular internal meetings.
+However, the Malaysian managers interviewed believe that educating the people from an
+early age in schools can help them learn more about technology use and adoption. Some
+participants stated that it is a long process to change the industry’s mindset, and that those
+who don’t change with the new trend are doomed for retirement: “Fortunately, majority of
+the employees come from the new generation who know about technology and learn fast.
+Those who don’t want to change are going to be retired.”
+4.5
+
+Changes in Workforce Skill
+The participants in this study were unanimous that hiring skilled workforce is difficult
+
+for small companies as they cannot pay the employee well enough. In spite of this, they
+expect their staff to be equipped with at least basic IT skills. “The small margin and big
+competition among small and medium sized travel agencies make them unable to go for IT
+and its infrastructure. They cannot hire the most skilled staff because they have to cut their
+expenses in different ways just to survive. For example, in Johor Bahru Province that is a
+234
+
+e-Review of Tourism Research (eRTR), Vol. 12, No. 5/6, 2015
+http://ertr.tamu.edu
+
+neighbor to Singapore; skilled staffs migrate to Singapore to earn in dollar when they
+become mature in Malaysia. That’s another problem for us.”
+As finding employees that know both Travel and IT at the same time seems
+challenging for some agencies, they started to re-train their current staff for the new skills
+required. “Many of the Travel ITs are actually designed for the non-computer literate people
+so they are easy to learn for everyone.” Even for bigger companies, as examined in Daniele
+et al. (2007), hiring staff with the right set of skills from within an organization was such a
+difficult task that they recruited all the 80 employees of an e-business division externally.
+Besides technology knowledge, staff should also be knowledgeable in presenting tourism
+products to customers.
+4.6
+
+Changes in Technology Infrastructure
+
+According to the MATTA members that participated in this study, many Malaysian travel
+agencies still either lack a website or are unable to update it themselves. Although website
+ownership may not necessarily be an attribute of being online, it is however an initial step in
+the right direction. In one participant’s view, the dynamicity of the website is even more
+important than having one; “you should design a website just when you are sure that you can
+update it too.”
+All the respondents believe that the cost of IT infrastructure from designing a website
+to hiring an IT manager as a permanent employee in the office and buying engines from IT
+partners to create online booking environments, are beyond the small and medium size travel
+agencies’ budget. “Designing and maintenance costs of a website are challenging for us.”
+Chukwunonso and Ribadu (2013) suggested the outsourcing of key IT infrastructure to
+vendor companies as a solution for such cases. However, both the travel associations and the
+government should take initiatives on training and funding IT technologies required by the
+TT industry.
+
+235
+
+e-Review of Tourism Research (eRTR), Vol. 12, No. 5/6, 2015
+http://ertr.tamu.edu
+
+4.7
+
+Changes in Travel Services
+
+Travel agency services are changing due to the Internet (Hill & Hill, 2001).
+a.
+
+Payment method
+In this study, the participants opine that the method people choose to pay their travel
+
+costs depends on their age and whether they are buying a single service or a tour package:
+“Younger people trust online payment but the older generation still wants to see the person
+they pay to.” Besides that there is still less trend of buying a tour package online rather than a
+single service like a plane ticket. In addition to these determinants, corporate clients, which
+form the majority of the traditional travel agency market (Quinby& Offutt, 2010), prefer to
+buy offline to get the purchases invoice for tax deduction bonus etc.
+b.
+
+Pricing strategies
+Before the rise of the Internet, the airlines set a fixed price on a ticket, which cannot be
+
+changed; now, net prices are released to all parties. In many travel markets, travel agencies
+sell airline tickets by adding a service fee to a net price. Other markets have chosen a more
+opaque tactic by adding a mark-up to the net price as a hidden cost and on top of that also
+charge a service fee to the customers, which is a visibly added cost. Such unclear price
+structures can create several problems. First, customers do not understand why they have to
+pay the service fee. Although some do not mind paying it, others do not like it or do not
+accept it. Secondly, this lack of transparency creates confusion among the customers and this
+in turn has a negative effect on the overall travel market. “There’s always been a price war,
+It`s just tougher now because the Internet has made the business transparent to the customers
+and has given them the opportunity to compare offers.”
+According to the TTAs, value added services are the compensation for the higher
+price the customer pays when buying from them: “…when buying from the Internet you can’t
+easily change what you buy, if so there would be a fee for that. When you buy from a travel
+agent, you pay more, but you get a lot of extra services, you can change or refund much more
+easily.”
+
+236
+
+e-Review of Tourism Research (eRTR), Vol. 12, No. 5/6, 2015
+http://ertr.tamu.edu
+
+The travel associations do not have control over these pricing policies while the travel agents
+expect some controls that can only be enforced by the association or the government.
+“Unfortunately we can suggest but we cannot regulate price policy in MATTA.”
+c.
+
+Travel packages
+Today’s travelers don’t just want various options but also want their specific travel
+
+needs fulfilled. They are smarter and more sophisticated in their plans by the help of the
+Internet. Furthermore, current online or offline shopping trend is greatly influenced by the
+customer’s age. Those who are younger look for cheaper services; they compare prices
+online, have less tendency to buy a full package and they prefer to mix the single services
+themselves. Finally the type of trip also influences the online or offline purchases. “When you
+are traveling as a group of two or three persons you go online to book your services but when
+you have a bigger group it’s easier to ask a travel agent to arrange your tour for you. The
+same is with the honeymooners versus free independent travelers (FITs).”
+d.
+
+Travel agents
+A professional travel agent employs the AAA model in his work: Advice before the
+
+trip, Assistance during the trip and After sale services (Ecorys, 2009). All the participants
+interviewed mentioned that the human factor and face to face relationship are what attracts
+customers to the TTAs: “The human element is still playing an important role especially on
+buying the package tours. When you want to buy a holiday package first you need someone to
+explain it to you; tell you about included and excluded items.”
+In some cases, the customer may sometimes be more knowledgeable than the travel
+agents and may have visited more interesting destinations. FAM trips (familiarization trips)
+were considered as a way to enhance travel agents’ knowledge about the destinations they
+sell. However, the economies of small travel agencies do not allow them to undertake these
+trips. A travel agent should also be more professional than a customer in searching
+information. “Nowadays, people do crowd sourcing, everybody can use the huge information
+that the others provide on the Internet but it is the travel agent who validates this
+information. Our advantage over OTAs and self-booking is that travel agents have more
+knowledge of where and what kind of information to search and what information is
+reliable.”
+
+237
+
+e-Review of Tourism Research (eRTR), Vol. 12, No. 5/6, 2015
+http://ertr.tamu.edu
+
+5.
+
+Conclusion and Recommendations
+
+The need for change has been noted by the travel agencies in Malaysia; many agencies have
+embraced the technological advances. Those in the larger cities have already crossed the halfmark while the smaller ones are still in their early stages as they struggle and fight to survive
+at the same time. Therefore the pace of change is not the same everywhere. The generation
+gap and the change in consumer needs are also comprehended by the travel agencies as they
+try to cater for a new crop of consumers that sees travelling as not just a luxury but a
+necessity.
+5.1
+
+Implications
+
+The implications of this study for travel managers, agents and agencies, particularly from the
+Malaysian perspective, include:
+a. For TTAs to compete favorably with OTAs, they must shift from acting as
+intermediaries and using old business models and focus more on adapting to new
+online strategies by creating an electronic infrastructural edge. This either confirms
+the statement of Vasudavan and Standing (1999) on lack of leadership and innovation,
+or is simply a consequence of having insufficient funds for technological
+advancements.
+b. Besides commission cuts by the airlines, direct sales by OTAs and old business
+models, TTAs must learn to deal with markup and service fees and not to focus on
+price alone if they want to control a market share and remain sustainable.
+c. For TTAs to attract a sizable pool of customers, they must provide value added
+services. The staff should be a highly knowledgeable and competent professional,
+with excellent communication skills, able to provide extensive, in-depth advice that is
+hard to obtain from the Internet, where information is often available in quantity
+rather than in quality.
+d. Validation of information, quick response time and personalized services are
+strategies the cutting edge TTAs must explore if they are to remain competitive and
+sustainable.
+238
+
+e-Review of Tourism Research (eRTR), Vol. 12, No. 5/6, 2015
+http://ertr.tamu.edu
+
+e. TTAs need to focus more on their areas of competitive advantage such as customer
+relations and the human factor, if they are to remain relevant and competitive against
+the OTAs. Human expertise proves to be a very important factor which online
+booking lacks (Bogdanovych, Berger, Simoff & Sierra, 2006).
+f. TTAs should exploit the benefits of customer loyalty created through physical and
+social interaction with customers as they feel more secure and at ease when booking
+through a TTA than OTA.
+5.2
+
+Recommendations
+
+The recommendations of this study include:
+a. TTAs should focus more on niche markets such as Haj and Omrah trips, and market
+specialization by creating high-value services that are hard to duplicate by
+competitors.
+b. TTAs should emphasize more on online marketing; development, implementation and
+marketing of different online strategies should be made a priority, without neglecting
+other sales and service channels.
+c. TTAs should adopt new and fine tune existing distribution strategies that lays
+emphasis on revenue generation and management by making sure that their
+distribution channels align to specific markets in the e-business environment.
+d. TTAs must show serious commitment to their reputation management by ensuring
+that their online travel reviews on sites like TripAdvisor influence travelers’
+positively. Other avenues such as social media should also be used to promote their
+businesses and seek recommendations and traffic to their sites.
+e. The role of a highly skilled and knowledgeable workforce cannot be overemphasized
+if TTAs are to remain competitive as most of their differentiation comes from services
+rendered physically. Therefore, staff training, FAM trips, and customer relations
+between staff and customers should be given utmost priority.
+
+239
+
+e-Review of Tourism Research (eRTR), Vol. 12, No. 5/6, 2015
+http://ertr.tamu.edu
+
+5.3
+
+Limitations and further research
+With respect to the research methodology, one limitation is that of city bias. The
+
+Malaysian travel market is fragmented and what the travel agencies do in different States
+depends on their resources, and how well they perform depends on the developments in each
+States. Agencies in the south of Malaysia are competing with Singaporean agencies while in
+Sabah and Sarawak (the eastern part of Malaysia), nature specialized agencies are the main
+players. So gaining insight from industry experts from different Malaysian States could
+provide more extensive information.
+
+REFERENCES
+Anckar, B., & Walden, P. (2000).Destination Maui An Exploratory Assessment of the
+Efficacy of Self-Booking in Travel. Electronic Markets, 10 (2), 110–119.
+Anckar, B. (2003). Consumer intentions in terms of electronic travel distribution: implications
+for future market structures. E-service Journal, 2(2), 68-86.
+Bakos, J. Y. (1997). Reducing buyer search costs: Implications for electronic
+marketplaces.Management science, 43(12), 1676-1692.
+Bargshady, G., Alipanah, F., Abdulrazzaq, A. W., &Chukwunonso, F. (2014). Business
+Intelligence Technology Implementation Readiness Factors. JurnalTeknologi, 68(3).
+Bédard, F. (2000). Tomorrow’s Travel Agency: A Survey of Adaptation And Positioning
+Strategies to New Technologies in Services (pp. 336-342). Springer Vienna.
+Bédard, F. (2005). Case Study of the Successful Strategic Transformation of a “Bricks-andMortar” Travel Agency into a “Clicks-and-Mortar” Business—Lessons Learned from a
+Small, Independent Travel Agency in Canada. Information and Communication
+Technologies in Tourism 2005, 417-428.
+Bizirgianni, I., &Dionysopoulou, P. (2013). The influence of tourist trends of youth tourism
+through social media (SM) & information and communication technologies
+(ICTs). Procedia-Social and Behavioral Sciences, 73, 652-660.
+
+240
+View publication stats
+
+

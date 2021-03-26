@@ -1,0 +1,3378 @@
+Tourism Management 47 (2015) 286e302
+
+Contents lists available at ScienceDirect
+
+Tourism Management
+journal homepage: www.elsevier.com/locate/tourman
+
+Inﬂuence of trust and perceived value on the intention to purchase
+travel online: Integrating the effects of assurance on trust antecedents
+ n Ponte a, 1, Elena Carvajal-Trujillo b, *, Toma
+s Escobar-Rodríguez a, 2
+Enrique Bonso
+a
+b
+
+Department of Accounting and Information Systems, University of Huelva, Plaza de la Merced, 21002 Huelva, Spain
+Department of Business Administration and Marketing, University of Huelva, Plaza de la Merced, 21002 Huelva, Spain
+
+h i g h l i g h t s
+ We analyze the effects of assurance on trust antecedents in travel website.
+ Trust depends on perceived information quality and perceived security.
+ Security is mainly affected by reputation, investment, third-party assurance seals.
+ Online purchase intention is inﬂuenced by perceived value and trust.
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 2 April 2014
+Accepted 8 October 2014
+Available online 30 October 2014
+
+This paper proposes a model for the formation of online purchase intention based on perceived value,
+trust and the antecedents of perceived security and privacy, using the model proposed by Ray, Ow, and
+Kim (2011) extended to cover third-party assurance seals and related constructs, and examines the inﬂuence on trust of consumers' perceived information quality, privacy, and security. A total of 451 individuals participated in an experiment. The partial least squares technique was applied to data collected
+via a questionnaire to test the proposed model. The results indicate that online purchase intention depends on perceived value and trust. The main predictors of perceived trust are perceived information
+quality and perceived security. Consumers' perceived security depends on vendor reputation, website
+investment, third-party assurance seals, understanding of third-party seals, privacy and security policies,
+familiarity with the website, Internet privacy concerns, and disposition towards third-party certiﬁcation.
+© 2014 Elsevier Ltd. All rights reserved.
+
+Keywords:
+E-commerce
+Trust
+Assurance
+Privacy concerns
+Security
+Online purchase intention
+
+1. Introduction
+The Internet and information communication technology are
+leading to great developments in the tourism industry (Buhalis &
+Law, 2008). The Internet is ideal for the tourism industry because
+of the characteristics of tourism products (McCole, 2002): 1) they
+are intangible, 2) their production and consumption cannot be
+separated, 3) they are perishable, and 4) they are seasonal. Moreover, the Internet is used in the tourism industry when users search
+for information and enter into online transactions (Kim, Chung, &
+Lee, 2011). Internet technology allows suppliers of travel products
+to sell their products anywhere and at any time (Bernstein & Awe,
+
+* Corresponding author.
+n Ponte), carvajal.trujillo@dem.uhu.
+E-mail addresses: bonson@uhu.es (E. Bonso
+es (E. Carvajal-Trujillo), tescobar@uhu.es (T. Escobar-Rodríguez).
+1
+Tel./fax: þ34 959217892x7850.
+2
+Tel./fax: þ34 959217895x7850.
+http://dx.doi.org/10.1016/j.tourman.2014.10.009
+0261-5177/© 2014 Elsevier Ltd. All rights reserved.
+
+1999; Connolly, Olsen, & Moore, 1998; Law & Wong, 2003; Llach,
+Mariomon, Alonso-Almeida, & Bernardo, 2013). Online transactions represent a new stage in the tourism industry, which is
+working to develop better commercial practices (Kim et al., 2011).
+Some of the attributes associated with e-commerce that have
+brought about a modiﬁcation of commercial transactions are convenience, economic cost, and product diversity (Yoon, 2002).
+Although the number of Internet users has substantially
+increased, many users do not make purchases online. They are
+reluctant to provide personal information and/or transactional information for electronic payments online because they do not trust
+e-commerce (Kim et al., 2011; Kim, Ferrin, & Rao, 2008). A study of
+e-commerce showed that more than 87% of users were concerned
+about security and privacy protection in online shopping (Ray, Ow,
+& Kim, 2011). In addition, the lack of perceived privacy and security
+protection is a major reason why many consumers choose not to
+shop online; trust therefore plays a relevant role in online transactions (Kim et al., 2011; Wu & Chang, 2005). In this general
+context, previous studies have analyzed trust in e-commerce
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+
+together with other factors (Cyr, 2008, 2013; Cyr, Kindra, & Dash,
+2008; Harris & Goode, 2004; Jin, Park, & Kim, 2007; Kim et al.,
+2008; Kim, Xu, & Gupta, 2012; McKnight & Chervany, 2001; Wu,
+Hu, & Wu, 2010). Previous research in e-commerce has examined
+the antecedents of perceived privacy and/or perceived security (Li,
+2014; Lowry et al., 2011; Ray et al., 2011). Ray et al. (2011), besides
+studying these antecedents, analyzed the inﬂuence of perceived
+privacy and security on consumers' perceived trust in online
+transactions.
+In the tourism context, trust has also been proved to be one of
+the most relevant variables that makes e-business successful in the
+travel industry (Kim et al., 2011), the accommodation industry
+(speciﬁcally hotels and resorts) (Fam, Foscht, & Collins, 2004), and
+the air travel industry, both in general (Kim, Kim, & Shin, 2009) and
+for low-cost carriers (LCCs) and in particular (Escobar-Rodríguez &
+Carvajal-Trujillo, 2014). Kim et al. (2011) tried to examine the factors inﬂuencing trust (navigation functionality, perceived security,
+and transaction cost) and the effect of trust and satisfaction on
+loyalty in online shopping for travel products in South Korea.
+Escobar-Rodríguez and Carvajal-Trujillo (2014) examined the factors inﬂuencing the intention to use LCC e-commerce websites to
+purchase tickets in Spain, analyzing, among other variables, the
+inﬂuence of perceived privacy, perceived security, and information
+quality on consumer trust in the website. Kim et al. (2009) studied
+the determinants of e-commerce on airline e-commerce websites,
+on the basis of the technology acceptance model (TAM), and trust
+and subjective norms in South Korea.
+Few studies in the ﬁeld of tourism and e-commerce analyze the
+antecedents of perceived privacy and/or perceived security.
+Although studies have examined consumers' perceived value and
+purchase intentions (Llach et al., 2013), and their trust and purchase
+intentions (Kim et al., 2011), none have examined the effect of
+perceived trust on perceived value in the ﬁeld of e-commerce and
+tourism. Furthermore, Kim et al. (2011) noted that there is little
+research regarding online consumers' perceived trust in travel
+products. In this study, we analyze the antecedents of perceived
+security and privacy, extending the model proposed by Ray et al.
+(2011) by adding a new factor, consumers' perception of thirdparty assurance seals, and two constructs related to this, the
+disposition towards third-party certiﬁcation and the understanding
+of third-party seals. In addition, using the model proposed by Kim
+et al. (2012), we examine the inﬂuence of trust on perceived value,
+and the inﬂuence of these two factors on purchase intention.
+We have extended the model to include third-party assurance
+seals and the related constructs following the recommendations of
+€
+Ozpolat,
+Gao, Jank, and Viswanathan (2013); these authors stated
+that there are very few studies examining the role of third-party
+mechanisms in helping to increase trust in e-commerce, unlike
+the position for the third-party certiﬁcation mechanisms that exist
+in ofﬂine settings. Among the few studies that address the issue, Xu,
+Teo, Tan, and Agarwal (2010) in the general context, and Lee and
+Cranage (2011) in the context of tourism and e-commerce,
+concluded that the use of privacy seals, such as TRUSTe, increases
+reliability in relation to privacy protection and information
+disclosure. Lee and Cranage (2011) analyzed how privacy assurance
+and personalization affect both consumers' perceptions of value
+and their privacy concerns, in the context of travel websites. They
+found that privacy assurance statements and the use of security
+symbols increase perceived privacy protection and perceived trust.
+In this study, we used the model proposed by Ray et al. (2011)
+for three reasons. First, it presents a current integrated framework to study the inﬂuence of signals such as third-party assurance
+seals on travel websites and the inﬂuence of different consumer
+predispositions on perceived security and privacy protection in
+online transactions. Second, Ray et al. (2011) suggest further
+
+287
+
+research to determine whether the personal predispositions
+included, but not found to be signiﬁcant, in their model, could inﬂuence perceived security and privacy if they are analyzed together
+with other predispositions. Third, Ray et al. indicate the need to
+research whether signals from websites inﬂuence online services
+other than the general retail websites that they analyze.
+With this in mind, this study aims: 1) to examine the inﬂuence
+of perceived trust and perceived value on the intention to use ecommerce websites when shopping for travel products; 2) to
+analyze the inﬂuence of privacy and security signals and the personal predispositions of consumers on perceived privacy and
+perceived security; and 3) to assess the effect of information
+quality, perceived security, and perceived privacy on consumer
+trust in a website.
+The remainder of the paper is structured as follows. In the next
+section, we provide a literature review and propose our working
+hypotheses. Following that, we describe the research methodology.
+The results are then presented, and ﬁnally we provide our conclusions and the implications for future research.
+
+2. Literature review
+2.1. Perceived trust, perceived privacy, perceived security,
+information quality, and the relationships between them
+Trust in websites plays an important role in e-commerce,
+because consumers are unlikely to shop online if they do not trust
+the seller's website on which they are shopping (Gefen, 2002;
+Jarvenpaa, Tractinsky, Saarinen, & Vitale, 1999; Kim et al., 2008,
+2011). Studies have analyzed the factors that can inﬂuence consumers' perceived trust, and these help tourism product managers
+to design their websites in such a way that consumers perceive the
+transactions to be reliable. In this research, we examine, in relation
+to travel websites, the antecedents of trust that, according to Kim
+et al. (2008), are related to consumers' perceptions, such as security protection, privacy protection, and the quality of the information given on the website. We analyze these factors for travel
+websites because only a few previous studies have examined the
+antecedents of trust (Escobar-Rodríguez & Carvajal-Trujillo, 2014;
+Kim et al., 2008, 2011). Escobar-Rodríguez and Carvajal-Trujillo
+(2014) conﬁrm that previous studies have indicated that these
+antecedents are very relevant for e-commerce (Au Yeung & Law,
+2003; Flavian & Cuinaliu, 2006; Kim et al., 2011; Wong & Law,
+2005). In e-commerce, it is difﬁcult to gauge whether online
+sellers will meet their commitment to protect the privacy of consumers' personal information (McKnight, Choudhury, & Kacmar,
+2002) and/or the security of online transactions (Kim et al.,
+2008). Additionally, the content of sellers' websites can affect
+consumers' perceived trust (Vila & Kuster, 2011). Hence, it is relevant for online sellers to establish trusted transaction processes so
+that consumers place trust in them and consequently form an online purchase intention (Grabosky, 2001).
+The deﬁnition of trust is complicated because it is an abstract
+and complex factor. The literature gives various deﬁnitions of trust
+(Corbitt, Thanasankit, & Yi, 2003; Gefen, Karahanna, & Straub,
+2003). In the ﬁeld of e-commerce, according to Pavlou (2003),
+trust is the belief that renders consumers vulnerable to the good
+faith of online sellers after learning of their characteristics. Gefen
+(2000) conceives of trust in a very similar way, as a general belief
+in an online seller that results in a behavioral intention. Another
+deﬁnition of trust in this context is provided by Kim et al. (2008);
+they deﬁne trust as the subjective belief that the online seller will
+fulﬁll its transactional obligations, as those obligations are understood by the consumer. In this paper, we use this last deﬁnition.
+
+288
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+
+The information quality antecedent can be conceived as the
+consumers' general perception about the completeness and accuracy of the website information concerning both the services offered
+and the procedure for carrying out an online purchase transaction
+(Kim et al., 2008). Then, depending on the quality of information on
+the website, a consumer may perceive that the site is or is not
+suitable for making the required online purchase correctly (Kim
+et al., 2008). In other words, when various websites contain information about similar products, the factor that induces consumers to
+opt for one particular website over the rest to make the required
+purchase is the quality of the information that the site is perceived
+to provide (Raganathan & Ganapathy, 2002). Thus, the greater
+consumers' perception that the website of an online seller contains
+high-quality information, the more likely they are to think that the
+website of the online seller is trustworthy (Kim et al., 2008).
+Regarding the perceived security antecedent, this can be deﬁned
+as the perception of consumers that the online seller has included
+the antecedents of security, such as veriﬁcation, authentication,
+encryption, protection, and non-repudiation (Kim et al., 2008).
+Chellappa and Pavlou (2002) noted that if consumers perceive that
+the website of the online seller offers security factors such as a
+security policy, a safe shopping guarantee, and other protection
+mechanisms, they will deduce that the online seller guarantees the
+security of an online purchase. Thus, the greater consumers'
+perception that the website of an online seller guarantees security
+during online transactions, the more likely they are to perceive that
+the website of the online seller is trustworthy (Kim et al., 2008).
+The perceived privacy protection antecedent can be conceptualized as the probability that the online seller will ensure that the
+conﬁdential information about the consumer acquired during the
+online transaction is protected against unauthorized disclosure or
+use (Kim et al., 2008). During an online transaction, the online
+seller requests and collects a large amount of personal information
+about the consumer, such as his or her name, home address, phone
+number, email address, bank account and credit card details; the
+consumer may suspect that the online seller will give or sell this
+information to other entities, companies and persons (Kim et al.,
+2008). Faced with the possibility of this occurring, the consumer
+may decide against purchasing online e the consumer has lacks
+conﬁdence that the online seller will properly protect his or her
+privacy.
+In the ﬁeld of e-commerce, Kim et al. (2008) conﬁrmed the
+relationship between information quality, perceived security, and
+perceived privacy protection and trust. In the context of tourism and
+e-commerce, Escobar-Rodríguez and Carvajal-Trujillo (2014)
+examined the effect of information quality, perceived security and
+perceived privacy protection on trust. Thus, for travel websites that
+sell travel products, information quality, perceived security, and
+perceived privacy protection will almost certainly affect consumers'
+trust.
+Based on the previous evidence, we formulate the following
+hypotheses for travel websites:
+H01. Consumers' perception of the quality of website information
+has a positive effect on trust.
+H02. Consumers' perception of website security protection has a
+positive effect on trust.
+
+been analyzed in the ﬁeld of tourism. We decided to explore the
+antecedents of perceived privacy and perceived security in the
+ﬁeld of tourism for travel products, because of the great inﬂuence
+of these factors on trust in the sales websites (Kim et al., 2009).
+Accordingly, we extend the model proposed by Ray et al. (2011) by
+incorporating third-party assurance seals and a couple of related
+constructs. Ray et al. (2011), as suggested by Gefen et al. (2003)
+and Kim and Benbasat (2003), differentiated the antecedents of
+privacy and security in response to the ﬁve sources that confer
+trust: 1) a consumer's personality; 2) knowledge based on a consumer's prior experiences; 3) institutional assurances from the
+online seller; 4) calculative assurances from the online seller; and
+5) cognitive assurances from third parties. These ﬁve sources are
+grouped into two broad components: ﬁrst, the consumers' individual predispositions regarding privacy and security signals; and
+second, privacy and security signals according to signaling theory
+(Table 1).
+The ﬁrst component, consumers' personal predispositions, refers to the factors that might predispose users to perceive privacy
+and security measures on the website of the online seller. Those
+factors are relevant because online sellers use a variety of tools to
+adhere to privacy and security standards, some of which are quite
+technical and are not always perceptible to consumers, such as
+encrypted transmissions, ﬁrewalls, and intrusion detection systems
+(Bhimani, 1996; Cavusoglu, Raghunathan, & Cavusoglu, 2009;
+Furnell & Karweni, 1999; Ray et al., 2011). Other tools, for
+example privacy and security policies, third-party certiﬁcates, and
+the emailing of the proof of purchase are implemented during the
+interaction with a user (Ray et al., 2011). Within the ﬁrst component, we added to the two variables considered by Ray et al. (2011)
+(Internet privacy and security concerns and familiarity with the
+travel website), two others (disposition towards third-party certiﬁcation and understanding of third-party assurance seals). The
+Internet privacy concerns and disposition towards third-party
+certiﬁcation factors represent consumers' personality-based trust
+sources, because they refer to a consumer's predisposition to trust
+others and believe in their good intentions (Gefen et al., 2003; Ray
+et al., 2011). On the other hand, familiarity with the website and
+understanding of third-party assurance seals are consumers'
+knowledge-based trust sources (Table 1), the former because a
+consumer's familiarity with a seller's website reduces uncertainty
+(Gefen et al., 2003; Kim et al., 2008), and the latter because a
+consumer's understanding of the seals displayed on a seller's
+website increases his or her trust. Internet privacy concerns refer to
+the propensity to be generally concerned about threats to personal
+information submitted over the Internet and/or the safety of payments in online transactions (Dinev & Hart, 2006; Malhotra, Kim, &
+Agarwal, 2004; Ray et al., 2011; Sheehan & Hoy, 2000; Smith,
+Milberg, & Burke, 1996). According to Ray et al. (2011), familiarity
+
+Table 1
+Antecedents of consumers' perceived privacy and security.
+
+Predispositions
+
+H03. Consumers' perception of website protection of privacy has a
+positive inﬂuence on trust.
+2.2. Antecedents of perceived privacy and perceived security
+Although Ray et al. (2011) examined the factors inﬂuencing
+perceived privacy and perceived security, these factors have not
+
+Security
+signals
+
+Factors
+
+Source of trust
+
+Origin
+
+Internet privacy concern
+Familiarity with the website
+Disposition to third-party
+certiﬁcation
+Understanding of third-party
+assurance seals
+
+Personality
+Knowledge
+Personality
+
+NA
+NA
+NA
+
+Knowledge
+
+NA
+
+Privacy and security policies
+Website investment
+Vendor reputation
+Third-party assurance seals
+
+Institution
+Calculative
+Cognitive
+Institution
+
+First-party
+First-party
+Second-party
+Third-party
+
+NA ¼ not available.
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+
+with the website includes the predisposition of consumers to trust
+online sellers based on their prior knowledge of those sellers.
+The second component proposed by Ray et al. (2011), security/
+privacy signals, is based on signaling theory. This theory states that
+companies can perform actions and provide cues that give information about quality to customers, whether or not these signals are
+credible to and interpretable by the customers (Duncan & Moriarty,
+1998; Rao, Qu, & Ruekert, 1999; Ray et al., 2011). Within this
+component, they include the factors used by online sellers to increase trust by providing institutional, calculative, and cognitive
+assurances (Gefen et al., 2003; Ray et al., 2011) (Table 1). These
+signals cannot directly inﬂuence the perceptions of consumers,
+because the quality of security and privacy is difﬁcult for consumers
+to appreciate (Ray et al., 2011). As noted by Wang, Beatty, and Foxx
+(2004), online sellers utilize different strategies to signal their
+trustworthiness and to ease consumers' concerns over e-commerce
+(Wu et al., 2010). Thus, consumers should rely on indirect cues, or
+signals, to assess the level of quality (Ray et al., 2011; Zeithaml,
+1988). Ray et al. (2011) included three signals from online sellers
+that could affect perceived privacy and security: privacy and security policies, perceived website investment, and the reputation of
+the online seller. In our model, we add a fourth signal, third-party
+assurance seals. Privacy and security policies are statements provided by online sellers that supply information and claim that
+privacy and security are assured (Kim & Benbasat, 2003; Lowry
+et al., 2011; Ray et al., 2011). Schlosser, White, and Lloyd (2006)
+refer to the website investment made by the online seller in
+terms of the effort, time, and money spent on developing it. This
+investment signals the importance of security and privacy protection for the online seller, because the physical appearance of
+products has always been a signal of quality (Dawar & Parker, 1994;
+Ray et al., 2011). Privacy and security policies and website investments are ﬁrst-hand quality information sources about the
+€
+seller's website, provided directly by the online seller (Ozpolat
+et al., 2013). Regarding the reputation of the online seller, Ray
+et al. (2011) considered that second-party information on sellers
+is a signal of quality, indicating privacy and security protection to
+consumers (Duncan & Moriarty, 1998; Gefen et al., 2003). The
+reputation of the online seller provides quality information about
+the seller's website, and is based on the experience of previous
+€
+shoppers, that is, a second-party information source (Ozpolat
+et al.,
+2013).
+In accordance with the constructs and relationships of the
+model proposed by Ray et al. (2011), as well as the previous evidence, we suggest, in the context of tourism and e-commerce for
+travel websites, the following hypotheses regarding consumers'
+perceived privacy and security:
+
+289
+
+H11. Perceived website investment positively inﬂuences consumers' perception of website privacy protection.
+H12. The online seller's reputation positively inﬂuences consumers' perception of website security protection.
+H13. The online seller's reputation positively inﬂuences consumers' perception of website privacy protection.
+
+H06. Familiarity with the seller's website positively inﬂuences
+consumers' perception of website security protection.
+
+2.2.1. Third-party assurance seals
+Third-party assurance seals (e.g., TRUSTe, VeriSign, BBBOnline)
+provide assurance to consumers that a website follows particular
+operating practices, that payments are secure, and/or that the
+privacy policy indicates what the seller can and cannot do with
+personal data collected online (Kim et al., 2008; Kim, Sivasailam, &
+€
+Rao, 2004; Shapiro, 1987). According to Ozpolat
+et al. (2013),
+companies that provide assurance seals examine the website's security, privacy, and service quality and, if these meet a number of
+quality standards, the seller is allowed to display the assurance seal.
+McKnight and Chervany (2001) argue that third-party seals are
+sources of trust based on institutional assurances (Table 1) and, as
+suggested by Jiang, Jones, and Javie (2008) and Kimery and McCord
+(2002a), they might increase consumers' perceived security and
+privacy.
+A number of studies have analyzed the inﬂuence of third-party
+assurance seals on trust, but there is a lack of consensus on this
+€
+(Ozpolat
+et al., 2013). While some studies found a positive inﬂuence
+(Grazioli & Jarvenpaa, 2000; Jiang et al., 2008; Rifon, LaRose, &
+Choi, 2005; Yang, Hung, Sung, & Farn, 2006), others did not (Hui,
+Teo, & Lee, 2007; Kim et al., 2008; Kimery & McCord, 2002a;
+McKnight, Kacmar, & Choudhury, 2004; Metzger, 2006;
+Pennington, Wilcox, & Grover, 2003; Yousafzai, Pallister, & Foxall,
+2005). On the other hand, very little is known about the effect of
+assurance seals on consumers' perceived security and/or privacy,
+except for the results of the studies of Kim and Kim (2011), who
+found a positive inﬂuence, and Lowry et al. (2011), who found that
+seals fail to increase consumers' perceived privacy. Furthermore, in
+the context of tourism and e-commerce, no study has analyzed
+either the impact of seals on trust or their impact on consumers'
+perceived security and privacy, so our study is the ﬁrst to address
+those issues.
+If consumers perceive, by means of signals such as third-party
+assurance seals, that the online seller provides security and privacy protection in online transactions, their perception of uncertainty and online shopping risks should tend to be reduced (Kim &
+Benbasat, 2003; Wu et al., 2010). In fact, seals should contribute to
+increasing consumers' privacy protection (Hoffman, Novak, &
+Peralta, 1999) and/or security protection (Udo, 2001). Thus, for
+online shopping for travel products, if third-party assurance seals
+are cues for security and privacy protection on the travel websites
+of online sellers, it can be hypothesized that displaying these
+assurance seals will positively inﬂuence consumers' perception of
+website privacy and security protection. Thus, this study suggests
+the following research hypotheses in the context of tourism and ecommerce for travel products:
+
+H07. Familiarity with the seller's website positively inﬂuences
+consumers' perception of website privacy protection.
+
+H14. The presence of a third-party assurance seal positively inﬂuences consumers' perception of website privacy protection.
+
+H08. Privacy and security policies positively inﬂuence consumers'
+perception of website security protection.
+
+H15. The presence of a third-party assurance seal positively inﬂuences consumers' perception of website security protection.
+
+H04. Internet privacy concern negatively inﬂuences consumers'
+perception of website security protection.
+H05. Internet privacy concern negatively inﬂuences consumers'
+perception of website privacy protection.
+
+H09. Privacy and security policies positively inﬂuence consumers'
+perception of website privacy protection.
+H10. Perceived website investment positively inﬂuences consumers' perception of website security protection.
+
+2.2.2. Disposition towards third-party certiﬁcates
+With this construct, we refer to the disposition to trust thirdparty certiﬁcation such as seals. The disposition to trust is deﬁned
+as a consumer personality trait that shows the degree to which
+
+290
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+
+consumers are predisposed to perceive others as trustworthy (Jiang
+et al., 2008; Kim et al., 2008). This predisposition of consumers is
+based on the result of ongoing lifelong experiences with and
+knowledge of a certain trusted party (Kim et al., 2008; McKnight,
+Cummings, & Chervany, 1998). Therefore, if a consumer has a
+high inclination to trust others in general, this disposition is likely
+to have a positive inﬂuence on her or his trust in a particular seller,
+and if she or he has a low inclination to trust others in general, she
+or he is likely to develop a lower level of trust in a particular seller
+(Kim et al., 2008; McKnight et al., 1998). The inﬂuence of the
+disposition to trust on trust has been studied in the general literature (Kim et al., 2008; Kimery & McCord, 2002a; Mayer, Davis, &
+Schoorman, 1995; Wu et al., 2010). Jiang et al. (2008) proposed
+that the disposition to trust third-party certiﬁcation has an inﬂuence on the perception of the identifying logos for third-party
+certiﬁcation, and that this factor has an inﬂuence on online
+seller trust. The disposition to trust third-party certiﬁcation is
+deﬁned as the tendency to depend on third parties for trustworthy
+information during online transactions. If consumers have a high
+tendency to trust third-party certiﬁcation, such as security and
+privacy protection assurances, this disposition is likely to have a
+positive effect on her or his perception of the privacy and security of
+the online seller. As noted by Wu et al. (2010), consumers with a
+higher disposition to trust are more credulous (Gefen, 2000), and
+they are more likely to trust online sellers displaying third-party
+assurance seals, increasing their perception of website security
+and privacy protection (Wu et al., 2010). Thus, for travel e-commerce websites for the purchase of travel products, consumers'
+disposition to trust third-party certiﬁcation will almost certainly
+inﬂuence their trust in those websites. In this study, it is hypothesized that security and privacy protection will be related to the
+disposition towards third-party certiﬁcation in tourism e-commerce products, as follows:
+H16. Consumers' disposition towards third-party certiﬁcation
+positively affects their perception of website security protection.
+H17. Consumers' disposition towards third-party certiﬁcation
+positively affects their perception of website privacy protection.
+
+2.2.3. Understanding of third-party assurance seals
+Lowry et al. (2011) suggested that an understanding of thirdparty assurance seals indicates that the consumer knows that his/
+her data are protected. Online sellers display third-party assurance
+seals on their websites to increase consumers' perception of website security and privacy protection; however, if the consumers do
+not understand the seals, it is useless to display them. In fact,
+McKnight et al. (2004) and Moores (2005) highlighted the fact that
+third-party assurance seals fail because consumers do not understand their forms or function; hence, it is necessary to study consumers' understanding of the seals. This factor was analyzed by
+Lowry et al. (2011), who also considered that the use of a thirdparty privacy assurance seal will not be effective if consumers do
+not understand it. In the context of tourism and e-commerce, it is
+also relevant that consumers understand the seals if they are to be
+useful. Given the relevance of the consumers' understanding of the
+seals for shopping for travel products, we propose the following
+research hypotheses:
+H18. Consumers' understanding of third-party assurance seals
+positively inﬂuences their perception of website security
+protection.
+H19. Consumers' understanding of third-party assurance seals
+positively inﬂuences their perception of website privacy protection.
+
+2.3. Perceived value, perceived trust, purchase intention, and the
+relationships between them
+On the basis of prospect theory (Kahneman & Tversky, 1979;
+Wang & Wang, 2010), we assume in this research that an overall
+judgment of value inﬂuences the online purchase intention. In the
+e-commerce context, perceived value can be deﬁned as the consumer's assessment of beneﬁts against costs when shopping with
+an online seller (Zeithaml, 1988). Consequently, the perceived
+value of a transaction with an online seller is the net beneﬁt (Kim
+et al., 2012; Seddon, 1997). Obviously, consumers wish to shop for
+products with those vendors who offer maximum value (Kim et al.,
+2012; Wang & Wang, 2010; Zeithaml, 1988). In fact, the literature
+has shown that the perceived value of a product inﬂuences the
+purchase intention (Chang & Wildt, 1994; Dodds, Monroe, &
+Grewal, 1991). In the e-commerce context, studies have
+conﬁrmed the relationship between perceived value and purchase
+intention (Chang & Wang, 2011; Fuentes-Blasco, Gil-Saura,
+Berenguer-Contrí, & Moliner-Vel
+azquez, 2010; Kim et al., 2012;
+Wu, Chen, Chen, & Cheng, 2014). In the tourism e-commerce ﬁeld,
+Llach et al. (2013) examined the inﬂuence of perceived value on
+intention in the purchasing of airline tickets, concluding that the
+effect is signiﬁcant and positive. Thus, this study proposes
+the following hypothesis regarding online shopping for travel
+products:
+H20. Perceived value on a website positively inﬂuences the online
+purchase intention.
+According to Kim et al. (2012), if consumers have trust in an
+online seller, they expend less effort on searching for information
+about the online seller and on executing the online transaction.
+Perceived trust can decrease the transaction's non-monetary cost;
+this cost incorporates variables such as the time and effort
+required to choose an online seller (Chiles & McMackin, 1996) and
+the perceived risk of online shopping (Jarvenpaa, Tractinsky, &
+Vitale, 2000; Kim et al., 2012). As perceived trust reduces the
+non-monetary cost, it raises the perceived value when shopping
+online on a seller's website (Kim et al., 2012). Only Kim et al.
+(2012), in the e-commerce context, have examined the inﬂuence
+of perceived trust on perceived value, and they conﬁrmed this
+inﬂuence. There is no study examining this relationship in the ﬁeld
+of tourism and e-commerce. For our research, for shopping online
+for travel products, consumers' perceived trust in travel websites
+will reduce the non-monetary cost and this will raise the
+perceived value of the online shopping. In our study, we hypothesize that perceived trust has an inﬂuence on perceived value as
+follows:
+H21. Trust in an online seller positively affects the perceived value
+for customers.
+In the e-commerce ﬁeld, several previous studies have
+conﬁrmed the relationship between trust and the intention to
+purchase online (Chiu, Huang, & Hui, 2010; Gefen et al., 2003;
+Grazioli & Jarvenpaa, 2000; Jarvenpaa et al., 2000; Kim et al.,
+2008, 2012). In the ﬁeld of tourism and e-commerce, this relationship has also been analyzed, and the conclusion has been
+, Sanz,
+reached that the inﬂuence is signiﬁcant and positive (Bigne
+s, 2010; Escobar-Rodríguez & Carvajal-Trujillo, 2014;
+Ruiz, & Alda
+,
+Kamarulzaman, 2007; Kim et al., 2009, 2011; Sanz-Blas, Ruiz-Mafe
+rez Pe
+rez, 2014; Wen, 2009, 2010). Thus, for online shopping
+& Pe
+for travel products, we hypothesize:
+H22. Trust positively affects the online purchase intention.
+Fig. 1 graphically represents the different research hypotheses.
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+
+3. Methodology
+3.1. Measurements
+A set of measurement items was adapted to the speciﬁc context
+of this research, and a total of 55 items was obtained. In Table 2, we
+present the complete list of items, which were measured by means
+of multi-item scales, for the constructs taken into account in this
+research. The responses of the survey participants to each of the
+items were measured on a seven-point Likert scale, ranging from 1
+(¼ “strongly disagree”) to 7 (¼ “strongly agree”). This is the usual
+way of measuring variables that are not directly quantiﬁable or
+observed (Churchill & Iacobucci, 2002).
+The items in the questionnaire were validated on the basis of the
+opinions of a focus group of e-commerce and e-tourism academics
+and professionals, who were asked whether the items were
+appropriate for the purpose of evaluating e-commerce and trust.
+The focus group's opinions led us to modify some items to make the
+meanings clearer. A pre-test was carried out on 40 individuals of
+different ages and genders, selected by quota and convenience
+sampling, who had purchased travel products on a website in the
+past year. This ensured that those individuals who had not purchased travel products in the past year were dropped from the pretest. Using the feedback from this pre-test, modiﬁcations were
+made to the wording of some items to increase the clarity further,
+but these were only minor. A ﬁnal questionnaire was created and
+administered to 30 individuals of different genders and ages,
+selected by quota and convenience sampling, who had purchased
+travel products on a website in the past year. The clarity of the
+questionnaire was thus conﬁrmed, and no more changes were
+made to it.
+The questionnaire was originally drafted in English, but it was
+intended for use in Spanish for consumers from Spain who had
+experience of purchasing tourism products on websites. Therefore,
+the English questionnaire was translated into Spanish by a
+
+291
+
+professional native English translator and by researchers, working
+independently. After a careful analysis of the differences between
+these independently translated questionnaires, a deﬁnitive version
+of the Spanish questionnaire was agreed. This ﬁnal version was
+then translated back into English by another native English professional translator to ensure consistency between the English and
+the Spanish version of the questionnaire (Brislin, 1970). Table 2
+shows the items for this study and the supporting literature for
+each construct.
+3.2. Sample and data collection
+This study used quota and convenience sampling. The convenience sampling method was utilized because the population size
+is unknown for this study (San Martín & Herrero, 2012). The quota
+sampling method was employed to match the target population
+structure in both age and gender (Kim et al., 2009, 2011; San Martín
+& Herrero, 2012). To calculate the number of participants that
+would be sufﬁcient in each age and gender category, population
+data were obtained from the 15th Internet users survey (AIMC,
+n para la Investigacio
+n
+2013), a study carried out by the Asociacio
+n (Table 3). Afterwards, to combine the
+de Medios de Comunicacio
+diverse quotas, convenience sampling was carried out (San Martín
+& Herrero, 2012). Males and females are represented as follows:
+67.8% and 32.2%, respectively. The age groups constitute the
+following: 5.8% aged under 20 years; 13.7% aged 20e24; 31.7% aged
+25e34; 36.4% aged 35e44; 8.9% aged 45e54; 3.1% aged 55e64; and
+0.4% aged 64 and over. Table 4 shows the data on the gender and
+age of the participants. There were more males (67.8%) than females (32.2%). The largest proportion of the respondents (36.4%)
+were aged between 35 and 44, followed by those aged between 25
+and 34 (31.7%).
+The participants were recruited by email among the community
+of our university. We emailed an invitation to participate in our
+research to current students, alumni, faculty members, and staff,
+
+Fig. 1. Proposed model.
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+
+292
+
+Table 2
+Construct measurement.
+Construct
+
+Item
+
+Third-party assurance seal
+
+AS1.
+AS2.
+AS3.
+AS4.
+
+The third-party assurance seals on this website make me feel more comfortable.
+The third-party assurance seals on this website make me feel more secure in terms of privacy.
+Third-party assurance seals on this website make me feel safer in terms of the transaction.
+The third party assurance seals on this website make me feel this website is secure.
+
+Cyr (2013)
+Kim et al. (2008)
+
+Purchase intention
+
+BI1.
+BI2.
+BI3.
+BI4.
+
+The probability that I would consider to purchase a tourism product from this website is high.
+If I were to purchase a tourism product, I would consider purchasing it from this website.
+The likelihood of my purchasing a tourism product from this website is high.
+My willingness to purchase a tourism product from this website is high.
+
+Kim et al. (2012)
+
+Disposition to third-party
+certiﬁcation
+
+DC1. I speciﬁcally look for third-party certiﬁcation symbols.
+DC2. I generally have faith in third-party certiﬁcation.
+DC3. I generally trust third parties.
+
+Jiang et al. (2008)
+
+Familiarity with the
+website
+
+FA1. I am familiar with this tourism product shopping website.
+FA2. I am familiar with the processes of purchasing products from this tourism product shopping website.
+FA3. I am familiar with searching for products at this tourism product shopping website.
+
+Chiu, Hsu, Lai, and
+Chang (2012)
+
+Information quality
+
+IQ1. The tourism product website provides accurate information about the tourism product that
+I want to purchase.
+IQ2. The tourism product website provides sufﬁcient information when I try to make a transaction.
+IQ3. The tourism product website provides enough depth of information about its products.
+IQ4. The information provided by tourism product website is helpful to me in purchasing tourism products.
+IQ5. The information in the tourism product website is clear for me to make a purchase.
+IQ6. The tourism product website provides up-to-date information.
+
+Kuan et al. (2008)
+
+Internet privacy concerns
+
+PC1. Compared with other subjects on my mind, online privacy/security is very important.
+PC2. I am concerned about threats to online privacy/security today.
+PC3. The greater my interest to obtain a certain service or product from the Internet, the more
+I tend to suppress my privacy/security concerns.
+
+Ray et al. (2011)
+
+Perceived value
+
+PV1. Considering the money I pay to purchase tourism products on this website, online shopping
+here is a good deal.
+PV2. Considering the effort I make in shopping on this website, online shopping here is worthwhile.
+PV3. Considering the risk involved in shopping on this website, online shopping here is of value.
+PV4. Overall, online shopping on this website delivers me good value.
+
+Kim et al. (2012)
+
+Vendor reputation
+
+REP1. This company is well known.
+REP2. This company has a good reputation.
+REP3. This company has a good reputation in its market.
+
+Ray et al. (2011)
+
+Trust
+
+PT1. This tourism product website has integrity.
+PT2. This tourism product website is reliable.
+PT3. This tourism product website is trustworthy.
+
+Kim et al. (2011)
+
+Perceived privacya
+
+PP1. I am concerned that tourism product website collects too much personal information from me.
+PP2. I am concerned that the tourism product website will use my personal information for other
+purposes
+without my authorization.
+PP3. I am concerned the tourism product website will share my personal information with other entities
+without my authorization.
+PP4. I am concerned that unauthorized persons (i.e. hackers) have access to my personal information.
+PP5. I am concerned about the privacy of my personal information during a transaction.
+PP6. I am concerned that the tourism product website will sell my personal information to others without
+my permission.
+
+Kim et al. (2008)
+
+Perceived security
+
+PS1. The tourism product website implements security measures to protect users.
+PS2. The tourism product website usually ensures that transactional information is protected from
+accidentally being altered or destroyed during a transmission on the Internet.
+PS3. I feel secure about the electronic payment system of the tourism product website.
+PS4. I am willing to use my credit card on this website to make a purchase.
+PS5. I feel safe in making transactions on this website.
+
+Kim et al. (2008)
+
+Privacy and security policy
+
+SS1. The availability of a privacy or a security statement was easily seen on the tourism product website.
+SS2. This tourism product website has a policy on privacy or security.
+SS3. I am aware of the details of this tourism product website's privacy or security policy.
+
+Ray et al. (2011)
+
+Understanding of seals
+
+US1.
+US2.
+US3.
+US4.
+US5.
+
+Lowry et al. (2011)
+
+Website investment
+
+WI1. A lot of time seems to have been invested in developing this website.
+WI2. A lot of effort seems to have been invested in developing this website.
+WI3. A lot of money seems to have been invested in developing this website.
+
+a
+
+Reverse scaled.
+
+Supporting literature
+
+Website assurance seals are designed to increase the privacy/security a customer has for a website.
+Websites must state how they collect and share data in order to be awarded a website assurance seal.
+Third-party organizations assess the business practices of a website before awarding a seal.
+You can click on the seal to verify that the website is entitled to display the seal.
+A website must display a data privacy and security statement in order to get a seal
+
+Ray et al. (2011)
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+Table 3
+Quota sampling method in terms of gender and age.
+Sampling (n ¼ 451)
+Populationa (%)
+
+Sample (%)
+
+Gender
+
+Male
+Female
+No answer
+Total
+
+74.1
+25.7
+0.2
+100
+
+67.8
+32.2
+0
+100
+
+Age in years
+
+<20
+20e24
+25e34
+35e44
+45e54
+55e64
+65
+No answer
+Total
+
+3.4
+9.2
+28.5
+31.4
+16.6
+6.3
+1.7
+3.0
+100
+
+5.8
+13.7
+31.7
+36.4
+8,9
+3.1
+0.4
+0
+100
+
+a
+
+293
+
+The data was collected from November 2013 to January 2014 in a
+computer room under the supervision of two members of the
+research team and one graduate student. From the 489 participants
+who were recruited, a total of 451 usable questionnaires were obtained. The characteristics of the participants are very similar to
+those of the population (Table 3).
+4. Data analysis and results
+
+AIMC (2013).
+
+and they were also asked to forward the invitation to their friends
+and colleagues. An appointment for the computer lab was given to
+the participants who answered our email. Additionally, we invited
+people randomly selected outside the university to participate.
+Those who agreed to participate were given a pen drive with the
+university seal. Ahuja, Gupta, and Raman (2003) found that prior to
+a purchase individuals tend to visit one to three websites. Consequently, we replicated the work of Kim et al. (2008) by instructing
+respondents to select just two or three travel websites from which
+to make a purchase decision. The travel websites used were websites through which travelers can purchase travel products such as
+hotel bookings, airline tickets, and transportation reservations. As
+in the study conducted by Kim et al. (2011), we excluded cruises.
+Following the method of Kim et al. (2008), the participants were
+instructed, in the computer room, to go through the online purchasing process up to the clicking of the purchase button (this step
+was excluded). After surﬁng the websites, they were randomly
+assigned to one of two questionnaires: one questionnaire asked
+questions about the website from which the participant was less
+inclined to make a purchase; and the other questionnaire asked the
+same questions but about the website from which the user was
+more inclined to make a purchase. Accordingly, we could ensure
+that the purchase intention construct had adequate variance,
+because we had data to predict both purchases and non-purchases.
+Following Hu, Wu, Wu, and Zhang (2010), we checked that all the
+participants followed the instructions given in the computer room
+with respect to viewing the websites and clicking each button up to
+the purchase button. We excluded questionnaires ﬁlled out in less
+than eight minutes because, following Ray et al. (2011), we felt that
+the length of the questionnaire meant that this was not possible.
+
+Table 4
+Gender and age characteristics of the respondents.
+Characteristics
+
+Frequency
+
+Gender
+
+Male
+Female
+Total
+
+306
+145
+451
+
+%
+67.85
+32.15
+
+Age
+
+<20
+20e24
+25e34
+35e44
+45e54
+55e64
+65
+Total
+
+26
+62
+143
+164
+40
+14
+2
+451
+
+5.77
+13.75
+31.71
+36.36
+8.87
+3.10
+0.44
+100
+
+A regression analysis of latent variables is used in this study,
+based on the partial least squares (PLS) optimization technique, to
+build a model that represents the relationships between the fourteen proposed constructs measured by many items. The PLS is a
+multivariate technique to test structural models (Wold, 1985). It
+estimates the model parameters that minimize the residual variance of the dependent variables of the whole model (Hsu, Chen, &
+Hsieh, 2006), it does not require any parametric conditions (Chin,
+1998), it is recommended for small samples (Hulland, 1999), and
+it is particularly used for complex models, exploratory studies and
+prediction (Henseler, Ringle, & Sinkovics, 2009). It is the preferred
+algorithm when the study aim is prediction and theory development (Ayeh, Au, & Law, 2013; Hair, Ringle, & Sarstedt, 2011). This
+paper tries to explore the role of third-party assurance seals and
+their related constructs as antecedents of trust, and the role of trust
+and perceived value in predicting the intention to purchase travel
+online. This is the reason we chose the PLS technique.
+The data analysis took place through a two-stage methodology,
+as suggested by Gerbing and Anderson (1988), in which the ﬁrst
+stage was to develop and evaluate the measurement model and the
+stage second was to develop the full structural equation model.
+4.1. Measurement model evaluation
+The ﬁrst step involved establishing the convergent and
+discriminate validity of the constructs, and the individual reliability
+for each item.
+According to Falk and Miller (1992), the convergent validity of
+each construct is acceptable for a loading higher than 0.505. The
+individual reliability for each item is given by loadings or correlations between the item and the construct. Table 5 indicates the
+loadings for each item and the t-values that are signiﬁcant. They all
+comply with the required conditions.
+To measure the internal coherence of the indicators in relation
+to the constructs, the reliability was calculated, and to verify the
+reliability of the indicators, DilloneGoldstein’s rho, also referred to
+€reskog,
+as the composite reliability coefﬁcient (Werts, Linn, & Jo
+1974), and the Cronbach alpha coefﬁcient (Cronbach, 1970), were
+utilized; these range from 0 (no similarities) to 1 (maximum similarities). Both parameters are taken into account, as the ﬁrst concerns the respective indicators while the second assumes the
+contribution made by each indicator to be similar. Table 6 represents the values of each coefﬁcient. The composite reliabilities are
+above the minimum acceptable limit of 0.70 (Gefen, Straub, &
+Boudreau, 2000; Nunnally, 1978). The Cronbach alpha coefﬁcient
+levels are also shown in Table 6. They are all above 0.70, which is
+recommended for conﬁrmatory research (Churchill, 1979).
+Convergent validity indicates the common variance between
+the indicators and their construct. To evaluate this validity, as
+suggested by Fornell and Larcker's (1981), each construct's average
+variance extracted (AVE) was calculated; the acceptable threshold
+should be higher than 0.50. Table 6 represents the AVE scores
+achieved for each of the fourteen constructs employed, which in all
+cases surpass the minimum desirable value.
+In order to conﬁrm the discriminant validity among the constructs, the square root of the AVE must be superior to the
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+
+294
+Table 5
+Items loading.
+Scale items
+
+Loadings
+
+t-valuesa
+
+AS1.
+AS2.
+AS3.
+AS4.
+
+The third-party assurance seals on this website make me feel more comfortable.
+The third-party assurance seals on this website make me feel more secure in terms of privacy.
+Third-party assurance seals on this website make me feel safer in terms of the transaction.
+The third party assurance seals on this website make me feel this website is secure.
+
+0.892
+0.928
+0.934
+0.931
+
+105.95
+138.43
+162.09
+181.90
+
+BI1.
+BI2.
+BI3.
+BI4.
+
+The probability that I would consider to purchase a tourism product from this website is high.
+If I were to purchase a tourism product, I would consider purchasing it from this website.
+The likelihood of my purchasing a tourism product from this website is high.
+My willingness to purchase a tourism product from this website is high.
+
+0.904
+0.929
+0.944
+0.941
+
+105.76
+189.88
+240.67
+200.51
+
+DC1. I speciﬁcally look for third-party certiﬁcation symbols.
+DC2. I generally have faith in third-party certiﬁcation.
+DC3. I generally trust third parties.
+
+0.627
+0.944
+0.944
+
+9.85
+140.63
+59.89
+
+FA1. I am familiar with this tourism product shopping website.
+FA2. I am familiar with the processes of purchasing products from this tourism product shopping website.
+FA3. I am familiar with searching for products at this tourism product shopping website.
+
+0.953
+0.959
+0.952
+
+230.03
+283.39
+256.10
+
+IQ1.
+IQ2.
+IQ3.
+IQ4.
+IQ5.
+IQ6.
+
+0.848
+0.867
+0.878
+0.868
+0.876
+0.834
+
+73.15
+105.65
+95.53
+101.63
+121.48
+75.71
+
+PC1. Compared with other subjects on my mind, online privacy/security is very important.
+PC2. I am concerned about threats to online privacy/security today.
+PC3. The greater my interest to obtain a certain service or product from the Internet, the more I tend to suppress
+my privacy/security concerns.
+
+0.862
+0.861
+0.575
+
+27.98
+52.01
+9.29
+
+PP1.
+PP2.
+PP3.
+PP4.
+PP5.
+PP6.
+
+0.819
+0.921
+0.912
+0.820
+0.815
+0.848
+
+53.20
+169.60
+178.14
+54.69
+51.52
+67.10
+
+The
+The
+The
+The
+The
+The
+
+I
+I
+I
+I
+I
+I
+
+tourism product website provides accurate information about the tourism product that I want to purchase.
+tourism product website provides sufﬁcient information when I try to make a transaction.
+tourism product website provides enough depth of information about its products.
+information provided by tourism product website is helpful to me in purchasing tourism products.
+information in the tourism product website is clear for me to make a purchase.
+tourism product website provides up-to-date information.
+
+am
+am
+am
+am
+am
+am
+
+concerned
+concerned
+concerned
+concerned
+concerned
+concerned
+
+that tourism product website collects too much personal information from me.
+that the tourism product website will use my personal information for other purposes without my authorization.
+the tourism product website will share my personal information with other entities without my authorization.
+that unauthorized persons (i.e. hackers) have access to my personal information.
+about the privacy of my personal information during a transaction.
+that the tourism product website will sell my personal information to others without my permission.
+
+PS1. The tourism product website implements security measures to protect users.
+PS2. The tourism product website usually ensures that transactional information is protected from accidentally being
+altered or destroyed during a transmission on the Internet.
+PS3. I feel secure about the electronic payment system of the tourism product website.
+PS4. I am willing to use my credit card on this website to make a purchase.
+PS5. I feel safe in making transactions on this website.
+
+0.813
+0.787
+
+75.78
+56.80
+
+0.883
+0.873
+0.880
+
+133.94
+96.22
+101.08
+
+PT1. This tourism product website has integrity.
+PT2. This tourism product website is reliable.
+PT3. This tourism product website is trustworthy.
+
+0.914
+0.958
+0.937
+
+147.62
+352.66
+183.46
+
+PV1.
+PV2.
+PV3.
+PV4.
+
+0.859
+0.925
+0.898
+0.920
+
+97.05
+155.81
+134.29
+188.44
+
+REP1. This company is well known.
+REP2. This company has a good reputation.
+REP3. This company has a good reputation in its market.
+
+0.827
+0.939
+0.921
+
+68.72
+226.38
+151.83
+
+SS1. The availability of a privacy or a security statement was easily seen on the tourism product website.
+SS2. This tourism product website has a policy on privacy or security.
+SS3. I am aware of the details of this tourism product website's privacy or security policy.
+
+0.843
+0.877
+0.781
+
+78.91
+127.97
+47.45
+
+US1.
+US2.
+US3.
+US4.
+US5.
+
+0.717
+0.737
+0.784
+0.740
+0.701
+
+29.83
+30.75
+43.43
+30.92
+26.16
+
+0.907
+0.936
+0.898
+
+125.59
+196.90
+140.04
+
+Considering the money I pay to purchase tourism products on this website, online shopping here is a good deal.
+Considering the effort I make in shopping on this website, online shopping here is worthwhile.
+Considering the risk involved in shopping on this website, online shopping here is of value.
+Overall, online shopping on this website delivers me good value.
+
+Website assurance seals are designed to increase the privacy/security a customer has for a website.
+Websites must state how they collect and share data in order to be awarded a website assurance seal.
+Third-party organizations assess the business practices of a website before awarding a seal.
+You can click on the seal to verify that the website is entitled to display the seal.
+A website must display a data privacy and security statement in order to get a seal
+
+WI1. A lot of time seems to have been invested in developing this website.
+WI2. A lot of effort seems to have been invested in developing this website.
+WI3. A lot of money seems to have been invested in developing this website.
+a
+
+All tests were signiﬁcant at p-value <0.001.
+
+correlation between the constructs, following Fornell and Larcker
+(1981) guidelines. Table 7 presents the square roots of the AVE
+(in the diagonal) and the correlation among the constructs.
+Their values indicate adequate discriminant validity of the
+measurements.
+
+The factor structure matrix of loadings and cross-loadings was
+examined to complete the study of the convergent and discriminant validity of the measurements (Table 8). Items measuring the
+same construct represent prominently and distinctly higher factor
+loadings on a single construct than on other constructs (bold
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+
+in e-commerce is the main reason why many consumers choose not
+to shop online; trust therefore plays a relevant role in online
+transactions (Kim et al., 2011; Wu & Chang, 2005). In fact, trust has
+been proved to be one of the most relevant variables inﬂuencing ecommerce in the ﬁeld of tourism (Escobar-Rodríguez & CarvajalTrujillo, 2014; Fam et al., 2004; Kim et al., 2009).
+Regarding e-commerce in tourism, few studies have analyzed
+trust in online shopping (Kim et al., 2011) and its antecedents, and
+no study has analyzed the antecedents of perceived privacy and/or
+perceived security or the effect of perceived trust on perceived
+value. To ﬁll this gap, we propose a model of the formation of online
+purchase intention based on perceived value and the antecedents
+of perceived privacy and security from Ray et al. (2011) and
+extended to third-party assurance seals and related constructs,
+such as disposition towards third-party certiﬁcation and the understanding of seals. Our model also examines the inﬂuence of
+consumers' perceived information quality, privacy and security on
+trust. In particular, this research includes all the antecedents of
+perceived security and privacy, except technological innovativeness, and security and privacy signals such as privacy/security
+policy, perceived website investment, and vendor reputation, and
+personal predispositions towards them, such as Internet privacy
+concern and familiarity with the website. These antecedents are
+extended by incorporating consumers' perception of third-party
+assurance seals (signal), their disposition towards third-party
+certiﬁcation, their understanding of third-party seals (predispositions), the inﬂuence on perceived trust of perceived privacy,
+perceived security, and information quality, and, ﬁnally, the effect
+of perceived trust and perceived value on the intention to purchase
+travel online.
+
+Table 6
+Composite reliability, AVE and Cronbach alpha coefﬁcient.
+Construct
+
+Composite
+reliability
+
+AVE
+
+Cronbach
+alpha
+
+Assurance seal (AS)
+Purchase intention (BI)
+Disposition to third-party certiﬁcation (DC)
+Familiarity with website (FA)
+Information quality (IQ)
+Internet privacy concerns (PC)
+Perceived privacy (PP)
+Perceived security (PS)
+Trust (PT)
+Perceived value (PV)
+Vendor reputation (REP)
+Privacy/security statement (SS)
+Understanding of privacy seals (US)
+Web site investment (WI)
+
+0.957
+0.9621
+0.885
+0.969
+0.945
+0.834
+0.943
+0.927
+0.955
+0.945
+0.925
+0.873
+0.855
+0.938
+
+0.849
+0.864
+0.726
+0.911
+0.743
+0.605
+0.734
+0.719
+0.877
+0.812
+0.804
+0.697
+0.542
+0.835
+
+0.941
+0.947
+0.824
+0.951
+0.931
+0.729
+0.927
+0.902
+0.930
+0.922
+0.877
+0.784
+0.796
+0.901
+
+295
+
+values). This is also an indication of the convergent and discriminate validity of the measurement.
+Following the establishment of the individual reliability of each
+item and the convergent and discriminant validity of the constructs, the structural model was examined.
+4.2. Structural model
+A PLS analysis was performed to test H1 through H22. The
+regression parameters are based on the bootstrapping of 100
+samples and not on a sample estimator. This facilitates the
+computation of the student t-test for each hypothesis, and the
+vy, Valenciano, & Michal, 2009). The
+generalization of the results (Le
+results represented in Fig. 2 and Table 9 indicate the relationship
+between the different constructs. According to Falk and Miller
+(1992), since all the r-squares are higher than 0.10 the predictive
+capability of the model is satisfactory.
+
+5.1. Academic implications
+The results of this study reveal an advance in research on
+tourism and technology. The main contribution of the study to the
+literature is the evidence it provides on the effect of assurance on
+trust antecedents in consumers' intention to purchase travel online.
+This is a topic that has not been researched by academics in the
+context of tourism and e-commerce in the past. This paper represents a step forward in research on how consumers' personal
+predispositions and security and privacy signals affect their intention to purchase travel online. Additionally, this is one of the ﬁrst
+studies to analyze, in the context of e-commerce and tourism, the
+inﬂuence of third-party assurance seals and two related constructs,
+the disposition towards third-party certiﬁcation and the understanding of privacy seals. Furthermore, this paper analyzes the
+factors that inﬂuence consumers' perceived trust in travel websites
+
+5. Conclusions
+Online transactions represent a new stage for the tourism industry, which is working to develop better commercial practices
+(Kim et al., 2011). Consumers are shopping online (Kim et al., 2011),
+but, although the number of Internet users has increased, many
+users do not buy online: they are reluctant to provide personal
+information and/or transactional information for electronic payments online because they do not trust e-commerce (Kim et al.,
+2008, 2011). The lack of perceived privacy and security protection
+
+Table 7
+Discriminant validity of constructs.
+
+AS
+BI
+DC
+FA
+IQ
+PC
+PP
+PS
+PT
+PV
+REP
+SS
+US
+WI
+
+AS
+
+BI
+
+DC
+
+FA
+
+IQ
+
+PC
+
+PP
+
+PS
+
+PT
+
+PV
+
+REP
+
+SS
+
+US
+
+WI
+
+0.921
+0.421
+0.370
+0.232
+0.458
+0.321
+0.057
+0.518
+0.496
+0.463
+0.366
+0.481
+0.437
+0.411
+
+0.929
+0.079
+0.322
+0.760
+0.184
+0.254
+0.713
+0.754
+0.804
+0.644
+0.545
+0.308
+0.594
+
+0.852
+0.344
+0.085
+0.167
+0.041
+0.160
+0.077
+0.098
+0.048
+0.287
+0.460
+0.108
+
+0.955
+0.264
+0.360
+0.027
+0.317
+0.209
+0.327
+0.241
+0.420
+0.394
+0.233
+
+0.862
+0.235
+0.231
+0.723
+0.826
+0.804
+0.699
+0.528
+0.331
+0.601
+
+0.778
+0.145
+0.218
+0.221
+0.219
+0.231
+0.250
+0.382
+0.220
+
+0.857
+0.322
+0.229
+0.232
+0.265
+0.178
+0.056
+0.257
+
+0.848
+0.747
+0.732
+0.674
+0.571
+0.395
+0.691
+
+0.936
+0.810
+0.716
+0.488
+0.309
+0.661
+
+0.901
+0.685
+0.525
+0.325
+0.621
+
+0.897
+0.499
+0.251
+0.664
+
+0.835
+0.401
+0.579
+
+0.736
+0.354
+
+0.914
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+
+296
+Table 8
+Factor structure matrix of loadings and cross-loadings.
+
+AS1
+AS2
+AS3
+AS4
+BI1
+BI2
+BI3
+BI4
+DC1
+DC2
+DC3
+FA1
+FA2
+FA3
+IQ1
+IQ2
+IQ3
+IQ4
+IQ5
+IQ6
+PC1
+PC2
+PC3
+PP1
+PP2
+PP3
+PP4
+PP5
+PP6
+PS1
+PS2
+PS3
+PS4
+PS5
+PT1
+PT2
+PT3
+PV1
+PV2
+PV3
+PV4
+REP1
+REP2
+REP3
+SS1
+SS2
+SS3
+US1
+US2
+US3
+US4
+US5
+WI1
+WI2
+WI3
+
+AS
+
+BI
+
+DC
+
+FA
+
+IQ
+
+PC
+
+PP
+
+PS
+
+PT
+
+PV
+
+REP
+
+SS
+
+US
+
+WI
+
+0.892
+0.928
+0.934
+0.931
+0.363
+0.411
+0.393
+0.399
+0.257
+0.369
+0.326
+0.221
+0.216
+0.226
+0.385
+0.404
+0.362
+0.427
+0.402
+0.389
+0.287
+0.240
+0.222
+0.056
+0.105
+0.081
+0.024
+0.005
+0.012
+0.579
+0.437
+0.443
+0.338
+0.392
+0.475
+0.482
+0.438
+0.380
+0.412
+0.427
+0.446
+0.258
+0.346
+0.375
+0.366
+0.456
+0.376
+0.309
+0.280
+0.348
+0.385
+0.243
+0.400
+0.380
+0.346
+
+0.389
+0.404
+0.383
+0.378
+0.904
+0.929
+0.944
+0.941
+0.029
+0.075
+0.096
+0.313
+0.280
+0.327
+0.619
+0.638
+0.634
+0.638
+0.701
+0.687
+0.172
+0.135
+0.119
+0.232
+0.283
+0.236
+0.179
+0.139
+0.224
+0.561
+0.518
+0.640
+0.643
+0.653
+0.671
+0.730
+0.715
+0.632
+0.749
+0.730
+0.774
+0.560
+0.591
+0.581
+0.446
+0.531
+0.371
+0.181
+0.136
+0.188
+0.352
+0.189
+0.552
+0.545
+0.530
+
+0.370
+0.334
+0.335
+0.327
+0.083
+0.083
+0.059
+0.070
+0.627
+0.944
+0.944
+0.337
+0.347
+0.303
+0.107
+0.117
+0.045
+0.040
+0.104
+0.036
+0.156
+0.121
+0.110
+0.000
+0.006
+0.052
+0.079
+0.049
+0.031
+0.229
+0.177
+0.066
+0.110
+0.100
+0.100
+0.058
+0.061
+0.086
+0.044
+0.097
+0.124
+0.042
+0.061
+0.024
+0.234
+0.219
+0.280
+0.421
+0.277
+0.404
+0.354
+0.206
+0.119
+0.075
+0.104
+
+0.268
+0.205
+0.200
+0.184
+0.305
+0.291
+0.294
+0.309
+0.223
+0.328
+0.321
+0.953
+0.959
+0.952
+0.266
+0.199
+0.195
+0.171
+0.283
+0.247
+0.311
+0.280
+0.249
+0.087
+0.029
+0.008
+0.022
+0.001
+0.004
+0.287
+0.230
+0.253
+0.298
+0.276
+0.185
+0.173
+0.228
+0.310
+0.307
+0.249
+0.314
+0.262
+0.210
+0.182
+0.280
+0.400
+0.377
+0.301
+0.281
+0.326
+0.280
+0.265
+0.233
+0.178
+0.229
+
+0.441
+0.402
+0.425
+0.421
+0.679
+0.714
+0.706
+0.725
+0.002
+0.085
+0.091
+0.259
+0.222
+0.273
+0.848
+0.867
+0.878
+0.868
+0.876
+0.834
+0.244
+0.184
+0.098
+0.179
+0.278
+0.236
+0.164
+0.106
+0.202
+0.636
+0.540
+0.616
+0.601
+0.665
+0.738
+0.791
+0.790
+0.655
+0.736
+0.713
+0.785
+0.591
+0.655
+0.634
+0.422
+0.549
+0.320
+0.216
+0.146
+0.223
+0.351
+0.199
+0.567
+0.569
+0.513
+
+0.295
+0.298
+0.301
+0.292
+0.138
+0.191
+0.167
+0.187
+0.203
+0.163
+0.127
+0.345
+0.318
+0.365
+0.259
+0.218
+0.140
+0.145
+0.211
+0.238
+0.862
+0.861
+0.575
+0.126
+0.106
+0.119
+0.164
+0.189
+0.047
+0.283
+0.215
+0.144
+0.115
+0.164
+0.261
+0.173
+0.192
+0.210
+0.184
+0.186
+0.212
+0.216
+0.193
+0.213
+0.148
+0.259
+0.219
+0.333
+0.375
+0.313
+0.197
+0.252
+0.236
+0.191
+0.179
+
+0.033
+0.044
+0.054
+0.078
+0.216
+0.245
+0.233
+0.251
+0.078
+0.047
+0.018
+0.029
+0.012
+0.035
+0.108
+0.176
+0.216
+0.211
+0.272
+0.200
+0.025
+0.173
+0.167
+0.819
+0.921
+0.912
+0.820
+0.815
+0.848
+0.162
+0.161
+0.330
+0.351
+0.355
+0.156
+0.234
+0.248
+0.138
+0.237
+0.250
+0.201
+0.203
+0.272
+0.236
+0.215
+0.114
+0.116
+0.045
+0.035
+0.014
+0.113
+0.011
+0.204
+0.250
+0.249
+
+0.471
+0.443
+0.465
+0.522
+0.635
+0.640
+0.662
+0.710
+0.028
+0.144
+0.177
+0.298
+0.282
+0.324
+0.551
+0.600
+0.596
+0.630
+0.673
+0.670
+0.261
+0.146
+0.072
+0.243
+0.341
+0.322
+0.238
+0.240
+0.251
+0.813
+0.787
+0.883
+0.873
+0.880
+0.650
+0.722
+0.725
+0.571
+0.660
+0.694
+0.701
+0.569
+0.627
+0.616
+0.466
+0.557
+0.386
+0.274
+0.199
+0.257
+0.388
+0.261
+0.618
+0.637
+0.637
+
+0.492
+0.436
+0.449
+0.452
+0.664
+0.706
+0.711
+0.720
+0.010
+0.076
+0.085
+0.199
+0.171
+0.223
+0.641
+0.684
+0.684
+0.695
+0.748
+0.796
+0.257
+0.157
+0.074
+0.186
+0.249
+0.240
+0.158
+0.140
+0.184
+0.633
+0.573
+0.664
+0.598
+0.690
+0.914
+0.958
+0.937
+0.636
+0.736
+0.753
+0.782
+0.565
+0.674
+0.682
+0.392
+0.502
+0.302
+0.174
+0.145
+0.186
+0.336
+0.217
+0.625
+0.621
+0.567
+
+0.467
+0.403
+0.407
+0.429
+0.706
+0.747
+0.755
+0.778
+0.000
+0.092
+0.108
+0.302
+0.285
+0.344
+0.641
+0.667
+0.670
+0.708
+0.730
+0.729
+0.226
+0.160
+0.110
+0.195
+0.249
+0.238
+0.161
+0.160
+0.170
+0.600
+0.521
+0.654
+0.627
+0.689
+0.723
+0.770
+0.782
+0.859
+0.925
+0.898
+0.920
+0.583
+0.639
+0.619
+0.427
+0.543
+0.314
+0.159
+0.148
+0.200
+0.358
+0.247
+0.591
+0.570
+0.541
+
+0.406
+0.296
+0.312
+0.333
+0.537
+0.616
+0.597
+0.638
+0.011
+0.048
+0.047
+0.248
+0.196
+0.243
+0.525
+0.604
+0.604
+0.596
+0.611
+0.660
+0.233
+0.157
+0.139
+0.209
+0.280
+0.251
+0.203
+0.171
+0.237
+0.557
+0.528
+0.585
+0.578
+0.607
+0.647
+0.677
+0.687
+0.569
+0.635
+0.617
+0.642
+0.827
+0.939
+0.921
+0.394
+0.474
+0.373
+0.148
+0.056
+0.141
+0.324
+0.147
+0.597
+0.604
+0.618
+
+0.487
+0.454
+0.407
+0.427
+0.523
+0.508
+0.486
+0.511
+0.269
+0.273
+0.246
+0.403
+0.389
+0.409
+0.436
+0.491
+0.450
+0.403
+0.492
+0.452
+0.296
+0.157
+0.105
+0.114
+0.189
+0.148
+0.136
+0.151
+0.171
+0.543
+0.519
+0.436
+0.422
+0.498
+0.413
+0.463
+0.492
+0.402
+0.458
+0.515
+0.508
+0.446
+0.448
+0.450
+0.843
+0.877
+0.781
+0.186
+0.121
+0.289
+0.465
+0.284
+0.550
+0.511
+0.527
+
+0.423
+0.426
+0.395
+0.373
+0.288
+0.310
+0.276
+0.273
+0.251
+0.429
+0.448
+0.376
+0.373
+0.379
+0.277
+0.287
+0.235
+0.241
+0.320
+0.339
+0.383
+0.305
+0.171
+0.064
+0.102
+0.047
+0.017
+0.004
+0.041
+0.447
+0.335
+0.266
+0.284
+0.339
+0.306
+0.286
+0.277
+0.282
+0.275
+0.288
+0.325
+0.271
+0.235
+0.173
+0.328
+0.410
+0.244
+0.717
+0.737
+0.784
+0.740
+0.701
+0.312
+0.337
+0.320
+
+0.403
+0.382
+0.356
+0.373
+0.539
+0.559
+0.537
+0.571
+0.042
+0.087
+0.122
+0.214
+0.207
+0.244
+0.437
+0.528
+0.506
+0.508
+0.530
+0.582
+0.268
+0.133
+0.089
+0.169
+0.288
+0.264
+0.163
+0.201
+0.213
+0.561
+0.572
+0.601
+0.557
+0.631
+0.605
+0.642
+0.610
+0.460
+0.556
+0.634
+0.575
+0.616
+0.598
+0.576
+0.470
+0.535
+0.436
+0.228
+0.165
+0.215
+0.363
+0.253
+0.907
+0.936
+0.898
+
+once the perceived security and privacy of the website are known.
+Finally, this is one of the ﬁrst studies to analyze the effect of consumers' perceived trust on the perceived value of online travel
+purchases.
+Our ﬁndings indicate that the main predictors for consumers'
+perceived privacy, in order of relevance, are: Internet privacy concerns; vendor reputation; and website investment. Consumers'
+perceived privacy depends on the levels of their general concerns
+about Internet privacy, the provider's reputation, and the consumers' perception of the investment made in the travel website.
+On the other hand, there is no signiﬁcant inﬂuence of third-party
+assurance seals, familiarity with the website, understanding of
+third-party seals, disposition towards third-party certiﬁcation, or
+privacy and security policies on consumers' perceived privacy.
+
+Secondly, the empirical evidence of this study suggests that the
+main predictors of consumers' perceived security, in order of
+impact, are: vendor reputation; website investment; third-party
+assurance seals; understanding of third-party seals; privacy and
+security policy; familiarity with the website; Internet privacy
+concerns; and disposition to third-party certiﬁcation. Thus, based
+on these ﬁndings, consumers' perceived security of websites for
+shopping for travel depends on eight variables: the provider's
+reputation, the consumers' perceived investment in the website,
+the display of third-party assurance seals on the website, the understanding of the seals, the privacy and security policies available,
+consumers' familiarity with the provider or prior knowledge of the
+provider, the levels of general concerns about Internet privacy, and
+the general disposition to trust the perception of third-party
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+
+297
+
+Fig. 2. Results of testing the model.
+
+certiﬁcation. Thirdly, the ﬁndings indicate that the antecedents of
+consumers' perceived trust, in order of impact, are information
+quality and perceived security. Thus, consumers' perceived trust
+depends on the perception of the quality of the information on the
+website and the security measures that they perceive on the travel
+website. By contrast, the hypothesis of the inﬂuence of consumers'
+perceived privacy on consumers' perceived trust was not proved.
+Fourth, the empirical evidence of this research suggests that the
+
+main drivers of the intention to purchase travel online are, in order
+of relevance, perceived value and trust. Lastly, consumers'
+perceived trust inﬂuences the perceived value of their online
+shopping.
+Vendor reputation is the strongest predictor of consumers'
+perceived security in travel purchase websites. On the basis of this
+ﬁnding, the higher the vendor's reputation, the more likely consumers are to perceive the travel website to be secure. This ﬁnding is
+
+Table 9
+Summary of test results for the structural model.
+Hypothesis
+
+Path
+
+Standardized path coefﬁcient
+
+t-values
+
+Supported?
+
+Construct
+
+R-squared
+
+H14
+H17
+H07
+H05
+H13
+H19
+H11
+H09
+
+AS/PP
+DC/PP
+FA/PP
+PC/PP
+REP/PP
+US/PP
+WI/PP
+SS/PP
+
+0.028
+0.067
+0.014
+0.245
+0.191
+0.064
+0.140
+0.064
+
+0.783
+1.796
+0.329
+5.549
+4.535
+1.828
+3.243
+1.401
+
+No
+No
+No
+Yes (p < 0.001)
+Yes (p < 0.001)
+No
+Yes (p < 0.01)
+No
+
+Perceived privacy
+
+0.139
+
+H15
+H16
+H06
+H04
+H12
+H08
+H18
+H10
+
+AS/PS
+DC/PS
+FA/PS
+PC/PS
+REP/PS
+SS/PS
+US/PS
+WI/PS
+
+0.213
+0.055
+0.089
+0.075
+0.325
+0.089
+0.096
+0.303
+
+7.857
+2.219
+3.498
+2.965
+10.735
+3.080
+3.380
+8.543
+
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+
+<
+<
+<
+<
+<
+<
+<
+<
+
+Perceived security
+
+0.631
+
+H01
+H03
+H02
+
+IQ/PT
+PP/PT
+PS/PT
+
+0.598
+0.012
+0.319
+
+25.970
+0.743
+13.083
+
+Yes (p < 0.001)
+No
+Yes (p < 0.001)
+
+Trust
+
+0.729
+
+H21
+
+PT/PV
+
+0.810
+
+66.454
+
+Yes (p < 0.001)
+
+Perceived value
+
+0.656
+
+H22
+H20
+
+PT/BI
+PV/BI
+
+0.299
+0.561
+
+9.291
+18.571
+
+Yes (p < 0.001)
+Yes (p < 0.001)
+
+Purchase intention
+
+0.677
+
+(p
+(p
+(p
+(p
+(p
+(p
+(p
+(p
+
+0.001)
+0.05)
+0.001)
+0.01)
+0.001)
+0.01)
+0.001)
+0.001)
+
+298
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+
+consistent with previous studies (Ray et al., 2011). In our study,
+vendor reputation is also a relevant predictor of consumers' perceived
+privacy. This means that the higher the vendor's reputation, the more
+likely consumers are to perceive that the website protects their privacy; hence, this also leads to the suggestion that website managers
+should manage their online vendor reputation carefully. This result is
+consistent with previous studies (Ray et al., 2011).
+Website investment is a factor that plays a relevant role as a
+driver of perceived security and privacy protection. This is consistent with the results of Ray et al. (2011), which suggested that
+website investment was the strongest predictor. This means that the
+technical standard of a travel website, and consumers' perception
+that the online seller has invested effort, time, and money in it
+(Schlosser et al., 2006), inﬂuence both perceived security and
+perceived privacy. Consequently, it is recommended that online
+sellers invest time, effort, and money in the design of their shopping
+websites, so that consumers perceive that security and privacy are
+protected. However, in this study, website investment had a much
+higher effect on perceived security than it had on perceived privacy.
+The results indicate that third-party assurance seals on the
+travel shopping websites inﬂuence consumers' perceived security.
+However, contrary to the relationship that we hypothesized, they
+do not inﬂuence consumers' perceptions of privacy protection.
+Thus, consumers perceive that third-party assurance seals protect
+their security but not their privacy. This may be because consumers
+do not understand what these seals mean, and believe that the
+seals only protect their online security. Regarding the lack of inﬂuence of assurance seals on consumers' perceptions of privacy
+protection, no consensus has been reached, and our results are
+consistent with Lowry et al. (2011), although Kim and Kim (2011)
+found them to have an inﬂuence. As this is the ﬁrst study to
+analyze the effect of assurance seals on consumers' perception of
+security, we cannot compare our results with the previous literature. The closest research, referring to contexts other than tourism,
+concerned the inﬂuence of assurance seals on consumers'
+perceived trust, and while some studies reported a positive inﬂuence (Jiang et al., 2008; Rifon et al., 2005; Yang et al., 2006), others
+did not (Kim et al., 2008; McKnight et al., 2004).
+Consumers' understanding of third-party assurance seals is a
+variable that plays a relevant role as a direct driver of their
+perceived security on online shopping websites. This means that
+the greater the understanding of assurance seals, the greater consumers' perceived security protection when shopping on those
+websites. As this is the ﬁrst piece of research to study the inﬂuence
+of an understanding of assurance seals on consumers' perceived
+security, we cannot compare our results with the previous literature. We suggest that web managers should ensure consumers'
+understanding of seals, because that implies a broader perception
+of security protection in the online shopping processes. On the
+other hand, the understanding of seals is found not to inﬂuence
+consumers' perceived privacy protection. This result coincides with
+those of Lowry et al. (2011).
+Regarding the inﬂuence of privacy and security policies displayed on travel websites, this factor is a predictor of consumers'
+perceived security on those websites. This means that when this
+signal, a privacy and security policy, is displayed, consumers
+perceive that the travel website protects their security. However,
+privacy and security policies displayed on websites for travel
+shopping are not a predictor of consumers' perceived privacy. Thus,
+that signal does not affect consumers' perceived privacy protection.
+This result partially coincides with that of Ray et al. (2011), who
+conﬁrmed the effect of a privacy and security policy on both consumers' perceived privacy and consumers' perceived security.
+The website familiarity factor affects consumers' perceived security in online shopping for travel. However, it does not inﬂuence
+
+consumers' perceived privacy. This means that consumers' prior
+knowledge of the online seller of travel increases their perceived
+security protection but does not inﬂuence their perceived privacy
+protection. These ﬁndings partially coincide with those of Ray et al.
+(2011), who could not conﬁrm the direct inﬂuence of website familiarity on consumers' perceived privacy and security.
+The Internet privacy concerns factor inﬂuences consumers'
+perceived security and privacy in online shopping for travel. This
+means that consumers' predisposition to believe that there are
+risks related to personal information and payments decreases their
+perceived privacy protection in online shopping for travel products
+and decreases their perceived security protection in online shopping. These results are not consistent with the results of Ray et al.
+(2011), who could not conﬁrm the direct effect of Internet privacy
+concerns on consumers' perceived privacy and security.
+With respect to the disposition towards third-party certiﬁcation
+factor, this, in contrast to our expectations, does not exert a positive
+inﬂuence on perceived security protection, and, of even greater
+importance, appears to have a negative effect. This surprising
+ﬁnding may reﬂect the fact that consumers with higher levels of
+disposition to trust in third-party certiﬁcation might already
+perceive a lack of security in travel websites. On the other hand,
+consumers with lower levels of disposition to trust in third-party
+certiﬁcation tend to perceive higher initial security in a travel
+website because they think that travel websites implement security
+measures to protect them. Finally, the disposition towards thirdparty certiﬁcation has a smaller impact on the perceived security
+protection than the inﬂuence of the other determinant factors that
+we consider.
+In our research, contrary to the relationship hypothesized, the
+disposition to trust in third-party certiﬁcation does not affect
+consumers' perceived privacy protection. An explanation for the
+lack of an effect of the disposition to trust in third-party certiﬁcation on privacy in online shopping for travel is that other, more
+relevant, antecedent factors of the perception of privacy, such as
+vendor reputation, website investment and Internet privacy concerns, have displaced much of the effect of the disposition towards
+third-party certiﬁcation on perceived privacy. Thus, we believe that
+in the presence of stronger cues, disposition towards third-party
+certiﬁcation becomes less relevant in inﬂuencing consumers'
+perceived privacy. This is the ﬁrst paper to study the inﬂuence of
+the disposition towards third-party certiﬁcation on consumers'
+perceived security and privacy, and we cannot compare our results
+with any previous studies. In ﬁelds other than tourism, the closest
+study cannot demonstrate the direct effect of consumers' disposition to trust on their perceived trust (Wu et al., 2010).
+In this research, the results suggest that the main antecedents of
+trust that are related to consumers' perceptions are, in order of
+relevance, information quality and perceived security. Thus, consumers' perceived trust depends on the perceived quality of the
+information on the travel websites and their perceived security.
+This means that the greater the consumers' perception of the
+quality of information offered and their perceived security on the
+travel website, the greater will be the perceived trust in that
+website. However, we were surprised to ﬁnd that consumers'
+perceived privacy is not a predictor of perceived trust: the relationship hypothesized is not signiﬁcant. Thus, consumers'
+perceived privacy protection in e-commerce and tourism does not
+imply greater perceived trust in the travel website. Thus, consumers have perceived trust in travel websites because of the
+perceived information quality and the perceived security, but not
+because of their perceived privacy on the websites. The information
+quality is the strongest predictor of consumer trust. This coincides
+with the results of previous studies (Escobar-Rodríguez & CarvajalTrujillo, 2014; Kim et al., 2008; Liao, Palvia, & Lin, 2006; McKnight
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+
+et al., 1998). Consumers' perceived security is also a predictor of
+consumer trust, and this is consistent with the results of previous
+studies (Escobar-Rodríguez & Carvajal-Trujillo, 2014; Kim et al.,
+2008, 2011; Yousafzai et al., 2005).
+Based on the results of this research, the predictors of online
+purchase intention in the context of e-commerce and travel, in
+order of relevance, are perceived value and trust. Perceived value is
+the main antecedent of online purchase intention, and this means
+that the greater the perceived value to consumers of items on the
+travel website, the more likely they are to have the intention to
+shop on that website. Kim et al. (2012) also found that perceived
+value is an antecedent of online purchase intention, although not
+that it is the principal antecedent. Trust is a predictor of the online
+purchase intention for e-commerce and travel. This means that the
+greater consumers' perceived trust in travel websites, the stronger
+their intention to use them. This result is consistent with those of
+previous studies (Kim et al., 2009, 2011; Sanz-Blas et al., 2014; Wen,
+2010). In this research, also, trust is found to be an antecedent of
+perceived value. Thus, the greater consumers' perceived trust, the
+greater the perceived value that consumers may obtain by shopping on the travel website.
+In this study, the model proposed by Ray et al. (2011) has been
+extended to explain consumers' perceived privacy and security,
+trust, perceived value, and purchase intention in relation to ecommerce and travel. This paper extends the model of Ray et al.
+(2011) by adding third-party assurance seals and two related constructs, the disposition towards third-party certiﬁcation and the
+understanding of third-party seals.
+5.2. Managerial implications
+The results of this research have relevant practical implications
+for marketing practitioners and managers who design strategic
+plans and implement tools to improve the performance of online
+travel shopping. On the one hand, the knowledge of the antecedents of perceived security and the inﬂuence of these factors on trust
+is useful for managers who should develop strategies and actions
+aimed at increasing the perceived security protection of their
+websites and, consequently, the trust in these websites. On the
+other hand, as information quality inﬂuences trust, actions can be
+taken by managers to increase information quality. On the basis of
+the results of this research, perceived value is the main antecedent
+of online purchase intention for travel products, and so it is recommended that the managers of travel websites direct their marketing strategies towards creating and maintaining consumers'
+maximal perceived value in the online transactions. This is the
+single largest action that managers can take to ensure that more
+consumers have a stronger online purchase intention. The results of
+this study also suggest that tourism marketers can inﬂuence the
+perceived value of online shopping, and hence the online travel
+purchase intention, if they are able to increase consumers'
+perceived trust in their websites.
+Since many consumers are still reluctant to buy travel products
+online because of their distrust of travel websites, tourism managers should be aware of the importance of improving the level of
+consumers' trust. We found that information quality is the main
+predictor of trust, and thus, to improve the level of perceived trust,
+tourism managers should increase the quality of the information
+provided on their websites. For this reason, travel websites should
+provide up-to-date and accurate information regarding both travel
+products (e.g., timetables, availability, prices, conditions, etc.) and
+the online transaction process. The decision-making process for
+consumers requires them to scan, collect, ﬁlter, integrate, and
+compare information about travel products, but this process is
+time-consuming and important (Liao et al., 2006). If a travel e-
+
+299
+
+commerce website cannot offer complete and accurate information, consumers may perceive that it is not suitable for completing a
+travel purchase online. Thus the information provided on the
+website should be accurate, clear, timely, and sufﬁcient in terms of
+depth of content, should describe the characteristics of the travel
+product and should be free of technical terms. For example, to increase consumers' perception about the timeliness and accuracy of
+information, the travel website can include a time stamp for the
+information (Kuan, Bock, & Vathanophas, 2008).
+Our results indicate that to improve the level of perceived trust,
+tourism managers should try to improve the level of consumers'
+perceived security on their websites. The ﬁndings suggest that
+vendor reputation is the strongest predictor of consumers'
+perceived security for travel shopping websites. It is recommended
+that web managers of online shopping sites take care to manage
+their online vendor reputation to ensure that it is high, because it is
+a quality signal that is very relevant for increasing consumers'
+perceived security. We suggest that tourism managers should
+manage the word-of-mouth communication in social networks and
+recommendation websites to maintain and increase their reputation. Given that website investment is another relevant antecedent
+of perceived security in online transactions for travel products, it is
+fundamental that tourism managers invest time, effort, and money
+in the design of their online shopping websites so that consumers
+perceive that their security is protected. Online sellers should pay
+attention to the design and build of the travel website, since website investment inﬂuences consumers' perceived security. Another
+relevant implication for tourism managers is related to the role of
+third-party assurance seals. From our ﬁndings, the consumer perceives that an online seller provides security in online transactions
+for travel products if a third-party assurance seal is displayed on the
+travel website. It is recommended that travel websites should
+display third-party assurance seals because this increases consumers' perceived security. Communications by assurance seal
+companies can enhance consumer beliefs in these seals. It is relevant to indicate that there is a need to inform consumers about the
+functions of third-party assurance seals, because if the consumers
+do not understand them they are useless. To facilitate the understanding of the seals, tourism managers should encourage consumers, by text instructions or visual cues, to click on the thirdparty assurance seal and ﬁnd an explanation of the seal (Kimery
+& McCord, 2002b). We agree with Kimery and McCord (2002b)
+that these explanations by assurance seal companies should be
+well-written and simple, to make them easier to understand. We
+found in this study that the privacy and security policies displayed
+on travel websites are a predictor of consumers' perceived security
+in online transactions on these websites. An implication for tourism
+managers is that travel websites should display and clearly explain
+these privacy and security policies, which are signals for increasing
+consumers' perceived security. We also recommend, if privacy and
+security policies are to be useful, that they do not contain descriptions that are too lengthy, because consumers do not wish to
+spend time and effort reading them (Kim & Kim, 2011), and that
+they do not incorporate technical words that are hard for consumers to understand (Kim & Kim, 2011). It is possible that the
+provision of privacy and security policies in video format can increase consumers' perception of security protection (Lee, Au, &
+Law, 2013). Given that consumers' perceived security is inﬂuenced by their familiarity with the travel website, it is fundamental
+for tourism managers to ensure that consumers have knowledge of
+the online seller, and have an understanding of how to search for
+information and how to carry out an online transaction through the
+travel website. This knowledge arises from consumers' prior
+experience of the process of purchasing from travel websites. It is
+recommended that travel companies implement communication
+
+300
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+
+strategies on the Internet and/or other traditional media so that
+consumers can increase their knowledge and understanding about
+using travel websites for shopping online. This would have the effect that more consumers would perceive a stronger security protection in online transactions for travel products. Additionally, an
+easy purchasing process for travel websites should make it a good
+experience and, consequently, cause consumers to become familiar
+with the travel website.
+The inﬂuence of the personality characteristics of consumers in
+Spain on their perceived security, such as their propensity to be
+concerned about threats to personal information and/or safety in
+payments for online transactions, and the degree to which they are
+predisposed to depend on third parties for trustworthy information
+during online transactions (Jiang et al., 2008), offer practical implications for tourism managers. It is suggested that, in Spain, travel
+websites should deliver speciﬁc actions for each segment of consumers, according to the degree of their concerns about privacy and
+their disposition towards third-party certiﬁcates. It is recommended that websites are designed to capture distinctions in
+consumers' concerns about privacy and disposition to trust, and
+then dynamically adapt their information according to the consumer segment. Also, for consumers who show high Internet privacy concerns, tourism managers should inform consumers and
+ensure that they can easily check the type of information available
+and know that they can delete or modify that information
+(Malhotra et al., 2004).
+5.3. Future research
+Finally, we propose some ideas for future work in relation to the
+formation of perceived security and privacy, trust, perceived value,
+and online purchase intention. It would be interesting to replicate
+this research for different speciﬁc travel products, to reach more
+insightful conclusions. This study is cross-sectional, that is, it
+measures the variables at a single point in time; future studies
+should therefore examine the validity of the proposed model by a
+longitudinal analysis. It would also be of interest to replicate this
+research in different countries and to examine the possible crosscultural differences. Another future research line is to include
+other variables, such as user experience with the Internet, user
+experience of purchasing tourism products, consumer personality
+traits, the inﬂuence of price on perceived value, and sociodemographic characteristics.
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at http://
+dx.doi.org/10.1016/j.tourman.2014.10.009.
+References
+Ahuja, M., Gupta, B., & Raman, P. (2003). An empirical investigation of online
+consumer purchasing behavior. Communications of the ACM, 46(12), 145e151.
+n para la investigacio
+n de medios de comunicacio
+n. (2013). 15ª
+AIMC-Asociacio
+encuesta AIMC a usuarios de Internet. Available at http://www.aimc.es/.
+Au Yeung, T., & Law, R. (2003). Usability evaluation of Hong Kong hotel websites. In
+A. Frew, P. O'Connor, & M. Hitz (Eds.), Information and communication technologies in tourism (pp. 261e269). New York: Springer-Wien.
+Ayeh, J. K., Au, N., & Law, R. (2013). Predicting the intention to use consumergenerated media for travel planning. Tourism Management, 35(April), 132e143.
+Bernstein, J., & Awe, S. C. (1999). Wired travelers: travel and tourism web sites.
+Reference Services Review, 27(4), 364e375.
+, E., Sanz, S., Ruiz, C., & Ald
+Bigne
+as, J. (2010). Why some internet users don't buy air
+tickets online. Information and Communication Technologies in Tourism, 6,
+209e221.
+Bhimani, A. (1996). Securing the commercial Internet. Communications of the ACM,
+39(6), 29e35.
+Brislin, R. W. (1970). Back translation for cross-cultural research. Journal of CrossCultural Psychology, 1(3), 185e216.
+
+Buhalis, D., & Law, R. (2008). Progress in information technology and tourism
+management: 20 years on and 10 years after the internet e the state of
+eTourism research. Tourism Management, 29(4), 609e623.
+Cavusoglu, H., Raghunathan, S., & Cavusoglu, H. (2009). Conﬁguration of and
+interaction between information security technologies: the case of ﬁrewalls
+and intrusion detection systems. Information Systems Research, 20(2), 198e217.
+Chang, T. Z., & Wildt, A. R. (1994). Price, product information and purchase intention:
+an empirical study. Journal of the Academy of Marketing Science, 22(1), 6e27.
+Chang, H. H., & Wang, H. W. (2011). The moderating effect of customer perceived
+value on online shopping behavior. Online Information Review, 35(3), 333e359.
+Chellappa, R. K., & Pavlou, P. A. (2002). Consumer trust in electronic commerce
+transactions. Logistics Information Management, 15(5/6), 358e368.
+Chiles, T. H., & McMackin, J. F. (1996). Integrating variable risk preferences, trust,
+and transaction cost economics. Academy of Management Review, 21(1), 73e99.
+Chin, W. W. (1998). The partial least squares approach to structural equation
+modeling. In G. A. Marcoulides (Ed.), Modern methods for business research (pp.
+295e336). Mahwah, NJ: Lawrence Erlbaum Associates.
+Chiu, C. M., Hsu, M. H., Lai, H., & Chang, C. M. (2012). Re-examining the inﬂuence of
+trust on online repeat purchase intention: the moderating role of habit and its
+antecedents. Decision Support Systems, 53(4), 835e845.
+Chiu, C. M., Huang, H. Y., & Hui, Y. C. (2010). Antecedents of trust in online auctions.
+Electronic Commerce Research and Applications, 9(2), 148e159.
+Churchill, G. A. (1979). A paradigm for developing better measures of marketing
+constructs. Journal of Marketing Research, 16(1), 64e73.
+Churchill, G. A., & Iacobucci, D. (2002). Marketing research methodological foundations (8th ed.). Mason: Thomson.
+Connolly, D. J., Olsen, M. D., & Moore, R. G. (1998). The internet as a distribution
+channel. Cornell Hotel and Restaurant Administration Quarterly, 39(4), 42e54.
+Corbitt, B. J., Thanasankit, T., & Yi, H. (2003). Trust and e-commerce: a study of
+consumer perceptions. Electronic Commerce Research and Applications, 2(3),
+203e215.
+Cronbach, L. J. (1970). Essentials of psychological testing. New York: Harper & Row.
+Cyr, D. (2008). Modeling web site design across cultures: relationships to trust,
+satisfaction, and e-loyalty. Journal of Management Information Systems, 24(4),
+47e72.
+Cyr, D. (2013). Website design, trust and culture: an eight country investigation.
+Electronic Commerce Research and Applications, 13(6), 373e385.
+Cyr, D., Kindra, G. S., & Dash, S. (2008). Web site design, trust, satisfaction, and eloyalty: the Indian experience. Online Information Review, 32(6), 773e790.
+Dawar, N., & Parker, P. (1994). Marketing universals: consumers' use of brand name,
+price, physical appearance, and retailer reputation as signals of product quality.
+Journal of Marketing, 58(2), 81e95.
+Dinev, T., & Hart, P. (2006). An extended privacy calculus model for e-commerce
+transactions. Information Systems Research, 17(1), 61e80.
+Dodds, W. B., Monroe, K. B., & Grewal, D. (1991). Effects of price, brand, and store
+information on buyers. Journal of Marketing Research, 28(3), 307e319.
+Duncan, T., & Moriarty, S. (1998). A communication-based marketing model for
+managing relationships. Journal of Marketing, 62(2), 1e13.
+Escobar-Rodíguez, T., & Carvajal-Trujillo, E. (2014). Online purchasing tickets for low
+cost carriers: an application of the uniﬁed theory of acceptance and use of
+technology (UTAUT) model. Tourism Management, 43(August), 70e88.
+Falk, R. F., & Miller, N. (1992). A primer for soft modelling. Akron, Ohio: University of
+Akron Press.
+Fam, K. S., Foscht, T., & Collins, R. D. (2004). Trust and the online relationship: an
+exploratory study from New Zealand. Tourism Management, 25(2), 195e207.
+Flavian, C., & Cuinaliu, M. (2006). Consumer trust, perceived security and privacy
+policy: three basic elements of loyalty to a web site. Industrial Management &
+Data Systems, 106(5), 601e620.
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement error: algebra and statistics. Journal of
+Marketing Research, 18(1), 39e50.
+zquez, B.
+Fuentes-Blasco, M., Gil-Saura, I., Berenguer-Contrí, G., & Moliner-Vela
+(2010). Measuring the antecedents of e-loyalty and the effect of switching costs
+on website. The Service Industries Journal, 30(11), 1837e1852.
+Furnell, S., & Karweni, T. (1999). Security implications of electronic commerce: a
+survey of consumers and businesses. Internet Research, 9(5), 372e382.
+Gefen, D. (2000). E-commerce: the role of familiarity and trust. Omega, 28(6),
+725e737.
+Gefen, D. (2002). Reﬂections on the dimensions of trust and trustworthiness among
+online consumers. ACM SIGMIS Database, 33(3), 38e53.
+Gefen, D., Karahanna, E., & Straub, D. W. (2003). Trust and TAM in online shopping:
+an integrated model. MIS Quarterly, 27(1), 51e90.
+Gefen, D., Straub, D. W., & Boudreau, M. C. (2000). Structural equation modeling and
+regression: guidelines for research practice. Communications of the Association
+for information Systems, 4(7), 1e70.
+Gerbing, D. W., & Anderson, J. C. (1988). An updated paradigm for scale development incorporating unidimensionality and its assessment. Journal of Marketing
+Research, 25, 186e192.
+Grabosky, P. (2001). The nature of trust online. The Age, 1e12.
+Grazioli, S., & Jarvenpaa, S. L. (2000). Perils of internet fraud: an empirical investigation of deception and trust with experienced internet consumers. IEEE
+Transactions on Systems, Man, and Cybernetics. Part A: Systems and Humans,
+30(4), 395e410.
+Hair, J. F., Ringle, C. M., & Sarstedt, M. (2011). PLS-SEM: indeed a silver bullet. Journal
+of Marketing Theory and Practice, 19(2), 139e151.
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+Harris, L. C., & Goode, M. H. (2004). The four levels of loyalty and the pivotal role
+of trust: a study of online service dynamics. Journal of Retailing, 80(2),
+139e158.
+Henseler, J., Ringle, C. M., & Sinkovics, R. R. (2009). The use of partial least squares
+path modeling in international marketing. In R. R. Sinkovics, & P. N. Ghauri
+(Eds.), Advances in international marketing (Vol. 20, pp. 277e320). Bingley:
+Emerald.
+Hoffman, D. L., Novak, T. P., & Peralta, M. (1999). Building consumer trust online.
+Communications of the ACM, 42(4), 80e85.
+Hsu, S. H., Chen, W. H., & Hsieh, M. J. (2006). Robustness testing of PLS, LISREL, EQS
+and ANN-based SEM for measuring customer satisfaction. Total Quality Management, 17(3), 355e371.
+Hu, X., Wu, G., Wu, Y., & Zhang, H. (2010). The effects of Web assurance seals on
+consumers' initial trust in an online vendor: a functional perspective. Decision
+Support Systems, 48(2), 407e418.
+Hui, K. L., Teo, H. H., & Lee, S. Y. T. (2007). The value of privacy assurance: an
+exploratory ﬁeld experiment. MIS Quarterly, 31(1), 19e33.
+Hulland, J. (1999). Use of partial least squares (PLS) in strategic management
+research: a review of four recent studies. Strategic Management Journal, 20(2),
+195e204.
+Jarvenpaa, S. L., Tractinsky, N., Saarinen, L., & Vitale, M. (1999). Consumer trust in an
+Internet store: a cross-cultural validation. Journal of Computer Mediated
+Communication, 5(2).
+Jarvenpaa, S. L., Tractinsky, N., & Vitale, M. (2000). Consumer trust in an internet
+store. Information Technology and Management, 1(12), 45e71.
+Jiang, P., Jones, D. B., & Javie, S. (2008). How third-party certiﬁcation programs relate
+to consumer trust in online transactions: an exploratory study. Psychology &
+Marketing, 25(9), 835e858.
+Jin, B., Park, J. Y., & Kim, J. (2007). Cross-cultural examination of the relationships
+among ﬁrm reputation, e-satisfaction, e-trust, and e-loyalty. International
+Marketing Review, 25(3), 324e337.
+Kahneman, D., & Tversky, A. (1979). Prospect theory: an analysis of decision under
+risk. Econometrica, 47(2), 263e292.
+Kamarulzaman, Y. (2007). Adoption of travel e-shopping in the UK. International
+Journal of Retail & Distribution Management, 35(9), 703e719.
+Kim, D., & Benbasat, I. (2003). Trust-related arguments in Internet stores: a
+framework for evaluation. Journal of Electronic Commerce Research, 4(2),
+49e64.
+Kim, M. J., Chung, N., & Lee, C. K. (2011). The effect of perceived trust on electronic
+commerce: shopping online for tourism products and services in South Korea.
+Tourism Management, 32(2), 256e265.
+Kim, D. J., Ferrin, D. L., & Rao, H. R. (2008). A trust-based consumer decision-making
+model in electronic commerce: the role of trust, perceived risk, and their antecedents. Decision Support Systems, 44(2), 544e564.
+Kim, K., & Kim, J. (2011). Third-party privacy certiﬁcation as an online advertising
+strategy: an investigation of the factors affecting the relationship between
+third-party certiﬁcation and initial trust. Journal of Interactive Marketing, 25(3),
+145e158.
+Kim, H.-B., Kim, T., & Shin, S. W. (2009). Modeling roles of subjective norms and
+etrust in customers' acceptance of airline B2C eCommerce websites. Tourism
+Management, 30(2), 266e277.
+Kim, D. J., Sivasailam, N., & Rao, H. R. (2004). Information assurance in B2C websites
+for information goods/services. Electronic Markets, 14(4), 344e359.
+Kim, H.-W., Xu, Y., & Gupta, S. (2012). Which is more important in Internet shopping, perceived price or trust? Electronic Commerce Research and Applications,
+11(3), 241e252.
+Kimery, K. M., & McCord, M. (2002a). Third-party assurance: mapping the road to
+trust in e-retailing. Journal of Information Technology Theory and Application,
+4(2), 63e82.
+Kimery, K. M., & McCord, M. (2002b). Signals of trustworthiness in e-commerce:
+consumer understanding of third-party assurance seals. Journal of Electronic
+Commerce in Organizations, 4(4), 52e74.
+Kuan, H. H., Bock, G. W., & Vathanophas, V. (2008). Comparing the effects of website
+quality on customer initial purchase and continued purchase at ecommerce
+websites. Behaviour & Information Technology, 27(1), 3e16.
+Law, R., & Wong, J. (2003). Successful factors for a travel website: perceptions of
+online purchasers in Hong Kong. Journal of Hospitality & Tourism Research, 27(1),
+118e124.
+Lee, H. E., Au, N., & Law, R. (2013). Presentation formats of policy statements on
+hotel websites and privacy concerns: a multimedia learning theory perspective.
+Journal of Hospitality & Tourism Research, 37(4), 470e489.
+Lee, C. H., & Cranage, D. A. (2011). Personalisation-privacy paradox: the effects of
+personalisation and privacy assurance on customer responses to travel websites. Tourism Management, 32(5), 987e994.
+vy, J. P., Valenciano, J., & Michal, T. (2009). Modeling distribution channel dyLe
+namics of North American cars in the Spanish automovile industry. International Advances in Economic Research, 15, 186e206.
+Li, Y. (2014). A multi-level model of individual information privacy beliefs. Electronic
+Commerce Research and Applications, 13(1), 32e44.
+Liao, C., Palvia, P., & Lin, H. N. (2006). The roles of habit and web site quality in ecommerce. International Journal of Information Management, 26(6), 469e483.
+Llach, J., Mariomon, F., Alonso-Almeida, M. M., & Bernardo, M. (2013). Determinants
+of online booking loyalties for the purchasing of airline tickets. Tourism Management, 35(April), 23e31.
+
+301
+
+Lowry, P. B., Moody, G., Vance, A., Jensen, M., Jenkins, J., & Wells, T. (2011). Using an
+elaboration likelihood approach to better understand the persuasiveness of
+website privacy assurance cues for online consumers. Journal of the American
+Society for Information Science and Technology, 63(4), 755e776.
+Malhotra, N., Kim, S., & Agarwal, J. (2004). Internet users' information privacy
+concerns (IUIPC): the construct, the scale, and a causal model. Information
+Systems Research, 15(4), 336e355.
+Mayer, R. C., Davis, J. H., & Schoorman, F. D. (1995). An integrative model of organizational trust. Academy of Management Review, 20(3), 709e734.
+McCole, P. (2002). The role of trust for electronic commerce in services. International Journal of Contemporary Hospitality Management, 14(2), 81e87.
+McKnight, D. H., & Chervany, N. L. (2001). Conceptualizing trust: a typology and ecommerce customer relationships model. In Proceedings of the 34th Hawaii
+international conference on system sciences. IEEE.
+McKnight, D. H., Choudhury, V., & Kacmar, C. (2002). The impact of initial consumer
+trust on intentions to transact with a web site: a trust building model. Journal of
+Strategic Information Systems, 11(3), 297e323.
+McKnight, D. H., Cummings, L. L., & Chervany, N. L. (1998). Initial trust formation in
+new organizational relationships. Academy of Management Review, 23(3),
+473e490.
+McKnight, D. H., Kacmar, C. J., & Choudhury, V. M. (2004). Shifting factors and the
+ineffectiveness of third-party assurance seals: a two-stage model of initial trust
+in a Web business. Electronic Markets, 14(3), 252e266.
+Metzger, M. J. (2006). Effects of site, vendor, and consumer characteristics on web
+site trust and disclosure. Communication Research, 33(3), 155e179.
+Moores, T. (2005). Do consumers understand the role of privacy seals in e-commerce? Communications of the ACM, 48(3), 86e91.
+Nunnally, J. C. (1978). Psychometric theory (2nd ed.). New York: McGraw-Hill.
+€
+Ozpolat,
+K., Gao, G., Jank, W., & Viswanathan, S. (2013). The value of third-party
+assurance seals in online retailing: an empirical investigation. Information
+Systems Research, 24(4), 1100e1111.
+Pavlou, P. A. (2003). Consumer acceptance of electronic commerce: integrating trust
+and risk with the technology acceptance model. International Journal of Electronic Commerce, 7(3), 69e103.
+Pennington, R., Wilcox, H. D., & Grover, V. (2003). The role of system trust in
+business-to-consumer transactions. Journal of Management Information Systems,
+20(3), 197e226.
+Raganathan, C., & Ganapathy, S. (2002). Key dimensions of business-to-consumer
+websites. Information and Management, 39(6), 457e465.
+Rao, A., Qu, L., & Ruekert, R. (1999). Signaling unobservable product quality through
+a brand ally. Journal of Marketing Research, 36(2), 258e268.
+Ray, S., Ow, T., & Kim, S. S. (2011). Security assurance: how online service providers
+can inﬂuence security control perceptions and gain trust. Decision Sciences,
+42(2), 391e412.
+Rifon, N. J., LaRose, R., & Choi, S. M. (2005). Your privacy is sealed: effects of web
+privacy seals on trust and personal disclosures. The Journal of Consumer Affairs,
+39(2), 339e362.
+ (2012). Inﬂuence of the user's psychological factor son
+San Martín, H., & Herrero, A.
+the online purchase intention in rural tourism: integrating innovativeness to
+the UTAUT framework. Tourism Management, 33(2), 341e350.
+, C., & Pe
+rez Pe
+rez, I. (2014). Key drivers of services website
+Sanz-Blas, S., Ruiz-Mafe
+loyalty. The Service Industries Journal, 34(5), 455e475.
+Schlosser, A., White, T., & Lloyd, S. (2006). Converting web site visitors into buyers:
+how web site investment increases consumer trusting beliefs and online purchase intentions. Journal of Marketing, 70(2), 133e148.
+Seddon, P. B. (1997). A respeciﬁcation and extension of the DeLone and McLean
+model of IS success. Information Systems Research, 8(3), 240e253.
+Shapiro, S. P. (1987). The social control of impersonal trust. American Journal of
+Sociology, 93(3), 623e658.
+Sheehan, K., & Hoy, M. (2000). Dimensions of privacy concern among online consumers. Journal of Public Policy & Marketing, 19(1), 62e73.
+Smith, H., Milberg, S., & Burke, S. (1996). Information privacy: measuring individuals' concerns about organizational practices. MIS Quarterly, 20(2),
+167e196.
+Udo, G. (2001). Privacy and security concerns as major barriers for e-commerce: a survey study. Information Management & Computer Security, 9(4),
+165e174.
+Vila, N., & Kuster, I. (2011). Consumer feelings and behaviours towards well
+designed websites. Information & Management, 48(4e5), 166e177.
+Wang, S., Beatty, S. E., & Foxx, W. (2004). Signaling the trustworthiness of small
+online retailers. Journal of Interactive Marketing, 18(1), 53e69.
+Wang, H.-Y., & Wang, S.-H. (2010). Predicting mobile hotel reservation adoption:
+insight from a perceive value standpoint. International Journal of Hospitality
+Management, 29(4), 598e608.
+Wen, I. (2009). Factors affecting the online travel buying decision: a review. International Journal of Contemporary Hospitality Management, 21(6), 752e765.
+Wen, I. (2010). Online travelers' decision makings: a new equation model to evaluate impacts of website, search intention, and trust. Information Technology &
+Tourism, 12(2), 153e173.
+€reskog, K. G. (1974). Intraclass reliability estimates:
+Werts, C. E., Linn, R. L., & Jo
+testing structural assumptions. Educational and Psychological Measurement,
+34(1), 25e33.
+Wold, H. (1985). Partial least squares. In S. Kotz, & N. L. Johnson (Eds.), Encyclopedia
+of statistical sciences (Vol. 6, pp. 581e591). New York: Wiley.
+
+302
+
+n Ponte et al. / Tourism Management 47 (2015) 286e302
+E. Bonso
+
+Wong, J., & Law, R. (2005). Analysing the intention to purchase on hotel websites: a
+study of travelers to Hong Kong. International Journal of Hospitality Management, 24(3), 311e329.
+Wu, J. J., & Chang, Y. S. (2005). Towards understanding members' interactivity, trust,
+& ﬂow in online travel community. Industrial Management & Data Systems,
+7(105), 937e954.
+Wu, L. Y., Chen, K. Y., Chen, P. Y., & Cheng, S. L. (2014). Perceived value, transaction
+cost, and repurchase-intention in online shopping: a relational exchange
+perspective. Journal of Business Research, 67(1), 2768e2776.
+Wu, G., Hu, X., & Wu, Y. (2010). Effects of perceived interactivity, perceived web
+assurance and disposition to trust on initial online trust. Journal of ComputerMediated Communication, 16(1), 1e26.
+Xu, H., Teo, H., Tan, B. C. Y., & Agarwal, R. (2010). The role of push-pull technology in
+privacy calculus: the case of location-based services. Journal of Management
+Information Systems, 26(3), 135e173.
+Yang, S. C., Hung, W. C., Sung, K., & Farn, C. K. (2006). Investigating initial trust
+toward e-tailers from the elaboration likelihood model perspective. Psychology
+& Marketing, 23(5), 429e445.
+Yoon, S. J. (2002). The antecedents and consequences of trust in online-purchase
+decisions. Journal of Interactive Marketing, 16(2), 47e63.
+Yousafzai, S. Y., Pallister, J. G., & Foxall, G. R. (2005). Strategies for building and
+communicating trust in electronic banking: a ﬁeld experiment. Psychology &
+Marketing, 22(2), 181e201.
+Zeithaml, V. A. (1988). Consumer perceptions of price, quality, and value: a meansend model and synthesis of evidence. Journal of Marketing, 52(3), 2e22.
+ n Ponte is a professor of Financial EcoEnrique Bonso
+nomics and Accounting at the University of Huelva (Spain).
+Currently he is the president of the New Technologies
+Commission of the Spanish Accounting and Business
+Administration (AECA) and vice president of the Association XBRL Spain. His research, mainly in the ﬁeld of information technologies and business administration, has
+been published in leading academic journals including
+Government Information Quarterly, International Journal
+
+of Accounting Information Systems, International Journal
+of Digital Accounting Research, Journal of Emerging
+Technologies in Accounting and Online Information
+Review.
+
+Elena Carvajal-Trujillo is an assistant professor of Marketing in the Faculty of Business Science Management,
+University of Huelva (Spain). She received her Ph.D. in
+Business Administration from University of Seville in
+Spain. Her research interests include consumer behavior
+and tourism and Internet marketing. Her research has
+appeared in journal as International Journal of Hospitality
+Management and Tourism Management.
+
+s Escobar-Rodríguez, PhD, is an Associate Professor
+Toma
+of Accounting and Information Systems at the University
+of Huelva (Spain). His research focuses on information
+technology and business administration. He has published
+in leading academic journals including the Enterprise Information Systems, International Journal of Hospitality
+Management, Tourism Management, International Journal
+of Accounting Information Systems, Online Information
+Review and Journal of Information Systems.
+
+

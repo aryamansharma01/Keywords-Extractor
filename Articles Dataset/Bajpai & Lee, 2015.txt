@@ -1,0 +1,1024 @@
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+CONSUMER BEHAVIOR IN E-TOURISM SERVICES:
+A CASE OF TAIWAN
+Original scientific paper
+
+Akansha Bajpai
+Cheng-Wen Lee
+
+Received 7 January 2015
+Revised 4 April 2015
+6 May 2015
+
+Abstract
+The purpose – The prompt and efficient changes in technology during the past few decades have
+affected tourism industry. With new emerging technologies (internet) the method of doing
+business has changed; which makes it a very important factor to understand the consumer
+behavior and perception in order to recognize, captivate, and retain the customers in the internet
+based travelling industry. This paper examines the determinants which influence the consumer
+behavior of the potential customers to use e-tourism services and to show their interrelationship
+in the perspective of Taiwan.
+Design/Methodology – Empirical research is been used to determine the findings of this research.
+A questionnaire was designed based on the past studies related to the variables of the study. The
+questionnaire consisted of four sections each consisting of four to five statements. The
+demographic section was also included. A total of 402 completed questionnaires were taken into
+consideration.
+Findings – The result of this study shows that determinants considered in this study; generation
+of stimulus, information search and service quality have a major impact over the loyalty of the
+consumer which determines the consumer behavior towards the e-tourism services for travel
+planning purposes.
+Originality of the research – This is the first kind of research done over consumer behavior of
+youth specifically in e-tourism industry in Taiwan’s perspective and secondly as the data is
+collected directly from Taiwan’s youth and is empirically evaluated so we believe its results will
+help the organizations for making the e-tourism industry more consumer oriented in case of
+Taiwan.
+Keywords e-tourism, consumer behavior, travel planning, e-tourism services.
+
+INTRODUCTION
+Tourism industry is known to have a significant importance at International and
+domestic levels in terms of economic development for almost every country. This fact
+is supported by the given statistical evidences in (Anon 2014) where it is clearly stated
+that international tourism was seen to have a growth of 5% in the year 2014, also the
+data and statistics given in the website demonstrates the importance of tourism industry
+in terms of different areas of employment, economic development etc.
+Tourism industry is been also called as a hybrid industry (Werthner & Klein 1999)
+because of its merger with information technology to give rise to the e-tourism
+industry. The product of tourism industry is solely based on information provided
+however the end product is always its physical service. Thus the importance of the role
+
+1
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+of information technology and internet could be widely seen in aspects of the tourism
+industry.
+Internet can be considered as one of the most influential technologies that impacts
+customer’s behavior. This can be noticed by the facts and figures given in the website
+of (Anon 2013a) which states that the numbers of internet users in the world have
+increased up to 2,802,478,934 which shows a penetration of 39% in total world
+population. Also considering the case of Taiwan number of users were 18,687,942
+which was a total penetration of 80% of Taiwan’s total population. Thus we can say
+that internet is considered as a most important tool for getting information and
+purchasing of products in the current scenario.
+However many studies have been undertaken before to find out the impact of the given
+factors (generation of stimulus, information search and service quality evaluation) over
+consumer behavior in e-tourism. For example (Goossens 2000) concludes in his
+research that managers in order to promote tourism business have to make use of
+factors like feelings of pleasure, excitement etc. in order to promote and generate the
+stimulus inside customers to plan their travel. Similarly (Rothschild 1984) in his
+research showed that interest or desire is a kind of involvement towards any
+recreational activity like tourism which results from a particular generation of stimulus.
+The second variable of this study (information search) on the other hand is another
+important factor in e-tourism as it is one of the importance sources for making
+travelling decisions in the form of word of mouth and interpersonal influences. (Litvin
+et al. 2008) Research of (Mill & Morrison 1985) states that individuals must be
+provided information about the products and services through the role of marketing
+which will create awareness among the customers for the same and the positive
+influence will bring satisfying personal experience. The third variable used in this study
+is service quality evaluation which is the overall judgment which a customer makes
+about a service and is totally based on kind of service quality offered to him by the
+service provider (Bigne et al. 2001). Another research of (Ho & Lee 2007) shows that
+e-travel service quality is strongly capable of predicting customers behavior in terms of
+loyalty and satisfaction. Thus the past research shows that the variables used in this
+study affects customer’s behavior in e tourism in some way or the other.
+The main reason for choosing Taiwan as a subject of the study is because of the fact
+that being a developed country most of its population is aware about the use of internet.
+In the support of the latter statement (Anon 2013a) statistics show that 80% of the total
+population in Taiwan is accustomed of the use of internet, also (Anon 2013b) shows
+that the Taiwanese population currently is dominated by youth and middle aged people.
+So doing a study over the age group between 16-35 years in Taiwan was considered for
+this research.
+The main aim of this study is to identify the determinants which impact potential
+customer’s behavior in e-tourism industry in the perspective of Taiwan’s economy and
+also to show their interrelationship with each other. Final results of this study shows
+that all the three factors (generation of stimulus, Information search and Service
+quality) were found to be affecting the consumer behavior (satisfaction, dissatisfaction)
+in e-tourism industry in Taiwan.
+
+2
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+THEORETICAL BACKGROUND AND CONCEPTUAL MODEL
+The current study focuses on the determinants which influences the consumer behavior
+while making decisions for e-tourism services. Although previous research has
+discussed about the changes internet has brought affecting pre and post purchase
+decisions of the customer, but all sectors have not been affected with the same
+intensity. In case of tourism industry it is offering intangible services and offers thus
+the characteristics of tourism industry suits highly and particularly for following
+internet marketing (Dominique & Dimanche 2009).
+Relationship between e-tourism services and consumer behavior is been studied and
+explained in previous studies. These theories are basically developed for the better
+understanding of consumer’s decisions and behavior. The main aim of these kinds of
+studies is to find out the principals in consumer behavior to be able to follow practical
+implementation and in order to give advices and prediction of the influences caused in
+consumer’s behavior (Kroeber-Riel & Weinberg 1999). The electronic distribution of
+tourism information has a major impact over consumer behavior. A large number of
+consumers use websites to inform and purchase services offered by e-tourism industry
+(Nedelea & Alina 2010). Another study based on consumer behavior over e-tourism
+services has suggested that e-tourism markets have till now seem to affect consumer’s
+behavior in pre purchase of products that means consumers have not extended pre
+purchase search and further to add they look for convenience relative objectives for etourism services. (Mills & Law 2004). Study of (Stockdale 2007) states that in etourism the major challenge for the firms is to retain customers and the use of selfservice technologies benefits firms in terms of cost savings and in retaining the
+customer.
+Previous research has discussed a lot about generation of stimulus affecting the
+consumer behavior in e tourism services. (Mittal 1988) stated that the stimulus is
+generated based on the influence of past experiences, desires and interest of the
+customer’s product/service use, the more lucrative the product/service the more it will
+be appraised by the customer. Results of the study of (Bigne et al. 2001) shows that
+stimulus generated in an individual is highly responsible for the changes in behavior
+that occur during buying of tourism services, thus the image of the services should be
+constantly improved. In order to receive customer’s loyalty, e-tourism industry needs to
+develop technology for recording customer’s reaction to their generation of stimulus
+and to give them more customized products and services as per their personal
+preferences (Buhalis & O’Connor 2005). Similarly in another research of (Iso-Ahola
+1983) author has proved that the desire of a customer to gain certain personal rewards
+in terms of planning a travel is greatly influenced by a generation of stimulus.
+Another important dependent variable of this study is Information Search. Which is
+been discussed as a very important determinant in the past research with respect to
+consumer behavior in e- tourism services. Study of (Xiang & Gretzel 2010) concludes
+that in the present scenario the travel specific sites such as trip advisor and virtual
+tourist are becoming popular and are becoming deeply involved in providing primary
+online travel information. However in study of (Tapscott & Williams 2006) it was clear
+that by the changing face of internet, content generation is becoming easy with every
+
+3
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+passing day and thus the current customer gets more power over how he can make use
+of the information given over the internet.
+The search engines are playing a very dominant role in present time and are helping
+customers by providing them the information required by social media sites, blogs and
+other different sources where the customer can get a fair idea by reading the comments
+of previous buyers (word of mouth) based on their own personal experience of the
+specific e-tourism service. (Xiang & Gretzel 2010).
+(Fodness & Murray 1997) have stated information search as one of the important part
+of the purchase decision process which got revolutionized with the popularity of
+internet. They have also mentioned that out of the factors which influence information
+search process prior visits (personal experience) and choice of destination (awareness)
+are to name a few. Study of (Cotte et al. 2006) found that information search and online
+shopping behavior are highly correlated due to the utilitarian consumption (everyday
+usage).
+The third and last dependent variable in this study is service quality evaluation, (Ho &
+Lee 2007) in their research have proved that e-tourism service quality evaluation scale
+has strong predictive capability when it comes to their relation with online customer
+satisfaction (consumer behavior) and the loyalty intentions of the customers. In a
+similar study of (Mill & Morrison 1985) it was investigated that the perceived service
+quality is a multi-dimensional construct which plays an important role in determining
+customer satisfaction which leads to the consumer behavior prediction when it comes
+to e-tourism services.
+Tourism industry is an information dependent business and internet is helping this
+industry to provide a dynamic platform for information supply and exchange. However
+the information provided on the websites meets the expectations of the users is very
+crucial and helps in determining the consumer behavior in terms of e-tourism services
+offered (Ho & Lee 2007). (Otto & Ritchie 1996) have also defined service quality
+evaluation as the capability to understand and manage the true consumer behavior in
+terms of services rendered.
+Thus past research offers some support in identifying the determinants affecting the
+consumer behavior in e-tourism industry. However the present study investigates the
+determinants further in perspective of Taiwan’s economy, the present research has
+followed Oliver’s conceptual model (Oliver 1980) in order to develop a new model
+which is specifically based on determinants affecting consumer behavior in e- tourism
+service industry.
+This study is unique from the past researches done in two dimensions; firstly this is the
+first kind of research done over consumer behavior of youth specifically in e-tourism
+industry in Taiwanese economy perspective and secondly as it is based on the data
+collected from the Taiwanese youth directly and is empirically evaluated so we believe
+its results will help the organizations for making the e-tourism industry more consumer
+oriented in case of Taiwan by having a proper understanding of their consumer
+behavior while making buying decisions in e-tourism sector.
+
+4
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+Conceptual model
+Use of internet by customer’s is playing a much more important role when it comes to
+decision making process; and has turned out to be a major subject for the study of
+consumer behavior research in the last few decades (e- shopping acceptance). Thus it
+holds importance in most of the industries including that of e- tourism. Therefore this
+study contribute to research in terms of e-tourism behavior during their decision
+making process by developing a new model of “e-tourism loyalty” which is adapted
+from the previous model of disconfirmation period (Oliver 1980).
+Main idea of Oliver’s model of disconfirmation was to integrate the suggested
+antecedents and few hypothesized consequences into a framework of satisfaction
+related concepts and topics. Also to get a clear picture about the kind of relationships
+existing between expectations, disconfirmation and satisfaction of the consumer with
+that of purchase intention, consumer behavior and criteria which is been used in
+previous decades.
+Figure 1: Oliver’s model of disconfirmation
+
+Expectations
+
+Disconfirmation
+
+Satisfaction/
+Dissatisfaction
+(CSD)
+
+Performance
+
+Source: Oliver’s model 1980)
+
+Although Oliver’s model of disconfirmation was based upon finding out the
+relationship existing between expectations, performance and disconfirmation period
+and all together their impact over consumer behavior; And the model was not based
+over any specific industry but was developed in order to have a proper understanding of
+consumer behavior in a general process of buying products or services. Therefore
+Oliver’s model was used in this study as a base for deriving and developing the new
+model of e-tourism loyalty.
+
+5
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+In previous studies importance of internet in every industry is been discussed by many
+researchers, the best model to identify, describe and explain the theories related to
+acceptance of internet as information was ”information system success model”(Delone
+& Mclean 2003) , This addressed the issue of acceptance of internet in almost all
+industries successfully. Thus looking at the importance of internet in today’s industry
+in current scenario it was worth developing the model of e-tourism loyalty using
+Oliver’s model and going through different theories of the past which successfully
+studied about the determinants like generation of stimulus, information search and
+service quality affecting and having an impact over the loyalty of the consumer
+(consumer behavior) in perspective of e-tourism industry for the Taiwanese economy.
+Figure 2: Model of e-tourism loyalty
+
+Generation of stimulus
+1. Desire
+2. Influences
+3. Interest
+
+Service quality evaluation
+(Disconfirmation period)
+
+Consumer behavior
+in e-tourism services
+(Loyalty, Satisfaction
+or Dissatisfaction)
+
+Information search
+1. Awareness
+2. Personal experience
+3. Word of mouth
+
+Source: Research results
+
+Model of e-tourism loyalty
+This model consists of three independent variables namely generation of stimulus,
+information search and service quality evaluation (disconfirmation period) and the
+dependent variable is taken as consumer behavior in e Tourism which is measured by
+loyalty, satisfaction or dissatisfaction of the customer.
+This model supports the old theories and shows that desire, influences and interest are
+major factors which evokes generation of stimulus for a customer to make him
+interested in using e-tourism services (Edensor 2006),(Bigne et al. 2001). As a result of
+which the customer start collecting information about the services provided by etourism services matching his own desires to travel. Phenomenon of information search
+is influenced by the awareness generated by the information given on the websites, by
+
+6
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+using his personal experience and electronic word of mouth. (Litvin et al. 2008),
+(Xiang & Gretzel 2010). The third determinant that is service quality evaluation is the
+post purchase phenomenon of the product or services which is affected by information
+search and generation of stimulus. During this period customer compares the services
+offered by e-tourism service and his own requirements and evaluates on a scale, if it
+was as per his/her requirements. Service quality is been considered as one of the most
+necessary and winning phenomenon affecting consumer behavior in e-tourism and has
+been stated as having a strong predictive capability for customers loyalty intentions.
+(Augustyn & Ho 1998),(Ho & Lee 2007).The final step of the model is where either the
+customer is satisfied and becomes a loyal customer for the future or else attains
+dissatisfaction and quits taking any further services from the specific e-tourism service
+provider. Thus we can see that consumer behavior of a customer in e-tourism services
+perspective is backed up by given theories and research done in the past.
+So we developed the hypotheses for this research based on the adapted new model of etourism loyalty in order to find out if the determinants considered in this research affect
+the consumer behavior of the Taiwanese youth or not. The developed hypotheses of the
+study are given below:
+Hypotheses and research methodology
+This research hypothesized that a high sense of knowing the importance versed in
+providing the e-tourism services to the end user; so that their demands can be met, if
+we are aware of the determinants affecting the consumer behavior in final decision
+making process, with reference to e-tourism services. This intrinsic loyalty and
+satisfaction would then be expected to influence customers to buy more e-tourism
+related products and services. This study investigated the important determinants which
+can affect the consumer behavior and lead them to the state of loyalty and satisfaction
+specifically in Taiwan’s perspective in terms of using e-tourism services. Thus based
+on above idea and supported by the literature review, three hypotheses were offered:
+Hypothesis 1: Consumer behavior in e-tourism services is significantly influenced by
+generation of stimulus.
+Hypothesis 2: Consumer behavior in e-tourism services is significantly influenced by
+information search.
+Hypothesis 3: Consumer behavior in e-tourism services is significantly influenced by
+service quality evaluation (Disconfirmation period).
+
+RESEARCH METHODOLOGY
+Development of the questionnaire and data collection
+To proof the accuracy of the above mentioned model an online questionnaire based on
+Likert scale with a measurement scale of (1=strongly disagree – 5= strongly agree) was
+designed using google drive. The questionnaire was created in English and then was
+translated into Chinese, and only local Taiwanese people were considered to fill the
+questionnaire and consisted of five sections. Section 1 was based on Generation of
+7
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+stimulus related questions (four in number), section 2 consisted of five questions based
+on information search, section three consist of questions related to service quality
+evaluation (three in number), section four was created to measure dependent variable
+(consumer behavior in e-tourism) and had four questions in total. The last section five
+included the demographic factors. The questions created for the questionnaire were
+totally based on previous proven statements from the past researches.
+Data was collected from the local consumers by posting the questionnaire link over
+travelling based social network webpages and different communities which are popular
+among Taiwanese youth interested in tourism activities. These social networks were
+selected based on kind of information related to e-tourism products and services they
+provide and how frequently are visited by the interested Taiwanese youth. The
+webpages used were a part of Facebook, Google plus and few local social networking
+websites; some responses were also received by emailing the questionnaire link directly
+to the known respondents.
+A total of 417 respondents took part in filling the questionnaire, the responses were
+directly collected in the form of an excel sheet created in google drive which was later
+on downloaded finally for finding and estimating the results for this research using
+SPSS 22.0 statistical software. Final number of respondents administered in this
+research was 402 out of 417.
+Data analysis methods
+To test the suggested hypotheses, Principle component analysis using varimax rotation
+followed by reliability tests, Pearson correlation test and regression analysis were
+deployed to find out which determinant among the three affects the consumer behavior
+in the process of e-tourism.
+
+RESULTS
+Descriptive statistics for demographics
+Table 1 provides the demographic statistics of the total participants who participated in
+the survey of the given research. Among the 402 total respondents, 155(38.55 %) were
+male and 247 (61.55 %) were females. 252 (62.7%) of the respondents age lied
+between 16-25 years and 150 respondents lied between the age group of 26-35 years.
+205 (51.0%) respondents were found to be at a graduate level 171(42.5%) were PhD’s
+and 26 (6.5%) respondents were undergraduates. 210 (52.2%) respondents were
+working as full time and 192 (47.8%) respondents were found to have a part time job.
+
+8
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+Table 1: Descriptive statistics for demographics
+
+Frequency
+
+Valid frequency
+percent (%)
+
+Male
+
+155
+
+38.55%
+
+Female
+
+247
+
+61.44%
+
+16-25 years
+
+252
+
+62.7%
+
+26-35 years
+
+150
+
+37.3%
+
+Undergraduate
+
+26
+
+6.5%
+
+Graduate
+
+205
+
+51.0%
+
+PhD.
+
+171
+
+42.5%
+
+Part Time
+
+192
+
+47.8%
+
+Full Time
+
+210
+
+52.2%
+
+Question
+
+Gender
+
+Age group
+
+Education
+
+Job status
+Source: Research results
+
+Descriptive statistics for variables
+Descriptive statistics for variables is provided in table 2 where the responses having a
+mean score above three were considered to be supporting the variables (determinants).
+The first determinant generation of stimulus had a mean score of 3.8520 which means
+generation of stimulus plays an important role in determining the consumer behavior
+for e-tourism services. Similarly for information search, disconfirmation period had a
+mean score of 3.8520, 3.9483, 3.8408 respectively. Thus all variables seem to affect the
+consumer behavior in e-tourism services.
+Table 2: Descriptive statistics for variables
+Variables
+Generation of stimulus
+Information search
+Service quality evaluation
+Consumer behavior in e-tourism
+services
+
+No. of
+observations
+402
+402
+402
+
+3.8520
+3.9483
+3.8408
+
+Standard
+deviation
+0.74814
+0.61251
+0.62689
+
+402
+
+3.9204
+
+0.70393
+
+Mean
+
+Scale (1=Strongly Disagree - 5 Strongly Agree)
+Source: Research results
+
+9
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+Reliability and data reduction tests
+In order to determine the appropriateness of factor analysis and to check that the data is
+reliable for running the tests, reliability tests were undertaken where value of Cronbach
+alpha was tested for every determinant used in the study in order to check the internal
+consistency of all the determinants used in the study. All the results for reliability tests
+and principle component analysis are mentioned in table 3 and table 4 respectively.
+For generation of stimulus the value of Cronbach alpha was 0.757 which is considered
+as a very good value for internal consistency, while performing principle component
+analysis for generation of stimulus all the items got loaded in the single component and
+were found to be closely related and supporting the same concept with the Eigen value
+of 2.314% and a variance of 57.842%.
+The value of Cronbach alpha for information search was found to be 0.779 which is a
+very good value of internal consistency, the principle component analysis for
+information search all the items loaded in a single component thus were found to be
+closely related and supporting the same concept with the Eigen value of 2.799 and a
+variance of 55.990%.
+Service quality evaluation’s value of Cronbach alpha was 0.664 which is an above
+average value of internal consistency; also while doing the principal component
+analysis the components loaded in a single component with the value of Eigen value
+1.612 with a variance of 53.729%. Thus they were found to be closely related and
+supporting the same concept.
+For the dependent variable consumer behavior in e-tourism services the value of
+Cronbach alpha was 0.838 which is an excellent value of internal consistency, in
+principle component analysis all the items got loaded in a single component and were
+found to be connected and supporting the same concept the Eigen value was 0.664 with
+a variance of 53.729%.
+For all the components together the value of Cronbach alpha was 0.911 which is an
+excellent value of internal consistency.
+Table 3: Reliability statistics
+Variables
+All variables
+Generation of stimulus
+Information search
+Service quality evaluation
+Consumer behavior in e-tourism
+services
+Source: Research results
+
+10
+
+Cronbach alpha
+Value
+0.911
+0.757
+0.779
+0.664
+0.838
+
+No of items.
+16
+4
+5
+3
+4
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+Table 4: Initial component matrix for all variables (Extraction method: Principal
+component analysis.) Varimax rotation
+Variables
+
+Eigen value
+
+Generation of stimulus
+Information search
+Service quality evaluation
+Consumer behavior in e-tourism
+services
+
+2.314
+2.799
+1.612
+
+Percentage of
+variance
+57.842%
+55.990%
+53.729%
+
+2.694
+
+67.360%
+
+Source: Research results
+
+Pearson correlation test and multiple regression analysis
+This test was conducted to check the correlation among the variables (dependent and
+independent) used in the study and finally multiple regression analysis is undertaken to
+get the final outcome and results of the hypotheses offered in the given study. The
+results of Pearson correlation test and multiple regression analysis are mentioned below
+in table 5 and table 6 respectively.
+Hypothesis 1: Consumer behavior in e-tourism services is significantly influenced
+by generation of stimulus
+In the Pearson correlation test a significant correlation was seen between generation of
+stimulus and consumer behavior with a p-value of 0.000 which is close to zero and is
+less than the alpha level (0.01). Our data here provides the information that Generation
+of stimulus determinant is significantly correlated with the consumer behavior in etourism services. Also in the regression analysis the p- value is significant (0.000) and
+is less than the level of alpha (0.01) thus looking at the significant results we accept the
+hypothesis 1 and reject the null hypothesis.
+Hypothesis 2: Consumer behavior in e-tourism services is significantly influenced
+by information search
+The Pearson correlation test shows a significant correlation between Information search
+and consumer behavior as the p-value was found to be 0.000 which is close to zero and
+is less than the alpha level (0.01). The results of regression analysis also show the
+significant p-value (0.000) which is less than the level of alpha (0.01) so looking at the
+significant results we accept the hypothesis 2 and reject the null hypothesis.
+Hypothesis 3: Consumer behavior in e-tourism services is significantly influenced
+by service quality evaluation (Disconfirmation period)
+The results of Pearson correlation test were found to be having a significant correlation
+between service quality evaluation and consumer behavior in e-tourism services as the
+p- value was 0.000 which is close to zero and is less than the alpha level (0.01) also the
+
+11
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+p- value was significant (0.000) in the regression analysis which is less than the level of
+alpha (0.01) so we accept the hypothesis 3 and reject the null hypothesis.
+Table 5: Correlation with consumer behavior
+Variables
+Generation of stimulus
+Information search
+Service quality evaluation
+
+Coefficient
+(r)
+0.652**
+0.711**
+0.609**
+
+Significance
+(p)
+0.000
+0.000
+0.000
+
+*. Correlation is significant at the 0.05 level (2-tailed).
+**. Correlation is significant at the 0.01 level (2-tailed).
+Source: Research results
+
+Table 6: Regression analysis results
+Hypothesis
+
+Coefficient
+(β)
+
+P-Value
+
+H1 – Consumer behavior in e-tourism is influenced by
+generation of stimulus
+
+0.265
+
+0.000
+
+H2 – Consumer behavior in e-tourism is influenced by
+information search
+
+0.384
+
+0.000
+
+H3 – Consumer behavior in e-tourism is influenced by
+service quality evaluation(disconfirmation period)
+
+0.220
+
+0.000
+
+DISCUSSION
+This study was undertaken to find out the determinants affecting the consumer behavior
+in e-tourism services (dependent variable) for the youth (16-35 years) in perspective of
+Taiwan. Three different determinants (generation of stimulus, Information search and
+service quality evaluation) were taken as the independent variable based and supported
+by previous studies and research. The final results depict that all the three independent
+variables significantly affect the consumer behavior in e-tourism services.
+
+CONCLUSION
+The final results of this research shows that all the three determinants considered in the
+present research were found to be significant (p-value=0.000) which means that the
+dependent variable of the study (consumer behavior in e-tourism services) is highly
+influenced and affected positively by all the three independent variables (generation of
+stimulus, information search and service quality evaluation) in the case of Taiwan.
+
+12
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+To explain further 80% of the total population of Taiwan is youth and is accustomed to
+the use of internet frequently (IWS, 2013). Taiwanese youth’s consumer behavior is
+affected by the stimulus generated by their own desires and interests in travel and are
+influenced by many applications present online for instance blogs, articles and social
+networking. These applications help the customers to know and understand the working
+and significance of a specific e-tourism service which creates new desires to plan a
+travel using the e-tourism service network and the consumer finally moves towards the
+next step of information search.
+The second determinant information search had a significant p- value in our results so
+we conclude that consumer behavior in e-tourism services is significantly influenced by
+information search. In order to explain more clearly we can say that customers after
+being influenced from the generated stimulus develops curiosity and he tends to collect
+information about e-tourism services; which he uses by generating awareness about the
+services by using distinct and unique ways based on their own personal experiences
+related to the use of e-tourism services. While searching information the customer gets
+influenced by the experiences of the fellowmen and gathers the required information by
+using word of mouth or digital word of mouth and he makes the final buying decision
+for the e-tourism services and moves to the next step of service quality evaluation.
+The third and final determinant of this study is service quality evaluation; our results
+have shown the significant p-value for this determinant as well, this step is the post
+purchase step where the consumer has already bought the travel product online and has
+experienced the services provided personally. In this stage the customer evaluates the
+services provided to him by comparing them to their desires have been met or not, the
+quality of the services promised was up to the mark or not, as mentioned at the time of
+buying product online. Finally based on his experiences he evaluates the service quality
+and comes to a level of satisfaction or dissatisfaction.
+Thus if the customer finds the service evaluation up to the mark he decides to stay loyal
+to the present service provider in order to fulfill his future travelling requirements
+moved by his satisfaction on the other hand if the customer finds himself dissatisfied he
+decides never to use the given service again.
+The original and newly developed models used in this study seems to be perfectly
+correlated with the principals and theoretical explanations used in this study in terms of
+Taiwan. Also the above mentioned phenomenon very clearly defines that the consumer
+behavior in e-tourism services in Taiwan’s perspective is very much affected by all the
+three determinants which were used as a part of this research (generation of stimulus,
+information search and service quality evaluation).
+Implementations
+The results of this study have theoretical as well as managerial implementations. At the
+managerial level the managers can have a fair idea of how e-tourism services need to
+be improved in Taiwan which can make the buying process smooth, convenient and
+easy; which in turn will help the business of e-tourism services to grow in a better and
+broader way.
+
+13
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+Theoretically readers will have a fair idea of consumer’s behavior while buying etourism services in case of Taiwan and they will also have a deep understanding of the
+kinds of models and methodologies used in these kinds of studies.
+Limitations
+This study attempted to establish a strong base for the future studies related to
+consumer behavior in e-tourism services. This research is been undertaken for the age
+group of (16-35 years) and the sample taken was from Taiwan so the results of this
+study could vary if the same kind of research is carried on in different countries. Also
+the determinants used in this study though were supported by past literature but there
+are many other determinants as well which could influence consumer behavior which
+could be considered and studied for determining the consumer behavior in e-tourism
+services process for Taiwan as well as for other countries.
+Future research
+For the future researchers we recommend to carry out the future research by
+considering a different age group to that of this study. The next level research can also
+be based on testing the determinants for two or more different countries together and
+comparing the final results to find out the difference between the consumer behavior in
+e-tourism services between the sample countries. The comparison could base on
+studying about consumer behavior in e-tourism services for a developed and
+developing nation so that a clear picture of the major differences in both nations in
+terms of consumer behavior for e-tourism can be obtained. We also recommend the
+future researchers to develop a new model based on past recent studies so as to get a
+fair idea of recent changes going on in e-tourism services which could be helpful for
+studying the consumer behavior in e-tourism services.
+
+REFERENCES
+Anon (2013a), Internet world stats.
+Anon (2013b), National Statistics, Taiwan. Available at: http://eng.stat.gov.tw/mp.asp?mp=5.
+Anon (2014), World Tourism Organization. Available at: http://www2.unwto.org/.
+Ashworth, G. & Goodall, B. (1988), Marketing in the tourism industry the promotion of destination regions,
+Routledge, London.
+Augustyn, M. & Ho, S.K. (1998), Service Quality and Tourism, Journal of Travel Research, 37(1), pp. 71–
+75.
+Bigne, E.J., Sanchez, I.M. & Sanchez, J. (2001), Tourism image , evaluation variables and after purchase
+behaviour :inter-relationship, Tourism Management, 22, pp. 607–616.
+Bitner, M.J. (1992), servicescapes: The impact of physical surroundings on customers and employees,
+Journal of Marketing, 56, pp. 57–71.
+Bolton, R.N. & Drew, J.H. (1991), A multi-stage model of customers’ assessments of service quality and
+value, Journal of Consumer Research, 17(march), pp. 375–84.
+Buhalis, D. & O’Connor, P. (2005), Information Communication Technology Revolutionizing Tourism,
+Tourism Recreation Research, 30(3), pp. 7–16.
+Carman, J.M. (1990), Consumer perceptions of service quality: an assessment of the SERVQUAL
+dimensions, Journal of Retailing, 66(1), pp. 33–55.
+Cohen, E. (2004), Toward a sociology of international tourism, Tourism: The nature and structure of
+tourism, (spring), pp. 174–187.
+Cotte, J. et al. (2006), Pleasure or utility? Time planning style and Web usage behaviors, Journal of
+Interactive Marketing, 20(1), pp. 45–57.
+
+14
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+Cronin, J.. & Taylor, S. (1992), Measuring service quality: A reexamination and extension, Journal of
+Marketing, 56(3), pp. 55–68.
+Cronin, J.J., Brady, M.K. & Hult, G.T.M. (2000), Assessing the effects of quality, value, and customer
+satisfaction on consumer behavioral intentions in service environments, Journal of Retailing,
+76(2), pp. 193–218.
+Delone, W.H. & Mclean, E.R. (2003), The DeLone and McLean Model of Information Systems Success : A
+Ten-Year Update, Journal of Management Information Systems, 19(4), pp. 9–30.
+Dominique, J. & Dimanche, F. (2009), Investing in technology for tourism activities: Perspectives and
+challenges, Technovation, 29(9), pp. 576–579.
+Edensor, T. (2006), Sensing tourist spaces. Travels in paradox:Remapping Tourism, Rowman & Littlefield
+Publishers.
+Fodness, D. & Murray, B. (1997), Tourist information search, Annals of Tourism Research, 24(3), pp. 503–
+523.
+Giddens, A. (1999), Modernity and self-identity, self and society in the late modern age 2nd ed., Stanford
+University press.
+Goossens, C. (2000), Tourism information and pleasure motivation, Annals of Tourism Research, 27(2), pp.
+301–321.
+Ho, C.-I. & Lee, Y.-L. (2007), The development of an e-travel service quality scale, Tourism Management,
+28(6), pp. 1434–1449.
+Horne, D. (1994), The un-accidental tourist—how to be a more intelligent and useful traveller and save the
+world, The Australian Magazine, pp. 10–16.
+Iso-Ahola, S.E. (1983), Towards a social psychology of recreational travel, Leisure Studies, 2(1), pp. 45–56.
+Kroeber-Riel, W. & Weinberg, P. (1999), Konsumentenverhalten, Verlag Vahlen.
+Litvin, S.W., Goldsmith, R.E. & Pan, B. (2008), Electronic word-of-mouth in hospitality and tourism
+management, Tourism Management, 29(3), pp. 458–468.
+Mills, J.E. & Law, R. (2004), Handbook of consumer behavior tourism and the internet, Journal of travel and
+tourism marketing, 2(3).
+Mill, R.C. & Morrison, A.M. (1985), The Tourism System: An Introductory Text., Englewood Cliffs NJ:
+Prentice Hall.
+Mittal, B. (1988), The role of affective choice mode in the consumer purchase of expressive products,
+Journal of Economic Psychology, 9, pp. 499–524.
+Murphy, P.E. (2013), Tourism: A community approach, Routledge.
+Nedelea, A. & Alina, B. (2010), E-tourism and tourism services consumer protection, Amfiteatru Economic
+Journal, 12(28), pp. 492–503.
+Oliver, R.L. (1980), A Cognitive Model of the Antecedents and Consequences of Satisfaction Decisions,
+Journal of Marketing Research, 17(4), pp. 460–469.
+Otto, J.E. & Ritchie, B.J.R. (1996), The service experience in tourism, Tourism Management, 17(3), pp. 165–
+174.
+Roberts, J. & Lattin, J.M. (1991), Development and testing of a model of consideration set composition,
+Journal of Marketing Research, 28(4), pp. 429–440.
+Rothschild, M. (1984), Perspectives on involvement: current problems and future directions, Advances in
+Consumer Research, 11, pp. 216–217.
+Shu, T.-C., Crompton, J.L. & Wilson, V.L. (2002), An empirical investigation of the relationships between
+service quality, satisfaction and behavioural intentions among visitors to a wildlife refuge, Journal
+of Leisure Research, 34(1), pp. 1–24.
+Spreng, R.A., Mackenzie, S.B. & Olshavsky, R.W. (1996), A reexamination of the determinants of consumer
+satisfaction, Journal of Marketing, 60(July), pp. 15–33.
+Stamboulis, Y. & Skayannis, P. (2003), Innovation strategies and technology for experience-based tourism,
+Tourism Management, 24(1), pp. 35–43.
+Stockdale, R. (2007), Managing customer relationships in the self-service environment of e-tourism, Journal
+of Vacation Marketing, 13(3), pp. 205–219.
+Tapscott, D. & Williams, A.D. (2006), Wikinomics:How mass collaboration changes everything., Penguin
+group.
+Uysal, M. & Jurowski, C. (1994), Testing the Push and Pull Factors, Annals of Tourism Research, 21(4), pp.
+844–846.
+Werthner, H. & Klein, S. (1999), ICT and the Changing Landscape of global tourism distribution, The
+changing Landscape of Global Tourism, 9(4), pp. 256–262.
+Xiang, Z. & Gretzel, U. (2010), Role of social media in online travel information search, Tourism
+Management, 31(2), pp. 179–188.
+
+15
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+APPENDIX: Questionnaire used in the research
+Evaluation Scale:
+(1) Strongly Disagree (2) Disagree (3) Neutral (4) Agree (5) Strongly Agree
+Questions
+
+References used
+
+Section 1 Generation of Stimulus
+1
+
+Do you agree that People plan travel because of their
+intrinsic desires?
+
+(Uysal & Jurowski
+1994)
+
+2
+
+Do you agree that people plan travelling because of the
+desire of quality life and to escape from regular routine?
+
+(Giddens 1999),
+(Horne 1994)
+
+3
+
+Do you agree that e-tourism services should always work
+on technologies as per customer’s interests?
+
+(Stamboulis &
+Skayannis 2003)
+
+Do you agree that e-tourism image is influenced by
+individual behavior of customers?
+
+(Ashworth &
+Goodall 1988),
+(Cohen
+2004),(Milman &
+Abraham 1995)
+
+4
+
+Section 2 Information Search
+5
+
+Do you think that awareness generated by e tourism
+services influences customers buying decisions?
+
+6
+
+Do you agree that personal experience strongly influence
+use of e-tourism services?
+
+7
+
+Do you agree that a satisfactory personal experience is
+one of the best promotion tool for any e-tourism service?
+
+8
+
+Do you agree that electronic word of mouth is one of the
+important information sources while making a purchase
+decision from any tourism website?
+
+9
+
+Do you agree that digital word of mouth induces new
+ways of analyzing, interpreting and managing the
+customer’s influences over each other?
+
+(Roberts & Lattin
+1991)
+
+(Murphy 2013)
+
+(Litvin et al. 2008)
+
+Section 3 Disconfirmation Period
+10
+
+Do you agree that e-service quality is inter-related with
+customer satisfaction?
+
+(Cronin et al.
+2000),(Spreng &
+Mackoy 1996)
+
+11
+
+Do you agree global evaluation of e-service quality
+influences customer behavior?
+
+(Bitner 1992),
+(Bolton & Drew
+1991),(Carman 1990)
+
+16
+
+Tourism and Hospitality Management, Vol. 21, No. 1, pp. 1-17, 2015
+A. Bajpai, C.W. Lee: CONSUMER BEHAVIOR IN E-TOURISM SERVICES: A CASE OF TAIWAN
+
+12
+
+Do you agree that Information quality, security, website
+functionality customer relationship and responsiveness
+are the most important components for e-tourism
+services?
+
+(Shu et al. 2002)
+
+Section 4 Customer Satisfaction/Dissatisfaction
+13
+
+Do you agree that e-tourism services must take special
+care of the image they create by providing services as it
+affects customer’s satisfaction?
+
+(Oliver 1980),
+(Spreng et al. 1996),
+(Tse & Wilton 1988)
+
+14
+
+Do you agree customer satisfaction is a result we get by
+comparing expectations and perception of the
+performance of e-tourism services?
+
+(Cronin & Taylor
+1992)
+
+15
+
+Do you think that customer satisfaction influences post
+purchase behavior in e-tourism?
+
+16
+
+Do you think Quality of e-tourism services affects
+customer’s satisfaction positively?
+
+(Bigne et al. 2001)
+
+Demographic Factors
+Gender
+Age
+Educational Qualification
+Job status
+Marital status
+
+Male
+Female
+16-25
+26-35
+36-45 45 above
+Undergraduate Graduate PhD.
+Part time Fulltime
+Married
+Single
+
+Akansha Bajpai, PhD, Student
+Chung Yuan Christian University, Chungli Taiwan
+200 Chung Pei Rd., Chung Li City, Taiwan 32023, R.O.C.
+E-mail: 20f.akansha@gmail.com
+Mobile: +886 978473221
+Cheng-Wen Lee, PhD, Professor
+International Business Department
+Chung Yuan Christian University, Chungli Taiwan
+200 Chung Pei Rd., Chung Li City, Taiwan 32023, R.O.C.
+E-mail: chengwen@cycu.edu.tw
+Mobile: +886 935333837
+
+17
+
+
